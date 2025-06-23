@@ -6,7 +6,7 @@ st.title('Visualización y Filtros de Jugadores - Scouting')
 
 @st.cache_data
 def load_data():
-    return pd.read_csv('D:\\Mexico FC\\Futbol_Madrid\\Madrid_futbol_2025.csv')
+    return pd.read_csv('Madrid_futbol_2025.csv')
 
 df = load_data()
 
