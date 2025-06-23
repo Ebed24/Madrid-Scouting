@@ -1,0 +1,1282 @@
+Numero,Nombre,Posicion,Equipo,Partidos_jugados,Partidos_titular,Goles,Asistencias,Tarjetas_amarillas,Edad,Altura,ELO,categoria,Goles_por_partido,Asistencias_por_partido,Participacion_goles,Participacion_por_partido,Posición_Club,Aporte_Goles,Aporte_Puntos,RC,IDR,Impacto_Total
+9.0,Jaime Barroso,Delanteros,REAL MADRID U19,21,17,16.0,0.0,4.0,17.0,184.0,37,División de Honor,0.76,0.0,16.0,0.76,1,22.54,7.04,0.76,2.67,0.538
+9.0,S. Esteban,Delanteros,ATLÉTICO U19,27,23,19.0,0.0,4.0,18.0,,43,División de Honor,0.7,0.0,19.0,0.7,2,23.17,8.36,0.66,2.44,0.521
+9.0,Sule,Delanteros,LEGANÉS U19,25,24,17.0,0.0,8.0,19.0,,41,División de Honor,0.68,0.0,17.0,0.68,3,26.56,10.79,0.6,1.04,0.496
+27.0,M. Company,Centrocampistas,REAL MADRID U19,2,0,1.0,0.0,0.0,16.0,,26,División de Honor,0.5,0.0,1.0,0.5,1,1.41,0.44,0.5,28.0,0.434
+20.0,Gabriel Castrelo,Centrocampistas,ATLÉTICO U19,15,11,8.0,0.0,1.0,18.0,,44,División de Honor,0.53,0.0,8.0,0.53,2,9.76,3.52,0.5,4.4,0.388
+16.0,M. Villafafila,Delanteros,VALLADOLID U19,21,14,13.0,0.0,3.0,19.0,185.0,43,División de Honor,0.62,0.0,13.0,0.62,5,26.53,9.13,0.47,0.14,0.443
+23.0,Jesús Barrios,Centrocampistas,ATLÉTICO U19,30,25,14.0,0.0,2.0,19.0,,43,División de Honor,0.47,0.0,14.0,0.47,2,17.07,6.16,0.44,2.2,0.392
+19.0,M. Cuéllar,Delanteros,GETAFE U19,27,24,14.0,0.0,4.0,18.0,191.0,32,División de Honor,0.52,0.0,14.0,0.52,4,33.33,8.88,0.43,0.15,0.403
+18.0,Tomy,Delanteros,UNIÓN ADARVE U19,17,14,10.0,0.0,3.0,18.0,,33,División de Honor,0.59,0.0,10.0,0.59,7,19.61,8.68,0.38,-0.06,0.41
+7.0,Yuri Menac,Centrocampistas,LEGANÉS U19,24,22,10.0,0.0,7.0,19.0,174.0,41,División de Honor,0.42,0.0,10.0,0.42,3,15.62,6.35,0.37,1.08,0.337
+19.0,Pol Rivera,Delanteros,REAL MADRID U19,26,14,9.0,0.0,5.0,18.0,,37,División de Honor,0.35,0.0,9.0,0.35,1,12.68,3.96,0.35,2.15,0.306
+10.0,Jorge Rajado,Delanteros,ATLÉTICO U19,19,10,7.0,0.0,2.0,19.0,175.0,40,División de Honor,0.37,0.0,7.0,0.37,2,8.54,3.08,0.35,3.47,0.301
+11.0,Aimar Santiago,Delanteros,REAL MADRID U19,27,19,9.0,0.0,0.0,18.0,,40,División de Honor,0.33,0.0,9.0,0.33,1,12.68,3.96,0.33,2.07,0.297
+29.0,Ariel Nkoghe,Defensas,REAL MADRID U19,3,2,1.0,0.0,0.0,18.0,184.0,33,División de Honor,0.33,0.0,1.0,0.33,1,1.41,0.44,0.33,18.67,0.293
+8.0,M. Pascual,Delanteros,UNIÓN ADARVE U19,2,0,1.0,0.0,0.0,19.0,,27,División de Honor,0.5,0.0,1.0,0.5,7,1.96,0.87,0.32,-0.5,0.304
+30.0,Rubén Gómez,Centrocampistas,ATLÉTICO U19,6,0,2.0,0.0,0.0,15.0,,31,División de Honor,0.33,0.0,2.0,0.33,2,2.44,0.88,0.31,11.0,0.268
+10.0,H. Castaño,Delanteros,RAYO VALLECANO U19,18,17,8.0,0.0,1.0,19.0,,34,División de Honor,0.44,0.0,8.0,0.44,6,17.78,5.74,0.31,0.17,0.325
+24.0,Iván Alonso,Delanteros,RAYO VALLECANO U19,17,15,7.0,0.0,3.0,19.0,,39,División de Honor,0.41,0.0,7.0,0.41,6,15.56,5.02,0.29,0.18,0.303
+10.0,Viti,Delanteros,LA CRUZ VILLANOVENSE U19,15,13,10.0,0.0,4.0,19.0,,43,División de Honor,0.67,0.0,10.0,0.67,11,28.57,8.92,0.28,-0.93,0.448
+24.0,C. Ortiz,Delanteros,REAL MADRID U19,4,0,1.0,0.0,0.0,19.0,,39,División de Honor,0.25,0.0,1.0,0.25,1,1.41,0.44,0.25,14.0,0.227
+20.0,Erik Vázquez,Centrocampistas,REAL MADRID U19,4,2,1.0,0.0,0.0,19.0,,36,División de Honor,0.25,0.0,1.0,0.25,1,1.41,0.44,0.25,14.0,0.227
+14.0,C. Sall,Defensas,RAYO MAJADAHONDA U19,10,8,8.0,0.0,2.0,,,29,División de Honor,0.8,0.0,8.0,0.8,13,25.0,7.54,0.24,-0.6,0.511
+9.0,L. Simon,Delanteros,LAS ROZAS CF U19,25,24,13.0,0.0,2.0,19.0,,35,División de Honor,0.52,0.0,13.0,0.52,10,31.71,11.59,0.24,-0.44,0.393
+8.0,Jorge Castillo,Centrocampistas,ATLÉTICO U19,25,20,6.0,0.0,1.0,19.0,180.0,44,División de Honor,0.24,0.0,6.0,0.24,2,7.32,2.64,0.23,2.64,0.239
+18.0,Óscar Bazaga,Delanteros,ATLÉTICO U19,21,6,5.0,0.0,0.0,17.0,,39,División de Honor,0.24,0.0,5.0,0.24,2,6.1,2.2,0.23,3.14,0.228
+7.0,Jairo Fernández,Delanteros,ATLÉTICO U19,21,11,5.0,0.0,1.0,19.0,178.0,38,División de Honor,0.24,0.0,5.0,0.24,2,6.1,2.2,0.23,3.14,0.228
+9.0,Juan Bonilla,Delanteros,VALLADOLID U19,7,5,2.0,0.0,0.0,19.0,184.0,27,División de Honor,0.29,0.0,2.0,0.29,5,4.08,1.4,0.22,0.43,0.199
+7.0,N. De La Carrera,Delanteros,BURGOS U19,26,20,11.0,0.0,6.0,19.0,,38,División de Honor,0.42,0.0,11.0,0.42,9,25.58,9.55,0.22,-0.04,0.338
+10.0,G. Siame,Centrocampistas,LEGANÉS U19,8,6,2.0,0.0,0.0,19.0,,28,División de Honor,0.25,0.0,2.0,0.25,3,3.12,1.27,0.22,3.25,0.191
+10.0,Pol Durán,Centrocampistas,REAL MADRID U19,15,14,3.0,0.0,0.0,18.0,176.0,41,División de Honor,0.2,0.0,3.0,0.2,1,4.23,1.32,0.2,3.73,0.187
+9.0,J. Borrella,Delanteros,RAYO VALLECANO U19,21,13,6.0,0.0,6.0,19.0,,29,División de Honor,0.29,0.0,6.0,0.29,6,13.33,4.3,0.2,0.14,0.245
+5.0,N. Linares,Centrocampistas,LEGANÉS U19,22,21,5.0,0.0,4.0,19.0,,37,División de Honor,0.23,0.0,5.0,0.23,3,7.81,3.17,0.2,1.18,0.217
+8.0,G. Rodriguez,Centrocampistas,LEGANÉS U19,23,16,5.0,0.0,2.0,19.0,,38,División de Honor,0.22,0.0,5.0,0.22,3,7.81,3.17,0.19,1.13,0.214
+8.0,Roberto Martín,Centrocampistas,REAL MADRID U19,26,25,5.0,0.0,5.0,18.0,177.0,40,División de Honor,0.19,0.0,5.0,0.19,1,7.04,2.2,0.19,2.15,0.21
+14.0,I. Navarro,Centrocampistas,RAYO VALLECANO U19,22,21,6.0,0.0,4.0,19.0,,40,División de Honor,0.27,0.0,6.0,0.27,6,13.33,4.3,0.19,0.14,0.236
+26.0,S. Salazar,Centrocampistas,GETAFE U19,27,20,6.0,0.0,3.0,16.0,,30,División de Honor,0.22,0.0,6.0,0.22,4,14.29,3.81,0.18,0.15,0.223
+18.0,Alejandro Notario,Delanteros,LEGANÉS U19,5,0,1.0,0.0,0.0,19.0,,26,División de Honor,0.2,0.0,1.0,0.2,3,1.56,0.63,0.18,5.2,0.16
+3.0,Diego Aguado,Defensas,REAL MADRID U19,22,21,4.0,0.0,8.0,18.0,180.0,39,División de Honor,0.18,0.0,4.0,0.18,1,5.63,1.76,0.18,2.55,0.193
+28.0,Noé,Centrocampistas,LEGANÉS U19,5,3,1.0,0.0,1.0,18.0,,35,División de Honor,0.2,0.0,1.0,0.2,3,1.56,0.63,0.18,5.2,0.16
+27.0,A. Pérez,Delanteros,REAL MADRID U19,6,4,1.0,0.0,0.0,17.0,176.0,29,División de Honor,0.17,0.0,1.0,0.17,1,1.41,0.44,0.17,9.33,0.164
+2.0,Jesús Fortea,Defensas,REAL MADRID U19,19,17,3.0,0.0,3.0,18.0,179.0,48,División de Honor,0.16,0.0,3.0,0.16,1,4.23,1.32,0.16,2.95,0.173
+7.0,E. Osorio,Centrocampistas,CD DIOCESANO U19,30,30,8.0,0.0,3.0,19.0,,44,División de Honor,0.27,0.0,8.0,0.27,8,24.24,6.95,0.16,-0.3,0.261
+7.0,César Porras,Delanteros,VALLADOLID U19,16,9,3.0,0.0,0.0,18.0,,40,División de Honor,0.19,0.0,3.0,0.19,5,6.12,2.11,0.15,0.19,0.168
+10.0,Y. San Miguel,Delanteros,VALLADOLID U19,25,19,5.0,0.0,0.0,19.0,170.0,35,División de Honor,0.2,0.0,5.0,0.2,5,10.2,3.51,0.15,0.12,0.204
+21.0,V. Valdepeñas,Defensas,REAL MADRID U19,13,12,2.0,0.0,1.0,18.0,187.0,44,División de Honor,0.15,0.0,2.0,0.15,1,2.82,0.88,0.15,4.31,0.153
+7.0,Adrián Pascu,Centrocampistas,VALLADOLID U19,20,17,4.0,0.0,1.0,18.0,163.0,41,División de Honor,0.2,0.0,4.0,0.2,5,8.16,2.81,0.15,0.15,0.187
+6.0,H. Sedano,Centrocampistas,BURGOS U19,21,17,6.0,0.0,9.0,19.0,,39,División de Honor,0.29,0.0,6.0,0.29,9,13.95,5.21,0.15,-0.05,0.244
+33.0,T. Pitarch,Centrocampistas,REAL MADRID U19,14,13,2.0,0.0,0.0,17.0,,32,División de Honor,0.14,0.0,2.0,0.14,1,2.82,0.88,0.14,4.0,0.149
+21.0,I. Motos,Delanteros,GETAFE U19,18,17,3.0,0.0,2.0,17.0,,37,División de Honor,0.17,0.0,3.0,0.17,4,7.14,1.9,0.14,0.22,0.163
+20.0,A. Perez,Delanteros,UNIÓN ADARVE U19,24,13,5.0,0.0,4.0,19.0,,28,División de Honor,0.21,0.0,5.0,0.21,7,9.8,4.34,0.14,-0.04,0.206
+14.0,A. Riquelme,Centrocampistas,GETAFE U19,6,6,1.0,0.0,0.0,19.0,,38,División de Honor,0.17,0.0,1.0,0.17,4,2.38,0.63,0.14,0.67,0.125
+11.0,Cobos,Delanteros,UNIÓN ADARVE U19,23,21,5.0,0.0,2.0,19.0,,32,División de Honor,0.22,0.0,5.0,0.22,7,9.8,4.34,0.14,-0.04,0.208
+9.0,L. Romero,Delanteros,CD DIOCESANO U19,27,26,6.0,0.0,3.0,17.0,,43,División de Honor,0.22,0.0,6.0,0.22,8,18.18,5.21,0.13,-0.33,0.221
+18.0,Daniel Conde,Centrocampistas,RAYO VALLECANO U19,27,25,5.0,0.0,5.0,18.0,171.0,38,División de Honor,0.19,0.0,5.0,0.19,6,11.11,3.59,0.13,0.11,0.205
+6.0,Á. González,Centrocampistas,LEGANÉS U19,26,23,4.0,0.0,2.0,19.0,,42,División de Honor,0.15,0.0,4.0,0.15,3,6.25,2.54,0.13,1.0,0.181
+11.0,Raúl Martin,Delanteros,RAYO VALLECANO U19,26,13,5.0,0.0,1.0,19.0,,40,División de Honor,0.19,0.0,5.0,0.19,6,11.11,3.59,0.13,0.12,0.201
+8.0,Rulo,Centrocampistas,VALLADOLID U19,18,17,3.0,0.0,5.0,18.0,177.0,41,División de Honor,0.17,0.0,3.0,0.17,5,6.12,2.11,0.13,0.17,0.163
+15.0,G. Gross,Centrocampistas,ATLÉTICO U19,21,9,3.0,0.0,0.0,17.0,,36,División de Honor,0.14,0.0,3.0,0.14,2,3.66,1.32,0.13,3.14,0.168
+7.0,Daniel Yañez,Delanteros,REAL MADRID U19,17,14,2.0,0.0,2.0,18.0,177.0,41,División de Honor,0.12,0.0,2.0,0.12,1,2.82,0.88,0.12,3.29,0.144
+3.0,Marco Leiton,Centrocampistas,LEGANÉS U19,22,20,3.0,0.0,7.0,19.0,177.0,39,División de Honor,0.14,0.0,3.0,0.14,3,4.69,1.9,0.12,1.18,0.163
+21.0,V. Sampedro,Centrocampistas,LAS ROZAS CF U19,24,18,6.0,0.0,2.0,19.0,,32,División de Honor,0.25,0.0,6.0,0.25,10,14.63,5.35,0.12,-0.46,0.228
+21.0,Sala,Centrocampistas,UNIÓN ADARVE U19,27,24,5.0,0.0,5.0,18.0,,29,División de Honor,0.19,0.0,5.0,0.19,7,9.8,4.34,0.12,-0.04,0.204
+9.0,Guti,Delanteros,UNIÓN ADARVE U19,22,18,4.0,0.0,4.0,19.0,,36,División de Honor,0.18,0.0,4.0,0.18,7,7.84,3.47,0.12,-0.05,0.181
+28.0,Carlos Diez,Centrocampistas,REAL MADRID U19,8,6,1.0,0.0,2.0,18.0,,31,División de Honor,0.12,0.0,1.0,0.12,1,1.41,0.44,0.12,7.0,0.13
+20.0,Alejandro Campos,Defensas,GETAFE U19,22,22,3.0,0.0,3.0,18.0,,39,División de Honor,0.14,0.0,3.0,0.14,4,7.14,1.9,0.12,0.18,0.158
+15.0,A. Cordero,Centrocampistas,VALLADOLID U19,21,12,3.0,0.0,4.0,18.0,,36,División de Honor,0.14,0.0,3.0,0.14,5,6.12,2.11,0.11,0.14,0.155
+9.0,E. De Bronze,Delanteros,RAYO C. ALCOBENDAS U19,28,21,9.0,0.0,9.0,,,33,División de Honor,0.32,0.0,9.0,0.32,12,21.95,8.25,0.11,-0.39,0.284
+11.0,S. Mulumba,Delanteros,LEGANÉS U19,23,17,3.0,0.0,4.0,19.0,,29,División de Honor,0.13,0.0,3.0,0.13,3,4.69,1.9,0.11,1.13,0.16
+19.0,E. Benjumea,Centrocampistas,CD DIOCESANO U19,22,11,4.0,0.0,1.0,19.0,,38,División de Honor,0.18,0.0,4.0,0.18,8,12.12,3.47,0.11,-0.41,0.179
+11.0,Bruno Citores,Delanteros,LA CRUZ VILLANOVENSE U19,29,25,7.0,0.0,2.0,19.0,,36,División de Honor,0.24,0.0,7.0,0.24,11,20.0,6.24,0.1,-0.48,0.238
+10.0,Nacho,Centrocampistas,UNIÓN ADARVE U19,25,19,4.0,0.0,2.0,19.0,,37,División de Honor,0.16,0.0,4.0,0.16,7,7.84,3.47,0.1,-0.04,0.179
+10.0,D. Antúnez,Delanteros,CD DIOCESANO U19,29,21,5.0,0.0,0.0,18.0,,41,División de Honor,0.17,0.0,5.0,0.17,8,15.15,4.34,0.1,-0.31,0.197
+11.0,L. Nielfa,Delanteros,RAYO C. ALCOBENDAS U19,14,10,4.0,0.0,1.0,,,27,División de Honor,0.29,0.0,4.0,0.29,12,9.76,3.67,0.1,-0.79,0.217
+22.0,Roi Torres,Defensas,REAL MADRID U19,20,8,2.0,0.0,2.0,19.0,,36,División de Honor,0.1,0.0,2.0,0.1,1,2.82,0.88,0.1,2.8,0.139
+9.0,M. Gonzalez,Delanteros,BURGOS U19,28,19,5.0,0.0,2.0,,,31,División de Honor,0.18,0.0,5.0,0.18,9,11.63,4.34,0.1,-0.04,0.201
+19.0,Emmanuel,Delanteros,UNIÓN ADARVE U19,26,10,4.0,0.0,2.0,19.0,,30,División de Honor,0.15,0.0,4.0,0.15,7,7.84,3.47,0.1,-0.04,0.176
+11.0,Daniel Muñoz,Defensas,ATLÉTICO U19,18,10,2.0,0.0,5.0,18.0,165.0,42,División de Honor,0.11,0.0,2.0,0.11,2,2.44,0.88,0.1,3.67,0.143
+17.0,Marc De Pedro,Centrocampistas,BURGOS U19,27,22,5.0,0.0,6.0,18.0,,41,División de Honor,0.19,0.0,5.0,0.19,9,11.63,4.34,0.1,-0.04,0.204
+11.0,Hugo Calvo,Delanteros,VALLADOLID U19,24,18,3.0,0.0,4.0,18.0,171.0,37,División de Honor,0.12,0.0,3.0,0.12,5,6.12,2.11,0.09,0.12,0.153
+16.0,Luis Bravo,Delanteros,UNIÓN ADARVE U19,7,1,1.0,0.0,1.0,19.0,,26,División de Honor,0.14,0.0,1.0,0.14,7,1.96,0.87,0.09,-0.14,0.107
+18.0,Joan Londoño,Delanteros,LEGANÉS U19,20,8,2.0,0.0,0.0,19.0,,33,División de Honor,0.1,0.0,2.0,0.1,3,3.12,1.27,0.09,1.3,0.133
+18.0,Olandia,Delanteros,VALLADOLID U19,24,11,3.0,0.0,3.0,17.0,,35,División de Honor,0.12,0.0,3.0,0.12,5,6.12,2.11,0.09,0.12,0.153
+15.0,M. Guerra,Defensas,UNIÓN ADARVE U19,7,5,1.0,0.0,2.0,,,26,División de Honor,0.14,0.0,1.0,0.14,7,1.96,0.87,0.09,-0.14,0.107
+15.0,T. Lugano,Centrocampistas,VALLADOLID U19,17,4,2.0,0.0,1.0,18.0,,29,División de Honor,0.12,0.0,2.0,0.12,5,4.08,1.4,0.09,0.18,0.129
+4.0,Adrián Almeida,Defensas,ATLÉTICO U19,21,14,2.0,0.0,4.0,19.0,,41,División de Honor,0.1,0.0,2.0,0.1,2,2.44,0.88,0.09,3.14,0.144
+18.0,A. Usero,Delanteros,LEGANÉS U19,22,5,2.0,0.0,1.0,18.0,,32,División de Honor,0.09,0.0,2.0,0.09,3,3.12,1.27,0.08,1.18,0.133
+2.0,Lucas Macazaga,Defensas,LEGANÉS U19,23,21,2.0,0.0,3.0,18.0,183.0,37,División de Honor,0.09,0.0,2.0,0.09,3,3.12,1.27,0.08,1.13,0.136
+8.0,G. Gutiérrez,Centrocampistas,RAYO VALLECANO U19,24,19,3.0,0.0,4.0,19.0,,34,División de Honor,0.12,0.0,3.0,0.12,6,6.67,2.15,0.08,0.12,0.153
+6.0,E. Bustos,Delanteros,LAS ROZAS CF U19,25,7,4.0,0.0,3.0,19.0,,27,División de Honor,0.16,0.0,4.0,0.16,10,9.76,3.57,0.08,-0.44,0.177
+22.0,I. Ramos,Centrocampistas,RAYO MAJADAHONDA U19,27,22,7.0,0.0,6.0,19.0,,35,División de Honor,0.26,0.0,7.0,0.26,13,21.88,6.6,0.08,-0.22,0.245
+29.0,Á. Lezcano,Defensas,REAL MADRID U19,12,10,1.0,0.0,2.0,17.0,,34,División de Honor,0.08,0.0,1.0,0.08,1,1.41,0.44,0.08,4.67,0.109
+6.0,I. Alani,Centrocampistas,VALLADOLID U19,10,10,1.0,0.0,2.0,18.0,175.0,33,División de Honor,0.1,0.0,1.0,0.1,5,2.04,0.7,0.08,0.3,0.095
+2.0,M. Barbero,Defensas,LAS ROZAS CF U19,25,25,4.0,0.0,6.0,18.0,,33,División de Honor,0.16,0.0,4.0,0.16,10,9.76,3.57,0.08,-0.44,0.177
+10.0,Jaime García,Delanteros,RAYO C. ALCOBENDAS U19,29,21,7.0,0.0,5.0,19.0,,36,División de Honor,0.24,0.0,7.0,0.24,12,17.07,6.42,0.08,-0.38,0.239
+17.0,I. González,Centrocampistas,VALLADOLID U19,19,8,2.0,0.0,0.0,17.0,,35,División de Honor,0.11,0.0,2.0,0.11,5,4.08,1.4,0.08,0.16,0.13
+10.0,I. De La Puebla,Centrocampistas,GETAFE U19,26,9,2.0,0.0,3.0,19.0,,29,División de Honor,0.08,0.0,2.0,0.08,4,4.76,1.27,0.07,0.15,0.135
+16.0,A. Macias,Centrocampistas,CD MÓSTOLES U19,23,18,7.0,0.0,0.0,19.0,,30,División de Honor,0.3,0.0,7.0,0.3,14,19.44,10.5,0.07,-1.43,0.25
+17.0,Joel Fortes,Defensas,GETAFE U19,25,21,2.0,0.0,3.0,18.0,,38,División de Honor,0.08,0.0,2.0,0.08,4,4.76,1.27,0.07,0.16,0.132
+4.0,S. Almarza,Defensas,LEGANÉS U19,24,20,2.0,0.0,5.0,18.0,,37,División de Honor,0.08,0.0,2.0,0.08,3,3.12,1.27,0.07,1.08,0.133
+17.0,Sergio Gervilla,Delanteros,CD DIOCESANO U19,8,1,1.0,0.0,1.0,19.0,,32,División de Honor,0.12,0.0,1.0,0.12,8,3.03,0.87,0.07,-1.12,0.094
+3.0,D. Hernaiz,Defensas,BURGOS U19,15,12,2.0,0.0,3.0,18.0,,40,División de Honor,0.13,0.0,2.0,0.13,9,4.65,1.74,0.07,-0.07,0.128
+18.0,Pablo Montero,Delanteros,REAL MADRID U19,15,2,1.0,0.0,0.0,18.0,172.0,37,División de Honor,0.07,0.0,1.0,0.07,1,1.41,0.44,0.07,3.73,0.109
+22.0,A. Casado,Centrocampistas,CD DIOCESANO U19,24,22,3.0,0.0,13.0,19.0,,36,División de Honor,0.12,0.0,3.0,0.12,8,9.09,2.61,0.07,-0.38,0.15
+5.0,Izan Regueira,Centrocampistas,REAL MADRID U19,27,22,2.0,0.0,2.0,19.0,,39,División de Honor,0.07,0.0,2.0,0.07,1,2.82,0.88,0.07,2.07,0.141
+7.0,Amores,Centrocampistas,UNIÓN ADARVE U19,19,6,2.0,0.0,3.0,19.0,,27,División de Honor,0.11,0.0,2.0,0.11,7,3.92,1.74,0.07,-0.05,0.129
+4.0,J. Aranda,Defensas,VALLADOLID U19,23,22,2.0,0.0,4.0,19.0,,40,División de Honor,0.09,0.0,2.0,0.09,5,4.08,1.4,0.07,0.13,0.131
+5.0,Neamti,Defensas,UNIÓN ADARVE U19,28,24,3.0,0.0,2.0,18.0,185.0,37,División de Honor,0.11,0.0,3.0,0.11,7,5.88,2.61,0.07,-0.04,0.159
+5.0,Pablo Pan,Defensas,ATLÉTICO U19,17,15,1.0,0.0,6.0,19.0,,39,División de Honor,0.06,0.0,1.0,0.06,2,1.22,0.44,0.06,3.88,0.11
+4.0,F. Sánchez,Defensas,BURGOS U19,28,26,3.0,0.0,5.0,19.0,,44,División de Honor,0.11,0.0,3.0,0.11,9,6.98,2.61,0.06,-0.04,0.159
+3.0,C. Jimenez,Centrocampistas,LEGANÉS U19,14,7,1.0,0.0,2.0,19.0,,36,División de Honor,0.07,0.0,1.0,0.07,3,1.56,0.63,0.06,1.86,0.097
+17.0,A. Pozo,Delanteros,LEGANÉS U19,14,2,1.0,0.0,1.0,,,33,División de Honor,0.07,0.0,1.0,0.07,3,1.56,0.63,0.06,1.86,0.097
+2.0,G. Quesada,Defensas,RAYO C. ALCOBENDAS U19,25,21,4.0,0.0,2.0,17.0,173.0,31,División de Honor,0.16,0.0,4.0,0.16,12,9.76,3.67,0.06,-0.44,0.177
+22.0,M. Verdú,Centrocampistas,GETAFE U19,27,25,2.0,0.0,7.0,18.0,,39,División de Honor,0.07,0.0,2.0,0.07,4,4.76,1.27,0.06,0.15,0.133
+12.0,Pedro Morón,Defensas,GETAFE U19,14,8,1.0,0.0,1.0,19.0,,37,División de Honor,0.07,0.0,1.0,0.07,4,2.38,0.63,0.06,0.29,0.09
+5.0,Mario López,Defensas,LA CRUZ VILLANOVENSE U19,7,6,1.0,0.0,3.0,19.0,,35,División de Honor,0.14,0.0,1.0,0.14,11,2.86,0.89,0.06,-2.0,0.098
+21.0,B. Echeverria,Centrocampistas,CD MÓSTOLES U19,26,23,7.0,0.0,4.0,18.0,175.0,32,División de Honor,0.27,0.0,7.0,0.27,14,19.44,10.5,0.06,-1.27,0.243
+10.0,Casca,Centrocampistas,RAYO MAJADAHONDA U19,29,22,6.0,0.0,3.0,19.0,179.0,37,División de Honor,0.21,0.0,6.0,0.21,13,18.75,5.66,0.06,-0.21,0.222
+3.0,Miguel Platero,Defensas,VALLADOLID U19,17,16,1.0,0.0,6.0,19.0,,37,División de Honor,0.06,0.0,1.0,0.06,5,2.04,0.7,0.05,0.18,0.093
+5.0,Lucas Calleja,Defensas,GETAFE U19,17,8,1.0,0.0,3.0,18.0,,39,División de Honor,0.06,0.0,1.0,0.06,4,2.38,0.63,0.05,0.24,0.094
+14.0,A. Mizuno,Centrocampistas,RAYO C. ALCOBENDAS U19,14,6,2.0,0.0,2.0,19.0,,37,División de Honor,0.14,0.0,2.0,0.14,12,4.88,1.83,0.05,-0.79,0.127
+7.0,M. Vaquero,Delanteros,CD MÓSTOLES U19,30,25,7.0,0.0,3.0,19.0,178.0,33,División de Honor,0.23,0.0,7.0,0.23,14,19.44,10.5,0.05,-1.1,0.233
+17.0,A. Hidalgo,Defensas,LA CRUZ VILLANOVENSE U19,15,10,2.0,0.0,3.0,,,30,División de Honor,0.13,0.0,2.0,0.13,11,5.71,1.78,0.05,-0.93,0.124
+8.0,Manuel Jardón,Centrocampistas,LA CRUZ VILLANOVENSE U19,24,22,3.0,0.0,7.0,19.0,,43,División de Honor,0.12,0.0,3.0,0.12,11,8.57,2.68,0.05,-0.58,0.149
+6.0,S. Martin,Centrocampistas,LEGANÉS U19,18,13,1.0,0.0,5.0,19.0,,30,División de Honor,0.06,0.0,1.0,0.06,3,1.56,0.63,0.05,1.44,0.103
+23.0,G. Aranaz,Delanteros,LAS ROZAS CF U19,30,29,3.0,0.0,4.0,16.0,,32,División de Honor,0.1,0.0,3.0,0.1,10,7.32,2.68,0.05,-0.37,0.158
+31.0,B. Del Olmo,Delanteros,CD MÓSTOLES U19,26,16,6.0,0.0,3.0,18.0,,34,División de Honor,0.23,0.0,6.0,0.23,14,16.67,9.0,0.05,-1.27,0.219
+11.0,M. Gross,Delanteros,LAS ROZAS CF U19,29,14,3.0,0.0,3.0,18.0,,29,División de Honor,0.1,0.0,3.0,0.1,10,7.32,2.68,0.05,-0.38,0.155
+16.0,T. Seidu,Centrocampistas,ATLÉTICO U19,22,16,1.0,0.0,3.0,17.0,,37,División de Honor,0.05,0.0,1.0,0.05,2,1.22,0.44,0.05,3.0,0.117
+24.0,R. Hueso,Defensas,ATLÉTICO U19,22,16,1.0,0.0,3.0,18.0,,41,División de Honor,0.05,0.0,1.0,0.05,2,1.22,0.44,0.05,3.0,0.117
+18.0,I. Expósito,Defensas,BURGOS U19,21,15,2.0,0.0,2.0,19.0,,41,División de Honor,0.1,0.0,2.0,0.1,9,4.65,1.74,0.05,-0.05,0.13
+14.0,Diego Pérez,Defensas,ATLÉTICO U19,20,15,1.0,0.0,5.0,19.0,,41,División de Honor,0.05,0.0,1.0,0.05,2,1.22,0.44,0.05,3.3,0.112
+14.0,Hame Sussoho,Delanteros,BURGOS U19,24,8,2.0,0.0,2.0,19.0,,35,División de Honor,0.08,0.0,2.0,0.08,9,4.65,1.74,0.04,-0.04,0.128
+15.0,I. Fernández,Delanteros,LA CRUZ VILLANOVENSE U19,30,28,3.0,0.0,4.0,19.0,,41,División de Honor,0.1,0.0,3.0,0.1,11,8.57,2.68,0.04,-0.47,0.158
+7.0,Chispa,Delanteros,LA CRUZ VILLANOVENSE U19,29,15,3.0,0.0,2.0,19.0,,29,División de Honor,0.1,0.0,3.0,0.1,11,8.57,2.68,0.04,-0.48,0.154
+19.0,S. Alvarez,Centrocampistas,LAS ROZAS CF U19,22,5,2.0,0.0,0.0,19.0,,27,División de Honor,0.09,0.0,2.0,0.09,10,4.88,1.78,0.04,-0.5,0.125
+33.0,D. Martinez,Delanteros,ALCORCÓN U19,19,8,4.0,0.0,2.0,18.0,,33,División de Honor,0.21,0.0,4.0,0.21,15,14.29,6.0,0.04,-2.11,0.18
+2.0,David Arza,Defensas,ATLÉTICO U19,26,20,1.0,0.0,6.0,19.0,181.0,43,División de Honor,0.04,0.0,1.0,0.04,2,1.22,0.44,0.04,2.54,0.122
+26.0,B. Auguste,Defensas,LEGANÉS U19,21,21,1.0,0.0,2.0,18.0,,29,División de Honor,0.05,0.0,1.0,0.05,3,1.56,0.63,0.04,1.24,0.106
+27.0,O. Torrellas,Defensas,ATLÉTICO U19,23,16,1.0,0.0,4.0,18.0,,39,División de Honor,0.04,0.0,1.0,0.04,2,1.22,0.44,0.04,2.87,0.114
+20.0,Liberto,Defensas,REAL MADRID U19,25,16,1.0,0.0,4.0,18.0,181.0,31,División de Honor,0.04,0.0,1.0,0.04,1,1.41,0.44,0.04,2.24,0.118
+16.0,Sang-min Lee,Centrocampistas,GETAFE U19,21,12,1.0,0.0,3.0,19.0,169.0,31,División de Honor,0.05,0.0,1.0,0.05,4,2.38,0.63,0.04,0.19,0.101
+8.0,Jorge Trinidad,Centrocampistas,CD DIOCESANO U19,27,23,2.0,0.0,1.0,19.0,170.0,45,División de Honor,0.07,0.0,2.0,0.07,8,6.06,1.74,0.04,-0.33,0.13
+5.0,Pedro Soria,Defensas,CD DIOCESANO U19,16,13,1.0,0.0,2.0,19.0,,42,División de Honor,0.06,0.0,1.0,0.06,8,3.03,0.87,0.04,-0.56,0.087
+17.0,A. Garcia,Delanteros,RAYO VALLECANO U19,22,6,1.0,0.0,1.0,18.0,,30,División de Honor,0.05,0.0,1.0,0.05,6,2.22,0.72,0.04,0.14,0.104
+7.0,H. Entero,Centrocampistas,RAYO C. ALCOBENDAS U19,28,27,3.0,0.0,3.0,17.0,,31,División de Honor,0.11,0.0,3.0,0.11,12,7.32,2.75,0.04,-0.39,0.158
+15.0,D. San Miguel,Delanteros,BURGOS U19,26,10,2.0,0.0,1.0,19.0,,35,División de Honor,0.08,0.0,2.0,0.08,9,4.65,1.74,0.04,-0.04,0.134
+8.0,I. Hernando,Centrocampistas,BURGOS U19,26,24,2.0,0.0,4.0,19.0,,37,División de Honor,0.08,0.0,2.0,0.08,9,4.65,1.74,0.04,-0.04,0.134
+19.0,J. Calles,Delanteros,RAYO C. ALCOBENDAS U19,16,4,2.0,0.0,0.0,19.0,,31,División de Honor,0.12,0.0,2.0,0.12,12,4.88,1.83,0.04,-0.69,0.122
+28.0,A. De La Morena,Centrocampistas,RAYO VALLECANO U19,19,7,1.0,0.0,2.0,17.0,,35,División de Honor,0.05,0.0,1.0,0.05,6,2.22,0.72,0.04,0.16,0.094
+6.0,Nano,Centrocampistas,LA CRUZ VILLANOVENSE U19,10,4,1.0,0.0,2.0,19.0,,34,División de Honor,0.1,0.0,1.0,0.1,11,2.86,0.89,0.04,-1.4,0.087
+9.0,A. Martin,Delanteros,ALCORCÓN U19,27,20,6.0,0.0,1.0,19.0,,38,División de Honor,0.22,0.0,6.0,0.22,15,21.43,9.0,0.04,-1.48,0.215
+9.0,A. Tena,Centrocampistas,LA CRUZ VILLANOVENSE U19,13,1,1.0,0.0,1.0,19.0,,34,División de Honor,0.08,0.0,1.0,0.08,11,2.86,0.89,0.03,-1.08,0.086
+11.0,A. Del Águila,Centrocampistas,GETAFE U19,28,28,1.0,0.0,0.0,17.0,,39,División de Honor,0.04,0.0,1.0,0.04,4,2.38,0.63,0.03,0.14,0.118
+7.0,I. Ramirez,Centrocampistas,RAYO VALLECANO U19,27,11,1.0,0.0,0.0,19.0,,38,División de Honor,0.04,0.0,1.0,0.04,6,2.22,0.72,0.03,0.11,0.115
+22.0,S. Espejo,Centrocampistas,UNIÓN ADARVE U19,27,25,1.0,0.0,7.0,19.0,,31,División de Honor,0.04,0.0,1.0,0.04,7,1.96,0.87,0.03,-0.04,0.114
+4.0,K. Jankowski,Defensas,LA CRUZ VILLANOVENSE U19,29,29,2.0,0.0,6.0,18.0,,31,División de Honor,0.07,0.0,2.0,0.07,11,5.71,1.78,0.03,-0.48,0.136
+20.0,G. Rawinad,Centrocampistas,ALCORCÓN U19,13,1,2.0,0.0,2.0,19.0,,33,División de Honor,0.15,0.0,2.0,0.15,15,7.14,3.0,0.03,-3.08,0.119
+18.0,M. Garrote,Centrocampistas,RAYO C. ALCOBENDAS U19,13,12,1.0,0.0,2.0,19.0,,27,División de Honor,0.08,0.0,1.0,0.08,12,2.44,0.92,0.03,-0.85,0.087
+23.0,Alex,Defensas,UNIÓN ADARVE U19,24,14,1.0,0.0,6.0,19.0,,30,División de Honor,0.04,0.0,1.0,0.04,7,1.96,0.87,0.03,-0.04,0.104
+24.0,F. Cordero,Centrocampistas,CD MÓSTOLES U19,28,19,4.0,0.0,7.0,19.0,,29,División de Honor,0.14,0.0,4.0,0.14,14,11.11,6.0,0.03,-1.18,0.172
+14.0,V. Pascual Del Río,Delanteros,ALCORCÓN U19,27,20,5.0,0.0,1.0,19.0,,38,División de Honor,0.19,0.0,5.0,0.19,15,17.86,7.5,0.03,-1.48,0.197
+7.0,J. Celada,Centrocampistas,GETAFE U19,24,9,1.0,0.0,0.0,18.0,,35,División de Honor,0.04,0.0,1.0,0.04,4,2.38,0.63,0.03,0.17,0.105
+20.0,A. Pardo,Defensas,RAYO MAJADAHONDA U19,22,22,2.0,0.0,8.0,19.0,,39,División de Honor,0.09,0.0,2.0,0.09,13,6.25,1.89,0.03,-0.27,0.126
+5.0,Galde,Defensas,VALLADOLID U19,25,22,1.0,0.0,3.0,17.0,181.0,39,División de Honor,0.04,0.0,1.0,0.04,5,2.04,0.7,0.03,0.12,0.108
+8.0,S. Gonzalez,Centrocampistas,FUENLABRADA U19,8,3,2.0,0.0,0.0,19.0,,36,División de Honor,0.25,0.0,2.0,0.25,16,6.06,3.3,0.03,-4.0,0.158
+8.0,M. Calderero,Centrocampistas,GETAFE U19,27,19,1.0,0.0,5.0,19.0,,40,División de Honor,0.04,0.0,1.0,0.04,4,2.38,0.63,0.03,0.15,0.115
+4.0,M. Cuesta,Defensas,RAYO MAJADAHONDA U19,29,29,3.0,0.0,3.0,19.0,,43,División de Honor,0.1,0.0,3.0,0.1,13,9.38,2.83,0.03,-0.21,0.156
+9.0,M. Talavera,Centrocampistas,RAYO MAJADAHONDA U19,23,18,2.0,0.0,4.0,19.0,181.0,36,División de Honor,0.09,0.0,2.0,0.09,13,6.25,1.89,0.03,-0.26,0.129
+3.0,Santi Silva,Defensas,RAYO VALLECANO U19,28,26,1.0,0.0,3.0,19.0,173.0,36,División de Honor,0.04,0.0,1.0,0.04,6,2.22,0.72,0.03,0.11,0.118
+16.0,P. Bomwinsum,Centrocampistas,RAYO MAJADAHONDA U19,11,11,1.0,0.0,7.0,,,30,División de Honor,0.09,0.0,1.0,0.09,13,3.12,0.94,0.03,-0.55,0.088
+3.0,R. Plata,Defensas,CD MÓSTOLES U19,28,28,3.0,0.0,6.0,19.0,,39,División de Honor,0.11,0.0,3.0,0.11,14,8.33,4.5,0.03,-1.18,0.154
+15.0,H. Paniagua,Defensas,GETAFE U19,28,27,1.0,0.0,7.0,19.0,,38,División de Honor,0.04,0.0,1.0,0.04,4,2.38,0.63,0.03,0.14,0.118
+4.0,Adrián Cruz,Defensas,RAYO VALLECANO U19,28,28,1.0,0.0,5.0,19.0,,39,División de Honor,0.04,0.0,1.0,0.04,6,2.22,0.72,0.03,0.11,0.118
+2.0,Almeida,Defensas,RAYO C. ALCOBENDAS U19,20,13,1.0,0.0,0.0,18.0,,29,División de Honor,0.05,0.0,1.0,0.05,12,2.44,0.92,0.02,-0.55,0.094
+10.0,M. García,Delanteros,FUENLABRADA U19,26,20,5.0,0.0,0.0,19.0,,36,División de Honor,0.19,0.0,5.0,0.19,16,15.15,8.25,0.02,-1.23,0.195
+5.0,A. Maiga,Defensas,BURGOS U19,29,27,1.0,0.0,4.0,18.0,,42,División de Honor,0.03,0.0,1.0,0.03,9,2.33,0.87,0.02,-0.03,0.115
+15.0,D. López,Delanteros,RAYO C. ALCOBENDAS U19,16,4,1.0,0.0,4.0,18.0,,31,División de Honor,0.06,0.0,1.0,0.06,12,2.44,0.92,0.02,-0.69,0.086
+3.0,J. Guerediaga,Defensas,ALCORCÓN U19,23,22,2.0,0.0,7.0,19.0,,35,División de Honor,0.09,0.0,2.0,0.09,15,7.14,3.0,0.02,-1.74,0.123
+12.0,A. Ortega,Defensas,CD DIOCESANO U19,26,25,1.0,0.0,8.0,18.0,,38,División de Honor,0.04,0.0,1.0,0.04,8,3.03,0.87,0.02,-0.35,0.109
+19.0,G. Diaz,Defensas,ALCORCÓN U19,18,10,2.0,0.0,2.0,19.0,,37,División de Honor,0.11,0.0,2.0,0.11,15,7.14,3.0,0.02,-2.22,0.116
+18.0,Mario Galán,Centrocampistas,CD DIOCESANO U19,23,8,1.0,0.0,1.0,18.0,,41,División de Honor,0.04,0.0,1.0,0.04,8,3.03,0.87,0.02,-0.39,0.099
+15.0,D. Gonzalez,Defensas,CD DIOCESANO U19,28,28,1.0,0.0,1.0,19.0,,45,División de Honor,0.04,0.0,1.0,0.04,8,3.03,0.87,0.02,-0.32,0.116
+9.0,A. De Avila,Defensas,FUENLABRADA U19,24,15,5.0,0.0,2.0,,,35,División de Honor,0.21,0.0,5.0,0.21,16,15.15,8.25,0.02,-1.33,0.2
+14.0,A. Iriondo,Centrocampistas,RAYO C. ALCOBENDAS U19,27,8,2.0,0.0,0.0,18.0,,28,División de Honor,0.07,0.0,2.0,0.07,12,4.88,1.83,0.02,-0.41,0.13
+10.0,G. De La Mata,Delanteros,LAS ROZAS CF U19,28,11,1.0,0.0,1.0,18.0,,32,División de Honor,0.04,0.0,1.0,0.04,10,2.44,0.89,0.02,-0.39,0.116
+4.0,M. Carmena,Defensas,LAS ROZAS CF U19,25,24,1.0,0.0,9.0,19.0,,32,División de Honor,0.04,0.0,1.0,0.04,10,2.44,0.89,0.02,-0.44,0.105
+5.0,B. Medina,Defensas,LAS ROZAS CF U19,24,24,1.0,0.0,5.0,17.0,,32,División de Honor,0.04,0.0,1.0,0.04,10,2.44,0.89,0.02,-0.46,0.102
+20.0,P. Zarzuela,Centrocampistas,LAS ROZAS CF U19,22,11,1.0,0.0,5.0,19.0,,33,División de Honor,0.05,0.0,1.0,0.05,10,2.44,0.89,0.02,-0.5,0.101
+22.0,B. Garcia,Centrocampistas,LAS ROZAS CF U19,22,15,1.0,0.0,1.0,19.0,,29,División de Honor,0.05,0.0,1.0,0.05,10,2.44,0.89,0.02,-0.5,0.101
+18.0,M. Lindo,Centrocampistas,FUENLABRADA U19,27,25,5.0,0.0,10.0,19.0,,36,División de Honor,0.19,0.0,5.0,0.19,16,15.15,8.25,0.02,-1.19,0.199
+9.0,Igor Sava,Delanteros,FUENLABRADA U19,21,8,3.0,0.0,3.0,19.0,,28,División de Honor,0.14,0.0,3.0,0.14,16,9.09,4.95,0.02,-1.52,0.147
+30.0,J. Torija,Centrocampistas,ALCORCÓN U19,8,4,1.0,0.0,1.0,19.0,,26,División de Honor,0.12,0.0,1.0,0.12,15,3.57,1.5,0.02,-5.0,0.076
+16.0,Pablo Marcos,Delanteros,BURGOS U19,27,23,1.0,0.0,8.0,19.0,,38,División de Honor,0.04,0.0,1.0,0.04,9,2.33,0.87,0.02,-0.04,0.114
+11.0,Daniel Utrera,Delanteros,FUENLABRADA U19,26,21,4.0,0.0,3.0,18.0,173.0,30,División de Honor,0.15,0.0,4.0,0.15,16,12.12,6.6,0.02,-1.23,0.171
+15.0,H. Lopez,Centrocampistas,BURGOS U19,27,17,1.0,0.0,4.0,19.0,,29,División de Honor,0.04,0.0,1.0,0.04,9,2.33,0.87,0.02,-0.04,0.114
+11.0,Álex Martín,Centrocampistas,ALCORCÓN U19,10,10,1.0,0.0,2.0,19.0,178.0,33,División de Honor,0.1,0.0,1.0,0.1,15,3.57,1.5,0.02,-4.0,0.075
+17.0,M. Peñarando,Delanteros,ALCORCÓN U19,23,9,1.0,0.0,3.0,18.0,183.0,28,División de Honor,0.04,0.0,1.0,0.04,15,3.57,1.5,0.01,-1.74,0.093
+16.0,Rubén Olea,Defensas,RAYO C. ALCOBENDAS U19,24,19,1.0,0.0,1.0,18.0,,34,División de Honor,0.04,0.0,1.0,0.04,12,2.44,0.92,0.01,-0.46,0.102
+5.0,A. Lopez,Defensas,ALCORCÓN U19,23,22,1.0,0.0,5.0,19.0,,39,División de Honor,0.04,0.0,1.0,0.04,15,3.57,1.5,0.01,-1.74,0.093
+4.0,Sergio Canos,Centrocampistas,RAYO C. ALCOBENDAS U19,26,24,1.0,0.0,6.0,19.0,,39,División de Honor,0.04,0.0,1.0,0.04,12,2.44,0.92,0.01,-0.42,0.109
+8.0,D. Quevedo,Centrocampistas,RAYO C. ALCOBENDAS U19,25,23,1.0,0.0,5.0,19.0,,38,División de Honor,0.04,0.0,1.0,0.04,12,2.44,0.92,0.01,-0.44,0.105
+6.0,Yahya Bourjila,Centrocampistas,RAYO C. ALCOBENDAS U19,29,29,1.0,0.0,9.0,19.0,,39,División de Honor,0.03,0.0,1.0,0.03,12,2.44,0.92,0.01,-0.38,0.113
+6.0,Adrián Pascual,Centrocampistas,ALCORCÓN U19,23,15,1.0,0.0,8.0,18.0,,36,División de Honor,0.04,0.0,1.0,0.04,15,3.57,1.5,0.01,-1.74,0.093
+23.0,Isaac García,Centrocampistas,FUENLABRADA U19,28,18,3.0,0.0,10.0,19.0,,36,División de Honor,0.11,0.0,3.0,0.11,16,9.09,4.95,0.01,-1.14,0.154
+23.0,D. Diaz,Delanteros,RAYO MAJADAHONDA U19,23,6,1.0,0.0,4.0,19.0,,32,División de Honor,0.04,0.0,1.0,0.04,13,3.12,0.94,0.01,-0.26,0.099
+14.0,A. Raul,Defensas,LAS ROZAS CF U19,29,29,1.0,0.0,6.0,19.0,,38,División de Honor,0.03,0.0,1.0,0.03,10,2.44,0.89,0.01,-0.38,0.113
+3.0,A. Diatta,Defensas,RAYO MAJADAHONDA U19,29,28,1.0,0.0,3.0,19.0,,39,División de Honor,0.03,0.0,1.0,0.03,13,3.12,0.94,0.01,-0.21,0.114
+17.0,Samuel García,Defensas,LA CRUZ VILLANOVENSE U19,29,22,1.0,0.0,3.0,19.0,,38,División de Honor,0.03,0.0,1.0,0.03,11,2.86,0.89,0.01,-0.48,0.112
+14.0,H. Aranda,Centrocampistas,CD MÓSTOLES U19,21,21,1.0,0.0,3.0,19.0,193.0,40,División de Honor,0.05,0.0,1.0,0.05,14,2.78,1.5,0.01,-1.57,0.093
+30.0,Angulo,Defensas,FUENLABRADA U19,27,27,2.0,0.0,4.0,17.0,193.0,31,División de Honor,0.07,0.0,2.0,0.07,16,6.06,3.3,0.01,-1.19,0.127
+5.0,A. Gonzalez,Defensas,FUENLABRADA U19,8,7,1.0,0.0,5.0,,,28,División de Honor,0.12,0.0,1.0,0.12,16,3.03,1.65,0.01,-4.0,0.08
+5.0,I. Garcia,Centrocampistas,FUENLABRADA U19,10,3,1.0,0.0,1.0,19.0,,34,División de Honor,0.1,0.0,1.0,0.1,16,3.03,1.65,0.01,-3.2,0.079
+24.0,V. Garcia,Centrocampistas,RAYO MAJADAHONDA U19,24,13,1.0,0.0,2.0,19.0,,36,División de Honor,0.04,0.0,1.0,0.04,13,3.12,0.94,0.01,-0.25,0.103
+14.0,Mario Rivas,Defensas,REAL MADRID U19,1,1,0.0,0.0,0.0,18.0,188.0,35,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,56.0,0.258
+15.0,Melvin Ukpeigbe,Defensas,REAL MADRID U19,8,7,0.0,0.0,1.0,18.0,176.0,39,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,7.0,0.058
+17.0,Óscar Mesa,Defensas,REAL MADRID U19,22,13,0.0,0.0,3.0,18.0,178.0,43,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,2.55,0.085
+34.0,S. Castellón,Delanteros,RAYO VALLECANO U19,3,2,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,1.0,0.015
+2.0,M. Hernando,Defensas,BURGOS U19,26,21,0.0,0.0,4.0,19.0,,33,División de Honor,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.04,0.086
+26.0,F. Seco,Defensas,REAL MADRID U19,4,1,0.0,0.0,0.0,17.0,,32,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,14.0,0.077
+12.0,N. Sylla,Delanteros,VALLADOLID U19,4,1,0.0,0.0,0.0,18.0,,29,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.75,0.017
+29.0,Nico Fernández,Centrocampistas,ATLÉTICO U19,1,0,0.0,0.0,0.0,18.0,,26,División de Honor,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,66.0,0.303
+3.0,F. Vaquero,Delanteros,VALLADOLID U19,22,15,0.0,0.0,2.0,19.0,,37,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.14,0.074
+23.0,L. Fati,Defensas,REAL MADRID U19,14,13,0.0,0.0,2.0,19.0,180.0,40,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,4.0,0.065
+14.0,G. Diaz,Defensas,BURGOS U19,7,5,0.0,0.0,3.0,18.0,,32,División de Honor,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.14,0.023
+34.0,A. David,Defensas,ALCORCÓN U19,15,7,0.0,0.0,1.0,,,35,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-2.67,0.038
+22.0,Sergio Lozano,Defensas,RAYO VALLECANO U19,1,1,0.0,0.0,1.0,19.0,175.0,42,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,3.0,0.017
+11.0,Raul Jusdado,Delanteros,RAYO MAJADAHONDA U19,23,6,0.0,0.0,2.0,19.0,,33,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.26,0.075
+2.0,A. Dos Reis,Defensas,RAYO VALLECANO U19,3,0,0.0,0.0,0.0,,,37,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,1.0,0.015
+27.0,G. Mesonero,Defensas,RAYO VALLECANO U19,29,28,0.0,0.0,1.0,17.0,,32,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.1,0.097
+16.0,H. Castañeda,Centrocampistas,BURGOS U19,11,3,0.0,0.0,3.0,19.0,,41,División de Honor,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.09,0.036
+6.0,Marco Roman Santos,Centrocampistas,RAYO VALLECANO U19,27,27,0.0,0.0,5.0,19.0,,38,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.11,0.091
+23.0,Samu Becerra,Centrocampistas,RAYO VALLECANO U19,1,1,0.0,0.0,1.0,19.0,,37,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,3.0,0.017
+14.0,De la Cámara,Centrocampistas,BURGOS U19,3,0,0.0,0.0,0.0,16.0,,38,División de Honor,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.33,0.009
+29.0,P. Melero,Centrocampistas,RAYO VALLECANO U19,1,0,0.0,0.0,0.0,18.0,,30,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,3.0,0.017
+16.0,L. Cano,Centrocampistas,RAYO VALLECANO U19,9,1,0.0,0.0,1.0,19.0,,34,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.33,0.032
+9.0,Mario Domínguez,Delanteros,VALLADOLID U19,3,2,0.0,0.0,0.0,16.0,,30,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.0,0.015
+12.0,P. Sanz,Defensas,BURGOS U19,21,13,0.0,0.0,4.0,19.0,,34,División de Honor,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.05,0.07
+12.0,B. Madruga,Defensas,BURGOS U19,4,3,0.0,0.0,1.0,,,37,División de Honor,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.25,0.012
+32.0,S. Garcia,Centrocampistas,RAYO VALLECANO U19,10,5,0.0,0.0,1.0,,,42,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.3,0.035
+18.0,S. García,Defensas,BURGOS U19,2,0,0.0,0.0,0.0,18.0,,32,División de Honor,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.5,0.004
+33.0,K. Antonopoulos,Defensas,RAYO VALLECANO U19,1,0,0.0,0.0,1.0,,,26,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,3.0,0.017
+15.0,S. Garcia,Defensas,RAYO VALLECANO U19,9,6,0.0,0.0,1.0,19.0,,26,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.33,0.032
+11.0,N. Garralon,Delanteros,RAYO VALLECANO U19,11,0,0.0,0.0,1.0,19.0,,30,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.27,0.038
+19.0,P. Serón,Delanteros,RAYO VALLECANO U19,8,2,0.0,0.0,1.0,19.0,,32,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.38,0.028
+5.0,L. Jordan,Defensas,RAYO VALLECANO U19,18,11,0.0,0.0,4.0,18.0,,35,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.17,0.061
+7.0,A. Fernández,Delanteros,VALLADOLID U19,24,10,0.0,0.0,1.0,18.0,,36,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.12,0.081
+26.0,D. Alexandru,Defensas,RAYO VALLECANO U19,19,15,0.0,0.0,4.0,18.0,,31,División de Honor,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.16,0.064
+12.0,Emanuel,Defensas,REAL MADRID U19,1,0,0.0,0.0,0.0,17.0,,36,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,56.0,0.258
+6.0,Juan Murcia,Centrocampistas,VALLADOLID U19,23,21,0.0,0.0,1.0,18.0,178.0,35,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.13,0.077
+26.0,A. Tamargo,Centrocampistas,ATLÉTICO U19,13,7,0.0,0.0,1.0,18.0,,39,División de Honor,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,5.08,0.066
+10.0,Nico,Delanteros,ALCORCÓN U19,1,1,0.0,0.0,0.0,18.0,178.0,37,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-40.0,-0.178
+20.0,A. Kobayashi,Centrocampistas,ALCORCÓN U19,3,1,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-13.33,-0.051
+18.0,T. Rainelli,Centrocampistas,ALCORCÓN U19,1,0,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-40.0,-0.178
+8.0,Tristán,Centrocampistas,UNIÓN ADARVE U19,15,13,0.0,0.0,2.0,19.0,,30,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.07,0.05
+23.0,T. Mohammed,Centrocampistas,ALCORCÓN U19,4,4,0.0,0.0,0.0,19.0,,26,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-10.0,-0.032
+6.0,Ivan Rivas,Centrocampistas,UNIÓN ADARVE U19,3,2,0.0,0.0,0.0,19.0,,30,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.33,0.009
+14.0,Ángel,Centrocampistas,UNIÓN ADARVE U19,7,2,0.0,0.0,2.0,19.0,,26,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.14,0.023
+14.0,R. Sánchez,Centrocampistas,UNIÓN ADARVE U19,1,0,0.0,0.0,0.0,,,27,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-1.0,-0.001
+17.0,Caballero,Centrocampistas,UNIÓN ADARVE U19,15,7,0.0,0.0,2.0,19.0,,26,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.07,0.05
+15.0,A. Santos,Centrocampistas,UNIÓN ADARVE U19,1,0,0.0,0.0,0.0,,,27,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-1.0,-0.001
+18.0,M. Martinez,Centrocampistas,ALCORCÓN U19,8,4,0.0,0.0,1.0,19.0,,26,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-5.0,0.004
+12.0,S. Marjani,Centrocampistas,ALCORCÓN U19,4,4,0.0,0.0,0.0,19.0,,33,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-10.0,-0.032
+8.0,Pedro Samso,Centrocampistas,ALCORCÓN U19,7,3,0.0,0.0,1.0,19.0,174.0,36,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-5.71,-0.003
+9.0,A. Siso,Delanteros,UNIÓN ADARVE U19,8,3,0.0,0.0,0.0,18.0,,26,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.12,0.026
+20.0,S. Salem,Centrocampistas,ALCORCÓN U19,6,5,0.0,0.0,1.0,19.0,,28,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-6.67,-0.01
+27.0,R. Perez,Delanteros,UNIÓN ADARVE U19,2,0,0.0,0.0,1.0,,,27,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.5,0.004
+12.0,H. Fernández,Defensas,ALCORCÓN U19,3,0,0.0,0.0,1.0,19.0,,36,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-13.33,-0.051
+4.0,A. Juma,Defensas,VALLADOLID U19,2,2,0.0,0.0,2.0,19.0,195.0,40,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.5,0.013
+3.0,Diego Arco,Defensas,VALLADOLID U19,10,10,0.0,0.0,0.0,18.0,176.0,39,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.3,0.035
+2.0,Miguel Flores,Defensas,VALLADOLID U19,21,16,0.0,0.0,3.0,19.0,,36,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.14,0.071
+7.0,A. Perez,Centrocampistas,ALCORCÓN U19,22,17,0.0,0.0,3.0,19.0,,36,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-1.82,0.065
+4.0,D. Rodriguez,Defensas,VALLADOLID U19,3,1,0.0,0.0,1.0,17.0,,35,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.0,0.015
+14.0,Sergio Esteban,Defensas,VALLADOLID U19,12,7,0.0,0.0,0.0,17.0,,36,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.25,0.041
+3.0,I. Diaz,Defensas,VALLADOLID U19,1,1,0.0,0.0,0.0,17.0,,28,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,3.0,0.017
+16.0,Gonza Cebrián,Defensas,VALLADOLID U19,3,0,0.0,0.0,0.0,18.0,,31,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.0,0.015
+2.0,A. Garcia,Defensas,VALLADOLID U19,1,1,0.0,0.0,0.0,17.0,,26,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,3.0,0.017
+14.0,I. Diaz,Defensas,VALLADOLID U19,2,0,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.5,0.013
+23.0,B. Eid,Defensas,ALCORCÓN U19,2,2,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-20.0,-0.084
+20.0,L. Pinar,Defensas,ALCORCÓN U19,5,5,0.0,0.0,1.0,19.0,,36,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-8.0,-0.02
+28.0,S. Mc,Defensas,ALCORCÓN U19,12,12,0.0,0.0,2.0,17.0,,28,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-3.33,0.025
+12.0,Miguel,Defensas,UNIÓN ADARVE U19,10,3,0.0,0.0,0.0,19.0,,30,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.1,0.033
+15.0,A. Trilla,Defensas,UNIÓN ADARVE U19,14,6,0.0,0.0,6.0,18.0,,26,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.07,0.046
+23.0,Miguel Perales,Defensas,REAL MADRID U19,13,7,0.0,0.0,1.0,18.0,,36,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,4.31,0.063
+18.0,Thomas Grand,Centrocampistas,VALLADOLID U19,5,1,0.0,0.0,0.0,18.0,,29,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.6,0.019
+26.0,J. Pleguezuelos,Defensas,REAL MADRID U19,1,1,0.0,0.0,0.0,18.0,,33,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,56.0,0.258
+26.0,L. Lemaitre,Defensas,REAL MADRID U19,1,0,0.0,0.0,0.0,16.0,,27,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,56.0,0.258
+32.0,C. Lardin,Defensas,REAL MADRID U19,1,0,0.0,0.0,0.0,17.0,,26,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,56.0,0.258
+22.0,David Fernández,Centrocampistas,ATLÉTICO U19,24,14,0.0,0.0,6.0,17.0,,36,División de Honor,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2.75,0.093
+6.0,Javier Díaz,Centrocampistas,ATLÉTICO U19,22,17,0.0,0.0,3.0,19.0,,42,División de Honor,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,3.0,0.087
+2.0,A. Benitez,Defensas,ALCORCÓN U19,25,25,0.0,0.0,6.0,19.0,,37,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-1.6,0.076
+29.0,Beto,Centrocampistas,REAL MADRID U19,4,1,0.0,0.0,0.0,18.0,,30,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,14.0,0.077
+3.0,D. Pérez,Defensas,ATLÉTICO U19,11,4,0.0,0.0,0.0,18.0,193.0,37,División de Honor,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,6.0,0.064
+6.0,Jorge Cestero,Centrocampistas,REAL MADRID U19,20,15,0.0,0.0,6.0,19.0,,38,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,2.8,0.079
+30.0,I. Gascón,Centrocampistas,REAL MADRID U19,8,3,0.0,0.0,0.0,18.0,,31,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,7.0,0.058
+4.0,I. Montero,Defensas,ALCORCÓN U19,24,18,0.0,0.0,4.0,19.0,,39,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-1.67,0.072
+17.0,Izan Muñoz,Defensas,ATLÉTICO U19,24,21,0.0,0.0,4.0,18.0,,36,División de Honor,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2.75,0.093
+28.0,R. Lopez,Centrocampistas,REAL MADRID U19,1,0,0.0,0.0,0.0,17.0,,26,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,56.0,0.258
+28.0,M. Viega,Centrocampistas,REAL MADRID U19,1,0,0.0,0.0,0.0,18.0,,29,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,56.0,0.258
+27.0,A. Serrano,Defensas,ALCORCÓN U19,15,13,0.0,0.0,6.0,17.0,,35,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-2.67,0.038
+6.0,Diego Ortega,Centrocampistas,VALLADOLID U19,18,7,0.0,0.0,3.0,18.0,,34,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.17,0.061
+29.0,J. Martinez,Delanteros,ALCORCÓN U19,13,4,0.0,0.0,2.0,18.0,,31,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-3.08,0.029
+27.0,José Reyes,Delanteros,REAL MADRID U19,2,0,0.0,0.0,0.0,17.0,,34,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,28.0,0.134
+15.0,Raúl González,Delanteros,ALCORCÓN U19,19,10,0.0,0.0,1.0,18.0,,34,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-2.11,0.054
+15.0,Jose Torres,Defensas,ALCORCÓN U19,26,17,0.0,0.0,5.0,19.0,,33,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-1.54,0.08
+2.0,D. Rodriguez,Delanteros,RAYO MAJADAHONDA U19,30,29,0.0,0.0,1.0,19.0,,38,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.2,0.099
+26.0,Alex Mora,Delanteros,REAL MADRID U19,2,0,0.0,0.0,0.0,17.0,,26,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,28.0,0.134
+28.0,Enzo Alves,Delanteros,REAL MADRID U19,3,0,0.0,0.0,0.0,15.0,175.0,26,División de Honor,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,18.67,0.095
+3.0,Wizner,Defensas,UNIÓN ADARVE U19,27,26,0.0,0.0,7.0,19.0,,39,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.04,0.09
+4.0,Patas,Defensas,UNIÓN ADARVE U19,15,15,0.0,0.0,8.0,19.0,,37,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.07,0.05
+24.0,Iñigo,Defensas,UNIÓN ADARVE U19,18,11,0.0,0.0,6.0,18.0,,27,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.06,0.06
+2.0,Joaquin,Defensas,UNIÓN ADARVE U19,10,4,0.0,0.0,1.0,19.0,,33,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.1,0.033
+15.0,A. Zapatero,Centrocampistas,VALLADOLID U19,2,0,0.0,0.0,0.0,16.0,,31,División de Honor,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.5,0.013
+26.0,Melero,Defensas,UNIÓN ADARVE U19,20,14,0.0,0.0,7.0,18.0,,28,División de Honor,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.05,0.066
+27.0,S. Eddoghmi,Delanteros,RAYO MAJADAHONDA U19,1,0,0.0,0.0,0.0,18.0,,29,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-6.0,-0.024
+11.0,R. Poteras,Centrocampistas,CD MÓSTOLES U19,13,1,0.0,0.0,2.0,19.0,,26,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-2.54,0.032
+28.0,I. Garcia,Centrocampistas,RAYO MAJADAHONDA U19,3,0,0.0,0.0,1.0,18.0,,26,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-2.0,0.001
+5.0,A. Nastasescu,Centrocampistas,CD MÓSTOLES U19,22,21,0.0,0.0,2.0,19.0,,33,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.5,0.067
+4.0,Hugo Pliego,Delanteros,GETAFE U19,18,12,0.0,0.0,5.0,18.0,,34,División de Honor,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.22,0.061
+9.0,J. Peralta,Delanteros,GETAFE U19,11,3,0.0,0.0,1.0,19.0,174.0,35,División de Honor,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.36,0.038
+23.0,Luis Bengoechea,Delanteros,GETAFE U19,19,2,0.0,0.0,1.0,19.0,175.0,33,División de Honor,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.21,0.064
+2.0,A. Ruiz,Defensas,LA CRUZ VILLANOVENSE U19,15,14,0.0,0.0,0.0,18.0,,30,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.93,0.046
+2.0,Gregorio Javier,Defensas,LA CRUZ VILLANOVENSE U19,25,21,0.0,0.0,9.0,19.0,,35,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.56,0.081
+2.0,Cristian Casado,Defensas,LA CRUZ VILLANOVENSE U19,14,10,0.0,0.0,1.0,19.0,,33,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.0,0.042
+4.0,D. Caro,Defensas,CD MÓSTOLES U19,4,0,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-8.25,-0.024
+15.0,I. Casanova,Defensas,CD MÓSTOLES U19,3,1,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-11.0,-0.04
+12.0,J. Jose,Defensas,LA CRUZ VILLANOVENSE U19,7,6,0.0,0.0,4.0,19.0,,37,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-2.0,0.014
+3.0,A. Garcia,Defensas,LA CRUZ VILLANOVENSE U19,18,16,0.0,0.0,2.0,18.0,,35,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.78,0.056
+12.0,Isra García,Defensas,LA CRUZ VILLANOVENSE U19,15,5,0.0,0.0,4.0,19.0,,34,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.93,0.046
+75.0,O. Rodriguez,Defensas,CD MÓSTOLES U19,3,3,0.0,0.0,0.0,19.0,,26,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-11.0,-0.04
+10.0,D. Rodríguez,Centrocampistas,LA CRUZ VILLANOVENSE U19,30,30,0.0,0.0,3.0,19.0,,34,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.47,0.098
+18.0,S. Torres,Centrocampistas,LA CRUZ VILLANOVENSE U19,17,10,0.0,0.0,4.0,19.0,,41,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.82,0.053
+16.0,J. Gallardo,Centrocampistas,LA CRUZ VILLANOVENSE U19,26,10,0.0,0.0,7.0,19.0,,32,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.54,0.084
+17.0,Nemanja Bojanić,Centrocampistas,LA CRUZ VILLANOVENSE U19,9,1,0.0,0.0,0.0,19.0,,31,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.56,0.023
+17.0,Jesús Rei,Centrocampistas,LA CRUZ VILLANOVENSE U19,1,0,0.0,0.0,0.0,19.0,,33,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-14.0,-0.06
+12.0,M. Zuhail,Centrocampistas,LA CRUZ VILLANOVENSE U19,3,0,0.0,0.0,0.0,18.0,,34,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-4.67,-0.011
+15.0,A. Hernandez,Centrocampistas,LA CRUZ VILLANOVENSE U19,5,1,0.0,0.0,0.0,18.0,,26,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-2.8,0.004
+18.0,D. Martinez,Defensas,CD MÓSTOLES U19,6,0,0.0,0.0,1.0,,,26,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-5.5,-0.005
+14.0,A. Foj,Defensas,CD MÓSTOLES U19,25,13,0.0,0.0,2.0,19.0,,29,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.32,0.077
+14.0,M. Savane,Delanteros,LA CRUZ VILLANOVENSE U19,3,0,0.0,0.0,0.0,18.0,,26,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-4.67,-0.011
+6.0,E. Domínguez,Delanteros,LA CRUZ VILLANOVENSE U19,1,1,0.0,0.0,0.0,17.0,172.0,27,División de Honor,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-14.0,-0.06
+2.0,N. Ebe,Defensas,CD MÓSTOLES U19,24,13,0.0,0.0,1.0,18.0,,35,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.38,0.074
+3.0,C. Gonzalez,Defensas,LAS ROZAS CF U19,19,6,0.0,0.0,0.0,19.0,,34,División de Honor,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.58,0.061
+15.0,M. Sainz,Defensas,LAS ROZAS CF U19,4,3,0.0,0.0,0.0,19.0,,28,División de Honor,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-2.75,0.001
+17.0,D. Montero,Defensas,CD MÓSTOLES U19,13,8,0.0,0.0,2.0,19.0,,37,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-2.54,0.032
+8.0,J. Belda,Centrocampistas,LAS ROZAS CF U19,25,13,0.0,0.0,5.0,19.0,,34,División de Honor,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.44,0.081
+27.0,E. Pardal,Centrocampistas,LAS ROZAS CF U19,7,6,0.0,0.0,1.0,18.0,,27,División de Honor,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-1.57,0.016
+3.0,H. Polo,Delanteros,GETAFE U19,20,18,0.0,0.0,3.0,18.0,180.0,38,División de Honor,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.2,0.068
+6.0,I. Montoya,Centrocampistas,GETAFE U19,16,7,0.0,0.0,4.0,19.0,,36,División de Honor,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.25,0.054
+19.0,Nicolas Feiguin,Defensas,CD MÓSTOLES U19,19,19,0.0,0.0,6.0,19.0,187.0,35,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.74,0.055
+19.0,E. Pardal,Centrocampistas,GETAFE U19,5,0,0.0,0.0,0.0,18.0,,27,División de Honor,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.8,0.02
+10.0,D. Ortega,Defensas,FUENLABRADA U19,23,16,1.0,0.0,6.0,19.0,,37,División de Honor,0.04,0.0,1.0,0.04,16,3.03,1.65,0.0,-1.39,0.094
+4.0,G. Del Olmo,Defensas,FUENLABRADA U19,18,17,0.0,0.0,5.0,19.0,,35,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-1.78,0.052
+3.0,H. Fernández,Defensas,FUENLABRADA U19,17,12,0.0,0.0,4.0,19.0,,36,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-1.88,0.048
+8.0,A. Buono,Defensas,FUENLABRADA U19,26,22,0.0,0.0,1.0,19.0,176.0,29,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-1.23,0.081
+27.0,N. Rincon,Defensas,FUENLABRADA U19,17,10,0.0,0.0,2.0,18.0,,30,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-1.88,0.048
+22.0,J. Prieto,Defensas,FUENLABRADA U19,1,0,0.0,0.0,0.0,,,37,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-32.0,-0.142
+12.0,M. Ojeda,Defensas,FUENLABRADA U19,9,5,0.0,0.0,0.0,,,27,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-3.56,0.014
+2.0,Adrián Jurado,Defensas,FUENLABRADA U19,7,1,0.0,0.0,1.0,19.0,,26,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-4.57,0.003
+6.0,C. Sanchez,Centrocampistas,FUENLABRADA U19,11,9,0.0,0.0,1.0,19.0,,41,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-2.91,0.023
+16.0,I. Redondo,Centrocampistas,FUENLABRADA U19,23,23,1.0,0.0,8.0,19.0,,31,División de Honor,0.04,0.0,1.0,0.04,16,3.03,1.65,0.0,-1.39,0.094
+26.0,Y. Rioja,Centrocampistas,FUENLABRADA U19,1,1,0.0,0.0,0.0,19.0,,28,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-32.0,-0.142
+28.0,R. Perez,Centrocampistas,FUENLABRADA U19,25,22,0.0,0.0,7.0,18.0,,29,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-1.28,0.078
+6.0,H. Luquin,Centrocampistas,FUENLABRADA U19,2,0,0.0,0.0,0.0,18.0,,31,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-16.0,-0.066
+2.0,S. Marjani,Centrocampistas,FUENLABRADA U19,1,0,0.0,0.0,0.0,19.0,,33,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-32.0,-0.142
+6.0,J. Nguyen,Centrocampistas,FUENLABRADA U19,11,8,0.0,0.0,2.0,,,27,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-2.91,0.023
+20.0,Y. El Massoudi,Centrocampistas,FUENLABRADA U19,3,0,0.0,0.0,0.0,18.0,,26,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-10.67,-0.038
+72.0,J. Sanabria,Delanteros,FUENLABRADA U19,1,0,0.0,0.0,0.0,18.0,,30,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-32.0,-0.142
+14.0,M. Rojas,Delanteros,FUENLABRADA U19,15,1,0.0,0.0,2.0,19.0,,31,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-2.13,0.04
+7.0,R. García,Delanteros,FUENLABRADA U19,15,6,0.0,0.0,1.0,19.0,174.0,26,División de Honor,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-2.13,0.04
+28.0,R. Iniesta,Centrocampistas,CD MÓSTOLES U19,4,1,0.0,0.0,0.0,17.0,,26,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-8.25,-0.024
+20.0,P. Muñoz,Centrocampistas,CD MÓSTOLES U19,4,0,0.0,0.0,0.0,19.0,,30,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-8.25,-0.024
+4.0,I. Duran,Centrocampistas,CD MÓSTOLES U19,7,6,0.0,0.0,1.0,19.0,,33,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-4.71,0.002
+6.0,R. Nava,Centrocampistas,CD MÓSTOLES U19,18,7,0.0,0.0,2.0,19.0,,27,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.83,0.052
+2.0,D. Hernandez,Defensas,GETAFE U19,6,1,0.0,0.0,0.0,19.0,,27,División de Honor,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.67,0.023
+18.0,N. Maroto,Defensas,GETAFE U19,2,0,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,2.0,0.016
+22.0,D. Trompeta,Centrocampistas,CD MÓSTOLES U19,24,13,0.0,0.0,6.0,18.0,,27,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.38,0.074
+8.0,S. Del Rio,Centrocampistas,CD MÓSTOLES U19,11,6,0.0,0.0,0.0,17.0,,30,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-3.0,0.023
+28.0,A. Gonzalez,Centrocampistas,GETAFE U19,2,2,0.0,0.0,0.0,18.0,,32,División de Honor,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,2.0,0.016
+4.0,M. Cachinero,Centrocampistas,CD MÓSTOLES U19,3,2,0.0,0.0,1.0,19.0,,35,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-11.0,-0.04
+28.0,A. Urkia,Centrocampistas,LAS ROZAS CF U19,5,2,0.0,0.0,0.0,18.0,,26,División de Honor,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-2.2,0.007
+12.0,M. Miranda,Defensas,CD MÓSTOLES U19,27,26,0.0,0.0,7.0,19.0,185.0,36,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.22,0.084
+19.0,L. Arbó,Centrocampistas,RAYO MAJADAHONDA U19,2,0,0.0,0.0,0.0,19.0,,26,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-3.0,-0.007
+19.0,Luis Bravo,Delanteros,LEGANÉS U19,1,0,0.0,0.0,0.0,19.0,,26,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,26.0,0.122
+3.0,D. Perez,Defensas,RAYO C. ALCOBENDAS U19,25,23,0.0,0.0,3.0,18.0,,32,División de Honor,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-0.44,0.081
+5.0,C. Alonso,Defensas,RAYO C. ALCOBENDAS U19,5,5,0.0,0.0,1.0,18.0,183.0,30,División de Honor,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-2.2,0.007
+11.0,P. Madruga,Delanteros,BURGOS U19,4,1,0.0,0.0,0.0,17.0,,27,División de Honor,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.25,0.012
+15.0,S. Galan,Centrocampistas,RAYO C. ALCOBENDAS U19,10,3,0.0,0.0,2.0,19.0,,36,División de Honor,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-1.1,0.028
+17.0,A. Hernandez,Centrocampistas,RAYO C. ALCOBENDAS U19,4,2,0.0,0.0,0.0,,,30,División de Honor,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-2.75,0.001
+17.0,C. Ligua,Centrocampistas,RAYO C. ALCOBENDAS U19,9,4,0.0,0.0,1.0,19.0,,27,División de Honor,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-1.22,0.024
+7.0,A. Matías,Delanteros,BURGOS U19,15,8,0.0,0.0,0.0,18.0,,29,División de Honor,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.07,0.05
+11.0,Chypryan Perez,Delanteros,RAYO C. ALCOBENDAS U19,22,15,0.0,0.0,3.0,19.0,,37,División de Honor,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-0.5,0.071
+17.0,H. Duran,Delanteros,RAYO C. ALCOBENDAS U19,5,0,0.0,0.0,0.0,19.0,,38,División de Honor,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-2.2,0.007
+17.0,Marc Mujal,Delanteros,RAYO C. ALCOBENDAS U19,7,5,0.0,0.0,0.0,18.0,179.0,31,División de Honor,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-1.57,0.016
+10.0,Nelson Vazquez,Delanteros,CD MÓSTOLES U19,19,7,0.0,0.0,0.0,19.0,,30,División de Honor,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.74,0.055
+16.0,I. Velez,Delanteros,RAYO C. ALCOBENDAS U19,6,1,0.0,0.0,1.0,19.0,,26,División de Honor,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-1.83,0.012
+16.0,Daniel Cupido,Defensas,RAYO MAJADAHONDA U19,2,1,0.0,0.0,0.0,19.0,,39,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-3.0,-0.007
+5.0,Buje,Defensas,RAYO MAJADAHONDA U19,13,11,0.0,0.0,2.0,19.0,,40,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.46,0.041
+19.0,Diego Arcos,Defensas,RAYO MAJADAHONDA U19,14,14,0.0,0.0,2.0,19.0,,36,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.43,0.045
+10.0,S. Rubio,Delanteros,BURGOS U19,9,2,0.0,0.0,1.0,,,32,División de Honor,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.11,0.03
+12.0,M. De Vega,Defensas,RAYO MAJADAHONDA U19,22,15,0.0,0.0,1.0,19.0,,35,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.27,0.072
+21.0,Victor Clavo,Defensas,RAYO MAJADAHONDA U19,20,4,0.0,0.0,4.0,19.0,,36,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.3,0.065
+6.0,J. Alvarez,Defensas,RAYO MAJADAHONDA U19,12,4,0.0,0.0,1.0,19.0,,34,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.5,0.038
+26.0,A. Iglesia,Defensas,RAYO MAJADAHONDA U19,1,0,0.0,0.0,0.0,,,27,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-6.0,-0.024
+14.0,J. Nogales,Defensas,RAYO MAJADAHONDA U19,3,0,0.0,0.0,0.0,18.0,,35,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-2.0,0.001
+32.0,A. Rissone,Defensas,RAYO MAJADAHONDA U19,1,0,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-6.0,-0.024
+15.0,Pablo Pascual,Centrocampistas,RAYO MAJADAHONDA U19,5,5,0.0,0.0,1.0,19.0,,37,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-1.2,0.011
+16.0,A. Cámara,Centrocampistas,BURGOS U19,12,4,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.08,0.04
+7.0,G. Gazapo,Centrocampistas,RAYO MAJADAHONDA U19,22,12,0.0,0.0,4.0,19.0,,38,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.27,0.072
+18.0,Rubén Municio,Centrocampistas,RAYO MAJADAHONDA U19,17,11,0.0,0.0,1.0,19.0,,35,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.35,0.055
+27.0,H. Antequera,Centrocampistas,RAYO MAJADAHONDA U19,4,0,0.0,0.0,0.0,17.0,,29,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-1.5,0.007
+29.0,U. Sabroso,Centrocampistas,RAYO MAJADAHONDA U19,9,2,0.0,0.0,0.0,,,32,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.67,0.027
+8.0,R. Diaz,Centrocampistas,RAYO MAJADAHONDA U19,7,7,0.0,0.0,2.0,18.0,,28,División de Honor,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.86,0.019
+2.0,Krishna,Defensas,CD DIOCESANO U19,6,2,0.0,0.0,0.0,19.0,,39,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-1.5,0.013
+28.0,I. Bachiller,Delanteros,LEGANÉS U19,4,0,0.0,0.0,0.0,18.0,,30,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,6.5,0.043
+17.0,I. Nieto,Delanteros,LAS ROZAS CF U19,19,16,0.0,0.0,3.0,19.0,,30,División de Honor,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.58,0.061
+21.0,J. García,Defensas,CD DIOCESANO U19,24,24,0.0,0.0,6.0,19.0,,34,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.38,0.078
+18.0,G. Barajas,Delanteros,LAS ROZAS CF U19,11,5,0.0,0.0,1.0,18.0,,26,División de Honor,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-1.0,0.032
+24.0,M. Romero,Delanteros,LAS ROZAS CF U19,2,1,0.0,0.0,0.0,16.0,,26,División de Honor,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-5.5,-0.018
+5.0,L. Fati,Defensas,LEGANÉS U19,3,3,0.0,0.0,1.0,19.0,180.0,40,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,8.67,0.049
+24.0,M. Galapero,Delanteros,CD DIOCESANO U19,4,2,0.0,0.0,0.0,18.0,,32,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-2.25,0.003
+20.0,H. Pineda,Delanteros,CD DIOCESANO U19,12,2,0.0,0.0,0.0,19.0,,41,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.75,0.037
+4.0,Diego Arcos,Defensas,LEGANÉS U19,7,7,0.0,0.0,2.0,19.0,,36,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,3.71,0.04
+29.0,Hugo Velón,Defensas,LEGANÉS U19,5,1,0.0,0.0,0.0,17.0,,30,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,5.2,0.04
+5.0,J. Jurado,Defensas,LEGANÉS U19,4,3,0.0,0.0,1.0,18.0,,35,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,6.5,0.043
+12.0,L. Pinar,Defensas,LEGANÉS U19,4,2,0.0,0.0,0.0,19.0,,36,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,6.5,0.043
+15.0,D. Lorenzo,Defensas,LEGANÉS U19,18,10,0.0,0.0,3.0,18.0,,32,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.44,0.067
+4.0,D. Gueye,Defensas,LEGANÉS U19,9,9,0.0,0.0,3.0,,,32,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,2.89,0.043
+14.0,Sergio Calle,Defensas,LEGANÉS U19,4,0,0.0,0.0,0.0,19.0,176.0,32,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,6.5,0.043
+18.0,L. Mirzaev,Defensas,LEGANÉS U19,1,0,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,26.0,0.122
+27.0,Nima Andarz,Defensas,LEGANÉS U19,3,1,0.0,0.0,0.0,19.0,181.0,26,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,8.67,0.049
+14.0,A. Marena,Centrocampistas,CD DIOCESANO U19,12,1,0.0,0.0,1.0,,,26,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.75,0.037
+26.0,J. Muñoz,Centrocampistas,CD DIOCESANO U19,8,0,0.0,0.0,0.0,18.0,,26,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-1.12,0.022
+11.0,Ramón Cornejo,Centrocampistas,CD DIOCESANO U19,30,16,0.0,0.0,2.0,19.0,,36,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.3,0.099
+20.0,C. Francisco,Centrocampistas,CD DIOCESANO U19,12,11,0.0,0.0,2.0,,,33,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.75,0.037
+4.0,A. Gordillo,Centrocampistas,CD DIOCESANO U19,20,13,0.0,0.0,3.0,18.0,176.0,40,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.45,0.065
+6.0,Tuki,Centrocampistas,CD DIOCESANO U19,26,17,0.0,0.0,6.0,19.0,,38,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.35,0.085
+27.0,C. Belda,Centrocampistas,LEGANÉS U19,1,1,0.0,0.0,0.0,,,30,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,26.0,0.122
+29.0,R. Martin,Centrocampistas,LEGANÉS U19,2,1,0.0,0.0,0.0,17.0,,31,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,13.0,0.066
+27.0,I. Heras,Centrocampistas,LEGANÉS U19,7,5,0.0,0.0,1.0,,,27,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,3.71,0.04
+12.0,A. Gomez,Centrocampistas,LEGANÉS U19,13,4,0.0,0.0,1.0,19.0,,33,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,2.0,0.052
+3.0,A. Kocas,Defensas,CD DIOCESANO U19,1,1,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-9.0,-0.038
+6.0,R. Camara,Centrocampistas,LEGANÉS U19,3,3,0.0,0.0,0.0,,,26,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,8.67,0.049
+16.0,M. Beltran,Defensas,CD DIOCESANO U19,16,2,0.0,0.0,1.0,18.0,,35,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.56,0.051
+28.0,A. Pestana,Delanteros,LEGANÉS U19,1,0,0.0,0.0,0.0,18.0,,28,División de Honor,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,26.0,0.122
+14.0,Antonio Fernández,Defensas,CD DIOCESANO U19,3,1,0.0,0.0,0.0,19.0,,37,División de Honor,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-3.0,-0.004
+35.0,D. Castaño,Defensas,ALCORCÓN U19,7,7,0.0,0.0,2.0,,,31,División de Honor,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-5.71,-0.003
+11.0,E. Eto'o,Delanteros,RAYO VALLECANO B,31,31,24.0,0.0,4.0,22.0,191.0,45,Tercera Federación,0.77,0.0,24.0,0.77,2,33.8,12.98,0.72,0.61,0.558
+17.0,A. Portero,Delanteros,RSD ALCALÁ,31,29,15.0,0.0,9.0,37.0,,50,Tercera Federación,0.48,0.0,15.0,0.48,1,22.06,6.6,0.48,1.16,0.389
+28.0,Javier Diz,Centrocampistas,TRIVAL VALDERAS,1,0,1.0,0.0,0.0,,,26,Tercera Federación,1.0,0.0,1.0,1.0,10,2.13,0.72,0.47,0.0,0.603
+10.0,Izan,Delanteros,RSD ALCALÁ,34,32,14.0,0.0,4.0,27.0,177.0,46,Tercera Federación,0.41,0.0,14.0,0.41,1,20.59,6.16,0.41,1.06,0.355
+9.0,Pradillos,Delanteros,AD TORREJÓN CF,30,29,14.0,0.0,7.0,28.0,,49,Tercera Federación,0.47,0.0,14.0,0.47,3,25.45,7.97,0.41,0.23,0.372
+19.0,Joselu,Delanteros,LAS ROZAS,25,24,12.0,1.0,5.0,22.0,184.0,46,Tercera Federación,0.48,0.04,13.0,0.52,6,26.67,7.33,0.37,0.12,0.387
+7.0,Andrés García,Delanteros,ALCORCÓN B,34,34,21.0,0.0,3.0,22.0,176.0,42,Tercera Federación,0.62,0.0,21.0,0.62,9,38.18,14.74,0.33,0.15,0.473
+10.0,Juan Ybarra,Centrocampistas,RAYO VALLECANO B,29,29,10.0,0.0,6.0,21.0,,44,Tercera Federación,0.34,0.0,10.0,0.34,2,14.08,5.41,0.32,0.66,0.295
+27.0,Iván Alonso,Delanteros,RAYO VALLECANO B,9,1,3.0,0.0,1.0,19.0,,39,Tercera Federación,0.33,0.0,3.0,0.33,2,4.23,1.62,0.31,2.11,0.242
+12.0,D. Flores,Delanteros,LAS ROZAS,18,14,8.0,0.0,0.0,28.0,194.0,43,Tercera Federación,0.44,0.0,8.0,0.44,6,17.78,4.89,0.31,0.17,0.318
+9.0,Sergio Alonso,Delanteros,RAYO VALLECANO B,20,3,6.0,0.0,0.0,21.0,180.0,41,Tercera Federación,0.3,0.0,6.0,0.3,2,8.45,3.25,0.28,0.95,0.247
+8.0,Guti,Centrocampistas,AD TORREJÓN CF,31,23,10.0,0.0,6.0,24.0,,39,Tercera Federación,0.32,0.0,10.0,0.32,3,18.18,5.69,0.28,0.23,0.285
+9.0,D. Lorenzo,Delanteros,LEGANÉS B,30,23,14.0,0.0,4.0,23.0,186.0,42,Tercera Federación,0.47,0.0,14.0,0.47,8,24.14,9.06,0.28,0.67,0.376
+,M. Gil,Centrocampistas,GALAPAGAR,32,20,10.0,0.0,6.0,35.0,,46,Tercera Federación,0.31,0.0,10.0,0.31,5,22.22,6.11,0.24,0.12,0.281
+10.0,Quivira,Centrocampistas,LAS ROZAS,31,30,8.0,2.0,10.0,25.0,177.0,47,Tercera Federación,0.26,0.06,10.0,0.32,6,17.78,4.89,0.23,0.1,0.284
+2.0,Huelves,Defensas,RSD ALCALÁ,5,1,1.0,0.0,2.0,30.0,,38,Tercera Federación,0.2,0.0,1.0,0.2,1,1.47,0.44,0.2,7.2,0.195
+2.0,Pablo Merino,Defensas,AD TORREJÓN CF,26,20,6.0,0.0,11.0,22.0,180.0,45,Tercera Federación,0.23,0.0,6.0,0.23,3,10.91,3.41,0.2,0.27,0.217
+19.0,José Friaza,Delanteros,LEGANÉS B,30,13,10.0,0.0,6.0,23.0,192.0,42,Tercera Federación,0.33,0.0,10.0,0.33,8,17.24,6.47,0.19,0.67,0.292
+17.0,F. Ferreres,Delanteros,ALCORCÓN B,31,5,11.0,0.0,0.0,,,37,Tercera Federación,0.35,0.0,11.0,0.35,9,20.0,7.72,0.19,0.16,0.303
+3.0,D. Marin,Defensas,RSD ALCALÁ,33,32,6.0,0.0,4.0,25.0,,47,Tercera Federación,0.18,0.0,6.0,0.18,1,8.82,2.64,0.18,1.09,0.214
+2.0,Marco De Las Sías,Defensas,RAYO VALLECANO B,27,27,5.0,0.0,13.0,19.0,180.0,44,Tercera Federación,0.19,0.0,5.0,0.19,2,7.04,2.7,0.18,0.7,0.199
+18.0,S. Rodríguez,Delanteros,RSD ALCALÁ,17,4,3.0,0.0,1.0,20.0,,44,Tercera Federación,0.18,0.0,3.0,0.18,1,4.41,1.32,0.18,2.12,0.176
+,A. Figueroa,Centrocampistas,GALAPAGAR,31,24,7.0,0.0,3.0,25.0,174.0,45,Tercera Federación,0.23,0.0,7.0,0.23,5,15.56,4.28,0.18,0.13,0.23
+,Greci,Defensas,GALAPAGAR,14,14,3.0,0.0,6.0,30.0,,43,Tercera Federación,0.21,0.0,3.0,0.21,5,6.67,1.83,0.16,0.29,0.17
+19.0,Bala,Delanteros,RAYO VALLECANO B,29,22,5.0,0.0,1.0,22.0,180.0,43,Tercera Federación,0.17,0.0,5.0,0.17,2,7.04,2.7,0.16,0.66,0.193
+9.0,Javi Alonso,Delanteros,CUC VILLALBA,33,23,8.0,0.0,8.0,20.0,,48,Tercera Federación,0.24,0.0,8.0,0.24,7,18.18,5.08,0.16,0.24,0.243
+30.0,Samu Becerra,Centrocampistas,RAYO VALLECANO B,31,22,5.0,0.0,4.0,19.0,,37,Tercera Federación,0.16,0.0,5.0,0.16,2,7.04,2.7,0.15,0.61,0.192
+7.0,Juanchi,Centrocampistas,RAYO VALLECANO B,32,32,5.0,0.0,6.0,24.0,,46,Tercera Federación,0.16,0.0,5.0,0.16,2,7.04,2.7,0.15,0.59,0.195
+10.0,Piri,Delanteros,LEGANÉS B,24,22,6.0,0.0,9.0,21.0,176.0,46,Tercera Federación,0.25,0.0,6.0,0.25,8,10.34,3.88,0.15,0.83,0.228
+14.0,Abraham José,Delanteros,CUC VILLALBA,31,17,7.0,0.0,0.0,21.0,179.0,43,Tercera Federación,0.23,0.0,7.0,0.23,7,15.91,4.44,0.15,0.26,0.231
+14.0,Malote,Centrocampistas,RSD ALCALÁ,28,21,4.0,0.0,4.0,30.0,179.0,44,Tercera Federación,0.14,0.0,4.0,0.14,1,5.88,1.76,0.14,1.29,0.177
+7.0,Buta,Delanteros,TRIVAL VALDERAS,31,20,9.0,0.0,4.0,24.0,,48,Tercera Federación,0.29,0.0,9.0,0.29,10,19.15,6.46,0.14,0.0,0.265
+9.0,Marc Echarri,Delanteros,TRIVAL VALDERAS,28,18,8.0,0.0,8.0,26.0,190.0,44,Tercera Federación,0.29,0.0,8.0,0.29,10,17.02,5.74,0.14,0.0,0.256
+29.0,L. Simon,Delanteros,LAS ROZAS,10,1,2.0,0.0,1.0,19.0,,35,Tercera Federación,0.2,0.0,2.0,0.2,6,4.44,1.22,0.14,0.3,0.152
+22.0,Daniel Nieto,Defensas,RSD ALCALÁ,29,26,4.0,0.0,9.0,21.0,,45,Tercera Federación,0.14,0.0,4.0,0.14,1,5.88,1.76,0.14,1.24,0.18
+,P. Buceta,Delanteros,GALAPAGAR,30,26,5.0,0.0,5.0,26.0,,43,Tercera Federación,0.17,0.0,5.0,0.17,5,11.11,3.06,0.13,0.13,0.191
+,Marcos Reguilón,Delanteros,GALAPAGAR,23,11,4.0,0.0,1.0,21.0,,45,Tercera Federación,0.17,0.0,4.0,0.17,5,8.89,2.44,0.13,0.17,0.171
+27.0,Jesús Martínez,Centrocampistas,MÉXICO FC,3,2,1.0,0.0,0.0,22.0,171.0,38,Tercera Federación,0.33,0.0,1.0,0.33,12,2.86,0.79,0.12,-4.67,0.168
+16.0,H. Solozábal,Centrocampistas,LEGANÉS B,33,32,7.0,0.0,8.0,22.0,186.0,50,Tercera Federación,0.21,0.0,7.0,0.21,8,12.07,4.53,0.12,0.61,0.228
+7.0,Carlos Gómez,Delanteros,AD TORREJÓN CF,28,11,4.0,0.0,3.0,31.0,175.0,38,Tercera Federación,0.14,0.0,4.0,0.14,3,7.27,2.28,0.12,0.25,0.168
+21.0,Borja Sánchez,Centrocampistas,RSD ALCALÁ,26,25,3.0,0.0,8.0,38.0,179.0,53,Tercera Federación,0.12,0.0,3.0,0.12,1,4.41,1.32,0.12,1.38,0.16
+19.0,Messo,Delanteros,CUC VILLALBA,31,24,5.0,0.0,1.0,22.0,172.0,43,Tercera Federación,0.16,0.0,5.0,0.16,7,11.36,3.17,0.1,0.26,0.189
+11.0,J. Castellanos,Centrocampistas,CUC VILLALBA,32,31,5.0,0.0,6.0,19.0,,43,Tercera Federación,0.16,0.0,5.0,0.16,7,11.36,3.17,0.1,0.25,0.192
+11.0,Pablo Sánchez,Delanteros,RSD ALCALÁ,20,7,2.0,0.0,0.0,22.0,,45,Tercera Federación,0.1,0.0,2.0,0.1,1,2.94,0.88,0.1,1.8,0.134
+19.0,Amine,Delanteros,AD TORREJÓN CF,19,6,2.0,0.0,0.0,23.0,,35,Tercera Federación,0.11,0.0,2.0,0.11,3,3.64,1.14,0.1,0.37,0.125
+7.0,David Muñoz,Centrocampistas,CUC VILLALBA,26,22,4.0,0.0,9.0,20.0,183.0,44,Tercera Federación,0.15,0.0,4.0,0.15,7,9.09,2.54,0.1,0.31,0.169
+9.0,Y. Lhery,Delanteros,ALCORCÓN B,6,5,1.0,0.0,3.0,22.0,176.0,41,Tercera Federación,0.17,0.0,1.0,0.17,9,1.82,0.7,0.09,0.83,0.127
+7.0,Jesús Arribas,Centrocampistas,RSD ALCALÁ,34,27,3.0,0.0,4.0,21.0,,40,Tercera Federación,0.09,0.0,3.0,0.09,1,4.41,1.32,0.09,1.06,0.163
+6.0,Ángel Blanco,Centrocampistas,RSD ALCALÁ,34,18,3.0,0.0,4.0,21.0,,45,Tercera Federación,0.09,0.0,3.0,0.09,1,4.41,1.32,0.09,1.06,0.163
+30.0,Nico,Delanteros,ALCORCÓN B,29,28,5.0,0.0,4.0,18.0,178.0,37,Tercera Federación,0.17,0.0,5.0,0.17,9,9.09,3.51,0.09,0.17,0.189
+,Doménech,Delanteros,RCD CARABANCHEL,17,16,5.0,0.0,2.0,33.0,180.0,52,Tercera Federación,0.29,0.0,5.0,0.29,13,16.67,3.93,0.09,0.06,0.224
+21.0,H. Navarro,Centrocampistas,RAYO VALLECANO B,21,2,2.0,0.0,3.0,22.0,,43,Tercera Federación,0.1,0.0,2.0,0.1,2,2.82,1.08,0.09,0.9,0.129
+20.0,Andrei,Centrocampistas,MÉXICO FC,20,14,5.0,0.0,4.0,23.0,182.0,42,Tercera Federación,0.25,0.0,5.0,0.25,12,14.29,3.93,0.09,-0.7,0.203
+20.0,D. Osei,Delanteros,LEGANÉS B,32,17,5.0,0.0,6.0,20.0,,34,Tercera Federación,0.16,0.0,5.0,0.16,8,8.62,3.24,0.09,0.62,0.195
+,Gonzaga,Delanteros,GALAPAGAR,26,10,3.0,0.0,7.0,,,34,Tercera Federación,0.12,0.0,3.0,0.12,5,6.67,1.83,0.09,0.15,0.15
+29.0,N. Ruiz,Defensas,AD TORREJÓN CF,10,1,1.0,0.0,0.0,20.0,,44,Tercera Federación,0.1,0.0,1.0,0.1,3,1.82,0.57,0.09,0.7,0.095
+19.0,J. Jimenez,Defensas,RSD ALCALÁ,26,25,2.0,0.0,4.0,25.0,,51,Tercera Federación,0.08,0.0,2.0,0.08,1,2.94,0.88,0.08,1.38,0.136
+39.0,Sule,Delanteros,LEGANÉS B,7,5,1.0,0.0,2.0,19.0,,41,Tercera Federación,0.14,0.0,1.0,0.14,8,1.72,0.65,0.08,2.86,0.128
+23.0,S. Zeljajić,Defensas,LEGANÉS B,7,4,1.0,0.0,0.0,24.0,190.0,28,Tercera Federación,0.14,0.0,1.0,0.14,8,1.72,0.65,0.08,2.86,0.128
+17.0,L. Meseguer,Defensas,LAS ROZAS,27,20,3.0,0.0,11.0,25.0,177.0,49,Tercera Federación,0.11,0.0,3.0,0.11,6,6.67,1.83,0.08,0.11,0.146
+11.0,Álex Martínez,Centrocampistas,CDF TRES CANTOS,21,12,4.0,0.0,4.0,26.0,,49,Tercera Federación,0.19,0.0,4.0,0.19,11,9.3,2.93,0.08,-0.05,0.175
+14.0,Aitor Lorá,Delanteros,CDF TRES CANTOS,21,6,4.0,0.0,0.0,28.0,173.0,46,Tercera Federación,0.19,0.0,4.0,0.19,11,9.3,2.93,0.08,-0.05,0.175
+9.0,Santos Maya,Delanteros,CDF TRES CANTOS,21,10,4.0,0.0,0.0,19.0,,37,Tercera Federación,0.19,0.0,4.0,0.19,11,9.3,2.93,0.08,-0.05,0.175
+20.0,Ruby,Delanteros,AD TORREJÓN CF,32,23,3.0,0.0,4.0,22.0,,37,Tercera Federación,0.09,0.0,3.0,0.09,3,5.45,1.71,0.08,0.22,0.15
+10.0,Camacho,Delanteros,AD PARLA,32,32,11.0,0.0,7.0,27.0,173.0,44,Tercera Federación,0.34,0.0,11.0,0.34,14,28.95,9.55,0.08,-0.62,0.293
+9.0,Abdu Washington,Delanteros,AD PARLA,18,14,6.0,0.0,5.0,23.0,183.0,32,Tercera Federación,0.33,0.0,6.0,0.33,14,15.79,5.21,0.08,-1.11,0.242
+5.0,Manu,Defensas,TRIVAL VALDERAS,30,28,5.0,0.0,5.0,36.0,,52,Tercera Federación,0.17,0.0,5.0,0.17,10,10.64,3.59,0.08,0.0,0.19
+24.0,A. Espinola,Defensas,LAS ROZAS,10,7,1.0,0.0,2.0,20.0,,35,Tercera Federación,0.1,0.0,1.0,0.1,6,2.22,0.61,0.07,0.3,0.092
+12.0,M. Lopez,Delanteros,RSD ALCALÁ,14,8,1.0,0.0,1.0,,,38,Tercera Federación,0.07,0.0,1.0,0.07,1,1.47,0.44,0.07,2.57,0.105
+7.0,Merchán,Centrocampistas,CDF TRES CANTOS,32,28,5.0,0.0,8.0,29.0,173.0,48,Tercera Federación,0.16,0.0,5.0,0.16,11,11.63,3.67,0.07,-0.03,0.19
+23.0,Samu,Defensas,ALCORCÓN B,7,7,1.0,0.0,3.0,20.0,182.0,47,Tercera Federación,0.14,0.0,1.0,0.14,9,1.82,0.7,0.07,0.71,0.111
+7.0,Gabri Salazar,Delanteros,MÉXICO FC,33,24,5.0,2.0,3.0,28.0,180.0,47,Tercera Federación,0.15,0.06,7.0,0.21,12,14.29,3.93,0.07,-0.42,0.22
+22.0,H. Garcia,Centrocampistas,LEGANÉS B,24,11,3.0,0.0,0.0,22.0,188.0,39,Tercera Federación,0.12,0.0,3.0,0.12,8,5.17,1.94,0.07,0.83,0.15
+23.0,S. Sousa,Defensas,RSD ALCALÁ,29,17,2.0,0.0,6.0,21.0,,46,Tercera Federación,0.07,0.0,2.0,0.07,1,2.94,0.88,0.07,1.24,0.138
+10.0,Adnan,Delanteros,CDF TRES CANTOS,30,25,5.0,0.0,7.0,32.0,172.0,45,Tercera Federación,0.17,0.0,5.0,0.17,11,11.63,3.67,0.07,-0.03,0.19
+,More,Centrocampistas,GALAPAGAR,34,33,3.0,0.0,4.0,25.0,165.0,49,Tercera Federación,0.09,0.0,3.0,0.09,5,6.67,1.83,0.07,0.12,0.155
+12.0,Ihab,Centrocampistas,TRIVAL VALDERAS,28,22,4.0,0.0,7.0,,,36,Tercera Federación,0.14,0.0,4.0,0.14,10,8.51,2.87,0.07,0.0,0.166
+9.0,Pablo Zotes,Delanteros,RSD ALCALÁ,15,4,1.0,0.0,1.0,25.0,182.0,43,Tercera Federación,0.07,0.0,1.0,0.07,1,1.47,0.44,0.07,2.4,0.106
+10.0,Nacho Maganto,Centrocampistas,MÉXICO FC,31,27,6.0,0.0,11.0,33.0,171.0,46,Tercera Federación,0.19,0.0,6.0,0.19,12,17.14,4.71,0.07,-0.45,0.201
+24.0,A. Cova,Defensas,AD TORREJÓN CF,26,24,2.0,0.0,12.0,22.0,184.0,47,Tercera Federación,0.08,0.0,2.0,0.08,3,3.64,1.14,0.07,0.27,0.127
+32.0,T. Mohammed,Centrocampistas,ALCORCÓN B,7,5,1.0,0.0,2.0,19.0,,26,Tercera Federación,0.14,0.0,1.0,0.14,9,1.82,0.7,0.07,0.71,0.111
+11.0,Mario Jiménez,Delanteros,LEGANÉS B,26,14,3.0,0.0,2.0,22.0,169.0,45,Tercera Federación,0.12,0.0,3.0,0.12,8,5.17,1.94,0.07,0.77,0.155
+5.0,Adrián Corral,Defensas,CUC VILLALBA,28,27,3.0,0.0,5.0,22.0,183.0,50,Tercera Federación,0.11,0.0,3.0,0.11,7,6.82,1.9,0.07,0.29,0.151
+21.0,Javi Bernal,Defensas,LAS ROZAS,25,20,1.0,1.0,9.0,30.0,182.0,46,Tercera Federación,0.04,0.04,2.0,0.08,6,2.22,0.61,0.06,0.12,0.123
+12.0,C. Villar,Defensas,AD TORREJÓN CF,29,27,2.0,0.0,6.0,28.0,,46,Tercera Federación,0.07,0.0,2.0,0.07,3,3.64,1.14,0.06,0.24,0.129
+9.0,Javi Heranz,Delanteros,MÉXICO FC,24,19,4.0,0.0,11.0,30.0,190.0,43,Tercera Federación,0.17,0.0,4.0,0.17,12,11.43,3.14,0.06,-0.58,0.168
+11.0,Migallon,Centrocampistas,MÉXICO FC,33,28,6.0,0.0,6.0,26.0,,46,Tercera Federación,0.18,0.0,6.0,0.18,12,17.14,4.71,0.06,-0.42,0.202
+6.0,Iván Lean,Centrocampistas,TRIVAL VALDERAS,32,18,4.0,0.0,6.0,31.0,,46,Tercera Federación,0.12,0.0,4.0,0.12,10,8.51,2.87,0.06,0.0,0.166
+9.0,S. Lagreca,Delanteros,LAS ROZAS,25,13,2.0,0.0,2.0,24.0,,39,Tercera Federación,0.08,0.0,2.0,0.08,6,4.44,1.22,0.06,0.12,0.123
+5.0,V. Velasco,Centrocampistas,LAS ROZAS,12,2,1.0,0.0,1.0,30.0,,37,Tercera Federación,0.08,0.0,1.0,0.08,6,2.22,0.61,0.06,0.25,0.085
+11.0,A. Sánchez,Delanteros,AD TORREJÓN CF,14,8,1.0,0.0,2.0,26.0,175.0,49,Tercera Federación,0.07,0.0,1.0,0.07,3,1.82,0.57,0.06,0.5,0.087
+18.0,J. Alcolado,Defensas,AD TORREJÓN CF,27,25,2.0,0.0,12.0,21.0,,46,Tercera Federación,0.07,0.0,2.0,0.07,3,3.64,1.14,0.06,0.26,0.124
+8.0,Jaime Amaro,Centrocampistas,ALCORCÓN B,17,7,2.0,0.0,2.0,20.0,166.0,46,Tercera Federación,0.12,0.0,2.0,0.12,9,3.64,1.4,0.06,0.29,0.124
+10.0,David Vilán,Delanteros,CUC VILLALBA,23,11,2.0,0.0,3.0,22.0,185.0,48,Tercera Federación,0.09,0.0,2.0,0.09,7,4.55,1.27,0.06,0.35,0.125
+,Javi Redondo,Centrocampistas,GALAPAGAR,26,13,2.0,0.0,12.0,25.0,171.0,43,Tercera Federación,0.08,0.0,2.0,0.08,5,4.44,1.22,0.06,0.15,0.126
+7.0,Adrián Rosell,Delanteros,LEGANÉS B,32,18,3.0,0.0,4.0,20.0,183.0,44,Tercera Federación,0.09,0.0,3.0,0.09,8,5.17,1.94,0.05,0.62,0.153
+4.0,Juan Alegre,Centrocampistas,CUC VILLALBA,24,1,2.0,0.0,4.0,20.0,,37,Tercera Federación,0.08,0.0,2.0,0.08,7,4.55,1.27,0.05,0.33,0.121
+8.0,Edu Llorente,Centrocampistas,ALCORCÓN B,11,11,1.0,0.0,2.0,21.0,,46,Tercera Federación,0.09,0.0,1.0,0.09,9,1.82,0.7,0.05,0.45,0.09
+6.0,Capi,Centrocampistas,ALCORCÓN B,21,18,2.0,0.0,4.0,22.0,,47,Tercera Federación,0.1,0.0,2.0,0.1,9,3.64,1.4,0.05,0.24,0.124
+10.0,Arman,Centrocampistas,ALCORCÓN B,33,31,3.0,0.0,1.0,21.0,172.0,43,Tercera Federación,0.09,0.0,3.0,0.09,9,5.45,2.11,0.05,0.15,0.152
+20.0,A. Bensaad,Delanteros,CUC VILLALBA,27,11,2.0,0.0,5.0,19.0,184.0,40,Tercera Federación,0.07,0.0,2.0,0.07,7,4.55,1.27,0.05,0.3,0.124
+27.0,R. Martín,Centrocampistas,MÉXICO FC,13,2,2.0,0.0,0.0,,,27,Tercera Federación,0.15,0.0,2.0,0.15,12,5.71,1.57,0.05,-1.08,0.119
+18.0,Barroso,Centrocampistas,CDF TRES CANTOS,28,13,3.0,0.0,7.0,23.0,,44,Tercera Federación,0.11,0.0,3.0,0.11,11,6.98,2.2,0.05,-0.04,0.148
+8.0,Koke San José,Centrocampistas,CUC VILLALBA,24,20,2.0,0.0,3.0,20.0,,43,Tercera Federación,0.08,0.0,2.0,0.08,7,4.55,1.27,0.05,0.33,0.121
+20.0,F. Garcia,Centrocampistas,CALA POZUELO,34,22,9.0,0.0,4.0,,,47,Tercera Federación,0.26,0.0,9.0,0.26,15,21.43,7.82,0.05,-0.26,0.254
+23.0,R. Porcel,Centrocampistas,AD TORREJÓN CF,16,8,1.0,0.0,3.0,23.0,175.0,42,Tercera Federación,0.06,0.0,1.0,0.06,3,1.82,0.57,0.05,0.44,0.087
+10.0,Fede Oliva,Delanteros,TRIVAL VALDERAS,28,5,3.0,0.0,2.0,20.0,,35,Tercera Federación,0.11,0.0,3.0,0.11,10,6.38,2.15,0.05,0.0,0.148
+3.0,J. Collado,Defensas,CDF TRES CANTOS,28,23,3.0,0.0,9.0,,,43,Tercera Federación,0.11,0.0,3.0,0.11,11,6.98,2.2,0.05,-0.04,0.148
+14.0,P. Prieto,Centrocampistas,RAYO VALLECANO B,22,14,1.0,0.0,3.0,22.0,,44,Tercera Federación,0.05,0.0,1.0,0.05,2,1.41,0.54,0.05,0.86,0.102
+15.0,Traore,Delanteros,TRIVAL VALDERAS,9,4,1.0,0.0,2.0,21.0,183.0,34,Tercera Federación,0.11,0.0,1.0,0.11,10,2.13,0.72,0.05,0.0,0.092
+,Nouaman,Centrocampistas,RCD CARABANCHEL,30,25,5.0,0.0,10.0,32.0,180.0,43,Tercera Federación,0.17,0.0,5.0,0.17,13,16.67,3.93,0.05,0.03,0.19
+20.0,S. Asensio,Centrocampistas,RAYO VALLECANO B,20,8,1.0,0.0,4.0,20.0,,41,Tercera Federación,0.05,0.0,1.0,0.05,2,1.41,0.54,0.05,0.95,0.097
+15.0,Borja Pascual,Centrocampistas,LAS ROZAS,30,27,2.0,0.0,8.0,29.0,173.0,50,Tercera Federación,0.07,0.0,2.0,0.07,6,4.44,1.22,0.05,0.1,0.131
+2.0,Alberto Moreno,Defensas,LAS ROZAS,29,24,2.0,0.0,7.0,22.0,,46,Tercera Federación,0.07,0.0,2.0,0.07,6,4.44,1.22,0.05,0.1,0.128
+,Miguelín,Centrocampistas,GALAPAGAR,22,3,1.0,0.0,2.0,22.0,174.0,36,Tercera Federación,0.05,0.0,1.0,0.05,5,2.22,0.61,0.04,0.18,0.096
+,M. Serrano,Centrocampistas,GALAPAGAR,19,12,1.0,0.0,3.0,23.0,,38,Tercera Federación,0.05,0.0,1.0,0.05,5,2.22,0.61,0.04,0.21,0.088
+14.0,Juanito,Centrocampistas,LAS ROZAS,32,15,2.0,0.0,4.0,23.0,,42,Tercera Federación,0.06,0.0,2.0,0.06,6,4.44,1.22,0.04,0.09,0.131
+,S. Pliego,Defensas,GALAPAGAR,22,20,1.0,0.0,6.0,25.0,,46,Tercera Federación,0.05,0.0,1.0,0.05,5,2.22,0.61,0.04,0.18,0.096
+17.0,A. Diaz,Defensas,CDF TRES CANTOS,30,28,3.0,0.0,9.0,25.0,,46,Tercera Federación,0.1,0.0,3.0,0.1,11,6.98,2.2,0.04,-0.03,0.148
+4.0,Ivi,Defensas,AD TORREJÓN CF,22,15,1.0,0.0,5.0,26.0,186.0,48,Tercera Federación,0.05,0.0,1.0,0.05,3,1.82,0.57,0.04,0.32,0.097
+11.0,Danilo,Centrocampistas,ALCORCÓN B,14,10,1.0,0.0,5.0,20.0,170.0,37,Tercera Federación,0.07,0.0,1.0,0.07,9,1.82,0.7,0.04,0.36,0.086
+9.0,Raul Uche,Delanteros,CALA POZUELO,29,22,6.0,0.0,4.0,27.0,180.0,45,Tercera Federación,0.21,0.0,6.0,0.21,15,14.29,5.21,0.04,-0.31,0.209
+19.0,J. Cardona,Centrocampistas,TRIVAL VALDERAS,11,4,1.0,0.0,2.0,,,33,Tercera Federación,0.09,0.0,1.0,0.09,10,2.13,0.72,0.04,0.0,0.086
+4.0,Dani Pascual,Defensas,CALA POZUELO,24,21,5.0,0.0,5.0,23.0,,45,Tercera Federación,0.21,0.0,5.0,0.21,15,11.9,4.34,0.04,-0.38,0.193
+19.0,Emi,Centrocampistas,ALCORCÓN B,30,27,2.0,0.0,2.0,20.0,,46,Tercera Federación,0.07,0.0,2.0,0.07,9,3.64,1.4,0.04,0.17,0.132
+2.0,Marco Hernández,Defensas,ALCORCÓN B,14,11,1.0,0.0,4.0,21.0,,37,Tercera Federación,0.07,0.0,1.0,0.07,9,1.82,0.7,0.04,0.36,0.086
+4.0,Héctor Criado,Defensas,ALCORCÓN B,25,22,2.0,0.0,5.0,20.0,,44,Tercera Federación,0.08,0.0,2.0,0.08,9,3.64,1.4,0.04,0.2,0.123
+22.0,Raúl Díez,Defensas,TRIVAL VALDERAS,25,24,2.0,0.0,8.0,37.0,,49,Tercera Federación,0.08,0.0,2.0,0.08,10,4.26,1.43,0.04,0.0,0.122
+24.0,Iván Iñigo,Delanteros,RAYO VALLECANO B,25,7,1.0,0.0,2.0,19.0,,31,Tercera Federación,0.04,0.0,1.0,0.04,2,1.41,0.54,0.04,0.76,0.104
+22.0,Nacho Pujol,Delanteros,AD TORREJÓN CF,24,9,1.0,0.0,1.0,21.0,,42,Tercera Federación,0.04,0.0,1.0,0.04,3,1.82,0.57,0.04,0.29,0.097
+17.0,Adrián Gallego,Delanteros,AD TORREJÓN CF,26,13,1.0,0.0,5.0,20.0,,46,Tercera Federación,0.04,0.0,1.0,0.04,3,1.82,0.57,0.04,0.27,0.103
+,Alberdi,Defensas,RCD CARABANCHEL,30,29,4.0,0.0,14.0,26.0,,46,Tercera Federación,0.13,0.0,4.0,0.13,13,13.33,3.14,0.04,0.03,0.166
+17.0,Rony Mbomio,Delanteros,CUC VILLALBA,17,9,1.0,0.0,1.0,20.0,,37,Tercera Federación,0.06,0.0,1.0,0.06,7,2.27,0.63,0.04,0.47,0.09
+28.0,Jared Escalante,Defensas,MÉXICO FC,20,13,2.0,0.0,1.0,19.0,173.0,41,Tercera Federación,0.1,0.0,2.0,0.1,12,5.71,1.57,0.04,-0.7,0.113
+5.0,A. Módula,Centrocampistas,RSD ALCALÁ,23,6,1.0,0.0,6.0,32.0,178.0,42,Tercera Federación,0.04,0.0,1.0,0.04,1,1.47,0.44,0.04,1.57,0.105
+,A. Chamón,Centrocampistas,RCD CARABANCHEL,27,21,3.0,0.0,2.0,21.0,,45,Tercera Federación,0.11,0.0,3.0,0.11,13,10.0,2.36,0.03,0.04,0.146
+8.0,Sergio Marcos,Centrocampistas,RSD ALCALÁ,32,30,1.0,0.0,8.0,33.0,176.0,44,Tercera Federación,0.03,0.0,1.0,0.03,1,1.47,0.44,0.03,1.12,0.121
+30.0,David Baladia,Centrocampistas,LEGANÉS B,21,5,1.0,0.0,2.0,20.0,180.0,41,Tercera Federación,0.05,0.0,1.0,0.05,8,1.72,0.65,0.03,0.95,0.1
+20.0,David López,Defensas,RSD ALCALÁ,31,25,1.0,0.0,11.0,31.0,185.0,47,Tercera Federación,0.03,0.0,1.0,0.03,1,1.47,0.44,0.03,1.16,0.119
+14.0,F. Rincón,Defensas,AD PARLA,8,3,1.0,0.0,0.0,20.0,190.0,37,Tercera Federación,0.12,0.0,1.0,0.12,14,2.63,0.87,0.03,-2.5,0.075
+2.0,Rodrigo Nunes,Defensas,AD PARLA,22,21,3.0,0.0,6.0,31.0,191.0,46,Tercera Federación,0.14,0.0,3.0,0.14,14,7.89,2.61,0.03,-0.91,0.141
+,Pacheco,Delanteros,RCD CARABANCHEL,31,22,3.0,0.0,4.0,,,46,Tercera Federación,0.1,0.0,3.0,0.1,13,10.0,2.36,0.03,0.03,0.151
+12.0,Escobar,Centrocampistas,AD PARLA,32,27,4.0,0.0,9.0,26.0,176.0,44,Tercera Federación,0.12,0.0,4.0,0.12,14,10.53,3.47,0.03,-0.62,0.161
+18.0,D. Ruiz,Centrocampistas,TRIVAL VALDERAS,29,6,2.0,0.0,1.0,21.0,,42,Tercera Federación,0.07,0.0,2.0,0.07,10,4.26,1.43,0.03,0.0,0.127
+15.0,A. García,Centrocampistas,CUC VILLALBA,19,12,1.0,0.0,4.0,18.0,,33,Tercera Federación,0.05,0.0,1.0,0.05,7,2.27,0.63,0.03,0.42,0.089
+7.0,J. Losada,Delanteros,LAS ROZAS,24,16,0.0,1.0,11.0,25.0,190.0,42,Tercera Federación,0.0,0.04,1.0,0.04,6,0.0,0.0,0.03,0.12,0.096
+5.0,I. Amaya,Defensas,CDF TRES CANTOS,29,18,2.0,0.0,5.0,26.0,,44,Tercera Federación,0.07,0.0,2.0,0.07,11,4.65,1.47,0.03,-0.03,0.127
+7.0,Gonzalo Camello,Defensas,CALA POZUELO,11,6,2.0,0.0,1.0,24.0,,40,Tercera Federación,0.18,0.0,2.0,0.18,15,4.76,1.74,0.03,-0.82,0.134
+2.0,Gerard,Defensas,CDF TRES CANTOS,30,30,2.0,0.0,8.0,32.0,,49,Tercera Federación,0.07,0.0,2.0,0.07,11,4.65,1.47,0.03,-0.03,0.13
+19.0,A. Gutiérrez,Delanteros,AD PARLA,27,13,3.0,0.0,9.0,,,29,Tercera Federación,0.11,0.0,3.0,0.11,14,7.89,2.61,0.03,-0.74,0.139
+3.0,A. Herrero,Defensas,CALA POZUELO,25,20,4.0,0.0,6.0,39.0,181.0,44,Tercera Federación,0.16,0.0,4.0,0.16,15,9.52,3.47,0.03,-0.36,0.167
+3.0,V. Calarge,Defensas,TRIVAL VALDERAS,31,28,2.0,0.0,7.0,29.0,173.0,44,Tercera Federación,0.06,0.0,2.0,0.06,10,4.26,1.43,0.03,0.0,0.127
+22.0,K. Diouf,Centrocampistas,LAS ROZAS,24,11,1.0,0.0,7.0,21.0,,44,Tercera Federación,0.04,0.0,1.0,0.04,6,2.22,0.61,0.03,0.12,0.096
+18.0,Fran Gómez,Centrocampistas,CUC VILLALBA,28,17,1.0,0.0,6.0,21.0,170.0,42,Tercera Federación,0.04,0.0,1.0,0.04,7,2.27,0.63,0.03,0.29,0.109
+3.0,Diego Robles,Defensas,RAYO VALLECANO B,32,32,1.0,0.0,4.0,21.0,,46,Tercera Federación,0.03,0.0,1.0,0.03,2,1.41,0.54,0.03,0.59,0.117
+9.0,Juanda,Delanteros,ARAVACA,27,15,7.0,0.0,6.0,22.0,184.0,34,Tercera Federación,0.26,0.0,7.0,0.26,16,16.67,6.6,0.03,-0.37,0.232
+,J. Bermejo,Delanteros,RCD CARABANCHEL,25,14,1.0,1.0,2.0,20.0,,33,Tercera Federación,0.04,0.04,2.0,0.08,13,3.33,0.79,0.02,0.04,0.122
+,A. Ramirez,Defensas,RCD CARABANCHEL,16,16,1.0,0.0,6.0,33.0,,47,Tercera Federación,0.06,0.0,1.0,0.06,13,3.33,0.79,0.02,0.06,0.084
+21.0,Beni,Defensas,TRIVAL VALDERAS,24,24,1.0,0.0,6.0,34.0,180.0,50,Tercera Federación,0.04,0.0,1.0,0.04,10,2.13,0.72,0.02,0.0,0.095
+2.0,J. De Castro,Defensas,LEGANÉS B,24,21,1.0,0.0,1.0,23.0,177.0,45,Tercera Federación,0.04,0.0,1.0,0.04,8,1.72,0.65,0.02,0.83,0.102
+,Álvaro Marcos,Centrocampistas,RCD CARABANCHEL,15,6,1.0,0.0,4.0,20.0,180.0,35,Tercera Federación,0.07,0.0,1.0,0.07,13,3.33,0.79,0.02,0.07,0.087
+11.0,Turégano,Defensas,TRIVAL VALDERAS,23,20,1.0,0.0,8.0,33.0,183.0,49,Tercera Federación,0.04,0.0,1.0,0.04,10,2.13,0.72,0.02,0.0,0.092
+,Vallinot,Centrocampistas,RCD CARABANCHEL,31,17,2.0,0.0,3.0,26.0,,41,Tercera Federación,0.06,0.0,2.0,0.06,13,6.67,1.57,0.02,0.03,0.127
+17.0,Marcos Gozalo,Defensas,TRIVAL VALDERAS,22,12,1.0,0.0,2.0,,,41,Tercera Federación,0.05,0.0,1.0,0.05,10,2.13,0.72,0.02,0.0,0.095
+3.0,Ripoll,Defensas,MÉXICO FC,22,17,1.0,0.0,4.0,26.0,178.0,40,Tercera Federación,0.05,0.0,1.0,0.05,12,2.86,0.79,0.02,-0.64,0.089
+,P. Altozano,Centrocampistas,RCD CARABANCHEL,12,8,1.0,0.0,1.0,20.0,,44,Tercera Federación,0.08,0.0,1.0,0.08,13,3.33,0.79,0.02,0.08,0.084
+,J. Sanchez,Centrocampistas,GALAPAGAR,32,22,1.0,0.0,7.0,24.0,,44,Tercera Federación,0.03,0.0,1.0,0.03,5,2.22,0.61,0.02,0.12,0.113
+16.0,Alfonso,Defensas,ARAVACA,21,8,3.0,0.0,2.0,,,36,Tercera Federación,0.14,0.0,3.0,0.14,16,7.14,2.83,0.02,-0.48,0.142
+6.0,C. Manzano,Centrocampistas,AD PARLA,29,20,2.0,0.0,19.0,,,33,Tercera Federación,0.07,0.0,2.0,0.07,14,5.26,1.74,0.02,-0.69,0.122
+15.0,Víctor Pastor,Defensas,ALCORCÓN B,29,22,1.0,0.0,4.0,19.0,186.0,42,Tercera Federación,0.03,0.0,1.0,0.03,9,1.82,0.7,0.02,0.17,0.105
+22.0,R. Expósito,Centrocampistas,ALCORCÓN B,27,15,1.0,0.0,6.0,20.0,,36,Tercera Federación,0.04,0.0,1.0,0.04,9,1.82,0.7,0.02,0.19,0.105
+15.0,Jesus Gonzalez,Defensas,CALA POZUELO,9,4,1.0,0.0,2.0,31.0,184.0,55,Tercera Federación,0.11,0.0,1.0,0.11,15,2.38,0.87,0.02,-1.0,0.084
+12.0,J. Casado,Delanteros,CALA POZUELO,19,6,2.0,0.0,4.0,21.0,183.0,27,Tercera Federación,0.11,0.0,2.0,0.11,15,4.76,1.74,0.02,-0.47,0.118
+20.0,Gonzalo,Centrocampistas,CDF TRES CANTOS,31,18,2.0,0.0,2.0,23.0,,43,Tercera Federación,0.06,0.0,2.0,0.06,11,4.65,1.47,0.02,-0.03,0.127
+3.0,Guille Tenorio,Defensas,ARAVACA,23,22,4.0,0.0,6.0,,,47,Tercera Federación,0.17,0.0,4.0,0.17,16,9.52,3.77,0.02,-0.43,0.166
+7.0,Barroso,Delanteros,ARAVACA,22,17,3.0,1.0,1.0,26.0,,43,Tercera Federación,0.14,0.05,4.0,0.18,16,7.14,2.83,0.02,-0.45,0.169
+8.0,Simal,Centrocampistas,CDF TRES CANTOS,31,29,2.0,0.0,8.0,25.0,178.0,40,Tercera Federación,0.06,0.0,2.0,0.06,11,4.65,1.47,0.02,-0.03,0.127
+16.0,T. Acosta,Centrocampistas,CD CANILLAS,27,22,8.0,0.0,15.0,28.0,,45,Tercera Federación,0.3,0.0,8.0,0.3,17,22.22,11.48,0.02,-1.19,0.249
+12.0,David Ortega,Defensas,CDF TRES CANTOS,22,15,1.0,0.0,4.0,23.0,187.0,39,Tercera Federación,0.05,0.0,1.0,0.05,11,2.33,0.73,0.02,-0.05,0.094
+12.0,Pitu,Delanteros,CD CANILLAS,26,25,10.0,0.0,10.0,26.0,172.0,43,Tercera Federación,0.38,0.0,10.0,0.38,17,27.78,14.35,0.02,-1.23,0.294
+16.0,A. Moreno,Defensas,AD PARLA,14,11,1.0,0.0,2.0,,,41,Tercera Federación,0.07,0.0,1.0,0.07,14,2.63,0.87,0.02,-1.43,0.071
+16.0,Izán Redondo,Centrocampistas,CALA POZUELO,30,20,3.0,0.0,7.0,20.0,,39,Tercera Federación,0.1,0.0,3.0,0.1,15,7.14,2.61,0.02,-0.3,0.146
+6.0,Febre,Centrocampistas,CDF TRES CANTOS,34,33,1.0,0.0,1.0,23.0,,47,Tercera Federación,0.03,0.0,1.0,0.03,11,2.33,0.73,0.01,-0.03,0.118
+6.0,R. Gómez,Defensas,MÉXICO FC,27,26,1.0,0.0,5.0,27.0,,50,Tercera Federación,0.04,0.0,1.0,0.04,12,2.86,0.79,0.01,-0.52,0.099
+19.0,Ignacio Fertis,Delanteros,ARAVACA,11,2,1.0,0.0,2.0,,,35,Tercera Federación,0.09,0.0,1.0,0.09,16,2.38,0.94,0.01,-0.91,0.079
+,S. Juarez,Centrocampistas,RCD CARABANCHEL,24,10,1.0,0.0,3.0,31.0,,43,Tercera Federación,0.04,0.0,1.0,0.04,13,3.33,0.79,0.01,0.04,0.095
+20.0,Joni Cole,Centrocampistas,ARAVACA,26,21,3.0,0.0,5.0,,,44,Tercera Federación,0.12,0.0,3.0,0.12,16,7.14,2.83,0.01,-0.38,0.145
+6.0,Andrés,Centrocampistas,ARAVACA,29,18,2.0,0.0,11.0,,,44,Tercera Federación,0.07,0.0,2.0,0.07,16,4.76,1.89,0.01,-0.34,0.124
+11.0,Zamo,Delanteros,ARAVACA,24,20,3.0,0.0,2.0,28.0,,35,Tercera Federación,0.12,0.0,3.0,0.12,16,7.14,2.83,0.01,-0.42,0.139
+15.0,A. Perez,Centrocampistas,ARAVACA,28,17,3.0,0.0,3.0,33.0,,40,Tercera Federación,0.11,0.0,3.0,0.11,16,7.14,2.83,0.01,-0.36,0.145
+20.0,Moussa,Centrocampistas,TRIVAL VALDERAS,31,29,1.0,0.0,12.0,21.0,,33,Tercera Federación,0.03,0.0,1.0,0.03,10,2.13,0.72,0.01,0.0,0.109
+8.0,Kike Lanchas,Centrocampistas,ARAVACA,27,21,2.0,0.0,4.0,38.0,,48,Tercera Federación,0.07,0.0,2.0,0.07,16,4.76,1.89,0.01,-0.37,0.118
+10.0,M. Alonso,Centrocampistas,ARAVACA,32,31,3.0,0.0,6.0,,,45,Tercera Federación,0.09,0.0,3.0,0.09,16,7.14,2.83,0.01,-0.31,0.146
+,Toni Morales,Delanteros,RCD CARABANCHEL,19,10,1.0,0.0,2.0,30.0,,49,Tercera Federación,0.05,0.0,1.0,0.05,13,3.33,0.79,0.01,0.05,0.086
+24.0,Helmer,Delanteros,AD PARLA,25,20,1.0,0.0,14.0,28.0,,39,Tercera Federación,0.04,0.0,1.0,0.04,14,2.63,0.87,0.01,-0.8,0.091
+,Del Barco,Delanteros,RCD CARABANCHEL,19,5,1.0,0.0,4.0,35.0,179.0,42,Tercera Federación,0.05,0.0,1.0,0.05,13,3.33,0.79,0.01,0.05,0.086
+22.0,J. Rodríguez,Defensas,ARAVACA,27,15,2.0,0.0,6.0,20.0,,43,Tercera Federación,0.07,0.0,2.0,0.07,16,4.76,1.89,0.01,-0.37,0.118
+3.0,Javi Arce,Defensas,AD PARLA,19,18,1.0,0.0,2.0,20.0,180.0,38,Tercera Federación,0.05,0.0,1.0,0.05,14,2.63,0.87,0.01,-1.05,0.077
+20.0,Carlitos Monzón,Centrocampistas,AD PARLA,31,29,1.0,0.0,8.0,25.0,,46,Tercera Federación,0.03,0.0,1.0,0.03,14,2.63,0.87,0.01,-0.65,0.104
+18.0,César Escriba,Centrocampistas,AD PARLA,23,18,1.0,0.0,10.0,24.0,178.0,42,Tercera Federación,0.04,0.0,1.0,0.04,14,2.63,0.87,0.01,-0.87,0.084
+7.0,Felipe Gaviria,Centrocampistas,CD CANILLAS,26,22,4.0,0.0,11.0,26.0,,41,Tercera Federación,0.15,0.0,4.0,0.15,17,11.11,5.74,0.01,-1.23,0.156
+21.0,Lorento,Delanteros,AD PARLA,18,7,1.0,0.0,5.0,24.0,,46,Tercera Federación,0.06,0.0,1.0,0.06,14,2.63,0.87,0.01,-1.11,0.08
+10.0,Merchán,Centrocampistas,CALA POZUELO,22,21,1.0,0.0,7.0,35.0,173.0,44,Tercera Federación,0.05,0.0,1.0,0.05,15,2.38,0.87,0.01,-0.41,0.091
+14.0,Fer Cuevas,Defensas,ARAVACA,31,29,2.0,0.0,6.0,,,50,Tercera Federación,0.06,0.0,2.0,0.06,16,4.76,1.89,0.01,-0.32,0.125
+22.0,Herranz,Centrocampistas,CALA POZUELO,15,5,1.0,0.0,2.0,31.0,176.0,44,Tercera Federación,0.07,0.0,1.0,0.07,15,2.38,0.87,0.01,-0.6,0.081
+6.0,M. Ogawa,Centrocampistas,CALA POZUELO,31,26,2.0,0.0,8.0,22.0,,39,Tercera Federación,0.06,0.0,2.0,0.06,15,4.76,1.74,0.01,-0.29,0.125
+5.0,Édgar,Centrocampistas,CALA POZUELO,14,11,1.0,0.0,2.0,,,39,Tercera Federación,0.07,0.0,1.0,0.07,15,2.38,0.87,0.01,-0.64,0.078
+25.0,Raúl León,Defensas,CALA POZUELO,33,33,2.0,0.0,6.0,27.0,,50,Tercera Federación,0.06,0.0,2.0,0.06,15,4.76,1.74,0.01,-0.27,0.131
+19.0,Chami,Centrocampistas,CALA POZUELO,14,7,1.0,0.0,1.0,,,42,Tercera Federación,0.07,0.0,1.0,0.07,15,2.38,0.87,0.01,-0.64,0.078
+,Héctor,Delanteros,RCD CARABANCHEL,28,14,0.0,0.0,1.0,31.0,,47,Tercera Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,0.04,0.083
+5.0,Papo,Centrocampistas,ARAVACA,28,26,1.0,0.0,10.0,,,46,Tercera Federación,0.04,0.0,1.0,0.04,16,2.38,0.94,0.0,-0.36,0.103
+,Dani García,Centrocampistas,RCD CARABANCHEL,5,3,0.0,0.0,2.0,26.0,,41,Tercera Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,0.2,0.016
+27.0,Dani Gomez,Defensas,ARAVACA,1,0,0.0,0.0,0.0,23.0,,27,Tercera Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-10.0,-0.08
+,Juancar,Centrocampistas,RCD CARABANCHEL,18,17,0.0,0.0,6.0,28.0,,42,Tercera Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,0.06,0.053
+,Fer Pastor,Centrocampistas,RCD CARABANCHEL,26,14,0.0,0.0,5.0,28.0,,48,Tercera Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,0.04,0.077
+18.0,J. Herranz,Centrocampistas,ARAVACA,11,4,0.0,0.0,2.0,30.0,,42,Tercera Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-0.91,0.025
+19.0,G. Zamorano,Defensas,EL ÁLAMO,24,22,10.0,0.0,4.0,29.0,174.0,57,Tercera Federación,0.42,0.0,10.0,0.42,18,34.48,15.0,0.0,-1.33,0.312
+24.0,A. López,Centrocampistas,ARAVACA,26,12,1.0,0.0,7.0,,,41,Tercera Federación,0.04,0.0,1.0,0.04,16,2.38,0.94,0.0,-0.38,0.097
+26.0,D. Pongó-Dankai,Delanteros,ARAVACA,3,2,0.0,0.0,1.0,20.0,179.0,30,Tercera Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-3.33,-0.019
+14.0,A. Nyada,Defensas,CALA POZUELO,24,17,0.0,0.0,4.0,,,40,Tercera Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-0.38,0.067
+6.0,Aitor González,Centrocampistas,RAYO VALLECANO B,31,31,0.0,0.0,6.0,24.0,177.0,41,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0.61,0.096
+24.0,Heras,Defensas,CALA POZUELO,24,11,0.0,0.0,1.0,23.0,,47,Tercera Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-0.38,0.067
+17.0,Gonzalo García,Centrocampistas,RAYO VALLECANO B,8,1,0.0,0.0,0.0,20.0,,43,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2.38,0.043
+28.0,G. Gutiérrez,Centrocampistas,RAYO VALLECANO B,1,0,0.0,0.0,0.0,19.0,,34,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,19.0,0.161
+21.0,Ivo Carosini,Defensas,CALA POZUELO,26,19,0.0,0.0,10.0,33.0,181.0,45,Tercera Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-0.35,0.074
+23.0,Álvaro,Defensas,CALA POZUELO,27,24,0.0,0.0,9.0,28.0,,48,Tercera Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-0.33,0.077
+8.0,Expósito,Centrocampistas,RAYO VALLECANO B,8,1,0.0,0.0,4.0,23.0,182.0,39,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2.38,0.043
+29.0,W. Glogowski,Centrocampistas,RAYO VALLECANO B,1,0,0.0,0.0,0.0,,177.0,0,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,19.0,0.161
+23.0,Pablo Montero,Delanteros,RAYO VALLECANO B,10,3,0.0,0.0,2.0,23.0,168.0,44,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,1.9,0.045
+,C. Lucas,Defensas,RCD CARABANCHEL,5,3,0.0,0.0,1.0,,,29,Tercera Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,0.2,0.016
+26.0,A. Bravo,Delanteros,ARAVACA,3,0,0.0,0.0,1.0,34.0,,38,Tercera Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-3.33,-0.019
+18.0,Cesar Valero,Delanteros,RAYO VALLECANO B,8,2,0.0,0.0,1.0,20.0,,36,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2.38,0.043
+12.0,R. Veloz,Delanteros,RAYO VALLECANO B,1,0,0.0,0.0,0.0,,,0,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,19.0,0.161
+17.0,Chuky,Delanteros,ARAVACA,30,22,0.0,0.0,3.0,,,42,Tercera Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-0.33,0.085
+,Dani Tapia,Defensas,RCD CARABANCHEL,27,23,0.0,0.0,8.0,28.0,,47,Tercera Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,0.04,0.08
+,Javi Crespo,Defensas,RCD CARABANCHEL,11,9,0.0,0.0,5.0,34.0,185.0,46,Tercera Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,0.09,0.033
+,J. Batista,Defensas,RCD CARABANCHEL,8,4,0.0,0.0,3.0,26.0,180.0,49,Tercera Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,0.12,0.025
+,Jorge Pérez,Defensas,RCD CARABANCHEL,17,15,0.0,0.0,2.0,20.0,,43,Tercera Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,0.06,0.05
+,Pintón,Defensas,RCD CARABANCHEL,12,9,0.0,0.0,3.0,19.0,181.0,42,Tercera Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,0.08,0.036
+,Richi Aztiria,Defensas,RCD CARABANCHEL,22,19,0.0,0.0,3.0,28.0,185.0,51,Tercera Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,0.05,0.065
+21.0,M. Carrim,Delanteros,ALCORCÓN B,30,24,0.0,0.0,3.0,23.0,180.0,31,Tercera Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.17,0.09
+21.0,Ollero,Defensas,ARAVACA,12,1,0.0,0.0,1.0,,,36,Tercera Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-0.83,0.028
+4.0,D. Sanchez,Defensas,ARAVACA,22,15,0.0,0.0,13.0,27.0,,44,Tercera Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-0.45,0.061
+15.0,Nachete,Centrocampistas,AD TORREJÓN CF,31,28,0.0,0.0,5.0,36.0,,51,Tercera Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,0.23,0.093
+10.0,Calleja,Centrocampistas,TRIVAL VALDERAS,1,1,0.0,0.0,0.0,35.0,,42,Tercera Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.003
+3.0,Caba,Defensas,AD TORREJÓN CF,7,2,0.0,0.0,1.0,23.0,179.0,38,Tercera Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.0,0.029
+14.0,Unai Lechosa,Defensas,AD TORREJÓN CF,24,16,0.0,0.0,6.0,20.0,183.0,45,Tercera Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,0.29,0.073
+5.0,M. Linares,Defensas,AD TORREJÓN CF,8,4,0.0,0.0,1.0,22.0,,48,Tercera Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,0.88,0.031
+26.0,R. Martinez,Centrocampistas,TRIVAL VALDERAS,1,0,0.0,0.0,0.0,,,28,Tercera Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.003
+23.0,Alex Perez,Delanteros,AD PARLA,6,0,0.0,0.0,2.0,,,34,Tercera Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-3.33,-0.01
+8.0,Pedro Roblas,Delanteros,AD PARLA,2,1,0.0,0.0,0.0,21.0,168.0,36,Tercera Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-10.0,-0.077
+27.0,M. Sosa,Centrocampistas,AD PARLA,1,0,0.0,0.0,0.0,,,0,Tercera Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-20.0,-0.164
+26.0,F. Vargas,Centrocampistas,AD PARLA,1,1,0.0,0.0,0.0,,,27,Tercera Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-20.0,-0.164
+21.0,S. Rublico,Defensas,CUC VILLALBA,28,23,0.0,0.0,1.0,19.0,,44,Tercera Federación,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.29,0.085
+3.0,Óscar González,Defensas,CUC VILLALBA,30,26,0.0,0.0,5.0,21.0,175.0,46,Tercera Federación,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.27,0.09
+16.0,Raúl Girona,Defensas,CUC VILLALBA,22,19,0.0,0.0,5.0,20.0,,43,Tercera Federación,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.36,0.068
+22.0,Iván Vasiljevic,Defensas,CUC VILLALBA,21,15,0.0,0.0,5.0,20.0,185.0,44,Tercera Federación,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.38,0.065
+2.0,Seydou Fall,Defensas,CUC VILLALBA,8,3,0.0,0.0,1.0,20.0,192.0,40,Tercera Federación,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,1.0,0.032
+23.0,Jan Colomé,Defensas,CUC VILLALBA,4,2,0.0,0.0,1.0,19.0,,34,Tercera Federación,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,2.0,0.028
+25.0,Ángel López,Centrocampistas,AD PARLA,11,5,0.0,0.0,2.0,,,39,Tercera Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.82,0.017
+6.0,Darío Frey,Centrocampistas,CUC VILLALBA,28,27,0.0,0.0,9.0,20.0,180.0,47,Tercera Federación,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.29,0.085
+26.0,D. Yerpes,Centrocampistas,AD PARLA,9,3,0.0,0.0,1.0,,,40,Tercera Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-2.22,0.008
+3.0,Rufo,Centrocampistas,AD PARLA,6,1,0.0,0.0,1.0,23.0,172.0,38,Tercera Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-3.33,-0.01
+7.0,Michael,Centrocampistas,AD PARLA,22,13,0.0,0.0,5.0,26.0,,41,Tercera Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-0.91,0.057
+22.0,Julio Villalba,Defensas,AD PARLA,18,10,0.0,0.0,4.0,20.0,179.0,36,Tercera Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.11,0.044
+15.0,D. Chica,Defensas,AD PARLA,28,26,0.0,0.0,5.0,21.0,182.0,39,Tercera Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-0.71,0.076
+14.0,Nogueira,Centrocampistas,TRIVAL VALDERAS,22,18,0.0,0.0,5.0,31.0,,47,Tercera Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.065
+27.0,J. Aneam,Defensas,TRIVAL VALDERAS,1,0,0.0,0.0,0.0,,,27,Tercera Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.003
+28.0,J. Gomez,Defensas,TRIVAL VALDERAS,1,0,0.0,0.0,0.0,,,26,Tercera Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.003
+18.0,Viti,Defensas,ALCORCÓN B,15,0,0.0,0.0,0.0,20.0,,40,Tercera Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.33,0.047
+4.0,M. De Felipe,Defensas,RSD ALCALÁ,13,2,0.0,0.0,0.0,23.0,,45,Tercera Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,2.77,0.061
+23.0,A. Martin,Defensas,ARAVACA,28,21,1.0,0.0,6.0,30.0,,45,Tercera Federación,0.04,0.0,1.0,0.04,16,2.38,0.94,0.0,-0.36,0.103
+28.0,J. De Santiago,Defensas,RSD ALCALÁ,2,0,0.0,0.0,0.0,,,29,Tercera Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,18.0,0.156
+20.0,J. Assi,Delanteros,ALCORCÓN B,4,0,0.0,0.0,0.0,20.0,185.0,49,Tercera Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,1.25,0.022
+28.0,Álex Martín,Centrocampistas,ALCORCÓN B,12,0,0.0,0.0,3.0,19.0,178.0,33,Tercera Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.42,0.039
+27.0,G. Moreno,Centrocampistas,RSD ALCALÁ,1,0,0.0,0.0,0.0,,,38,Tercera Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,36.0,0.303
+26.0,N. Barcelo,Centrocampistas,RSD ALCALÁ,3,0,0.0,0.0,0.0,,,38,Tercera Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,12.0,0.109
+14.0,Íñigo García,Centrocampistas,ALCORCÓN B,18,9,0.0,0.0,7.0,20.0,,43,Tercera Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.28,0.055
+16.0,N. Cornelie,Centrocampistas,ALCORCÓN B,6,6,0.0,0.0,3.0,22.0,183.0,40,Tercera Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.83,0.025
+26.0,C. Sánchez,Defensas,ALCORCÓN B,5,0,0.0,0.0,1.0,,,32,Tercera Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,1.0,0.023
+5.0,A. Al-Hussain,Defensas,ALCORCÓN B,18,17,0.0,0.0,2.0,21.0,,38,Tercera Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.28,0.055
+6.0,Ángel Aguilar,Centrocampistas,AD TORREJÓN CF,31,30,0.0,0.0,6.0,22.0,,46,Tercera Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,0.23,0.093
+3.0,Bryan Osorio,Defensas,ALCORCÓN B,20,16,0.0,0.0,9.0,20.0,,42,Tercera Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.25,0.061
+16.0,Mohamed Bah,Delanteros,RSD ALCALÁ,8,1,0.0,0.0,1.0,20.0,194.0,27,Tercera Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,4.5,0.061
+12.0,Ugaitz Martínez,Defensas,ALCORCÓN B,14,10,0.0,0.0,4.0,21.0,181.0,49,Tercera Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.36,0.044
+10.0,Fabián Luzzi,Delanteros,AD TORREJÓN CF,6,1,0.0,0.0,0.0,21.0,175.0,37,Tercera Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.17,0.027
+5.0,Gabino,Centrocampistas,AD TORREJÓN CF,1,1,0.0,0.0,1.0,22.0,,42,Tercera Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,7.0,0.061
+4.0,Mario Sánchez,Defensas,TRIVAL VALDERAS,26,23,0.0,0.0,9.0,36.0,189.0,49,Tercera Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.076
+16.0,V. Barber,Defensas,TRIVAL VALDERAS,14,10,0.0,0.0,2.0,22.0,,42,Tercera Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.041
+8.0,Mario Duque,Defensas,TRIVAL VALDERAS,33,24,0.0,0.0,9.0,33.0,,47,Tercera Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.097
+21.0,Iker Liaño,Centrocampistas,AD TORREJÓN CF,11,6,0.0,0.0,2.0,22.0,170.0,39,Tercera Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,0.64,0.038
+2.0,Víctor Alonso,Defensas,TRIVAL VALDERAS,4,1,0.0,0.0,0.0,,,44,Tercera Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.012
+2.0,M. Barajas,Defensas,CALA POZUELO,16,6,0.0,0.0,0.0,,,40,Tercera Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-0.56,0.042
+27.0,D. Retabe,Delanteros,MÉXICO FC,3,0,0.0,0.0,0.0,,,27,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-4.67,-0.03
+22.0,David Mico,Defensas,RAYO VALLECANO B,3,1,0.0,0.0,0.0,20.0,,39,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,6.33,0.062
+6.0,David Gómez,Defensas,LAS ROZAS,22,21,0.0,0.0,2.0,31.0,,51,Tercera Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.14,0.066
+,Carlos Daniel,Defensas,GALAPAGAR,21,12,0.0,0.0,3.0,25.0,,45,Tercera Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.19,0.063
+,J. Saenz,Defensas,GALAPAGAR,1,0,0.0,0.0,0.0,,,27,Tercera Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,4.0,0.036
+26.0,Ruso,Delanteros,CDF TRES CANTOS,2,1,0.0,0.0,0.0,,,42,Tercera Federación,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.5,0.002
+27.0,A. Lugo,Centrocampistas,CDF TRES CANTOS,1,0,0.0,0.0,0.0,,,27,Tercera Federación,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.0,-0.005
+27.0,A. Gomez,Centrocampistas,CDF TRES CANTOS,7,2,0.0,0.0,2.0,21.0,,35,Tercera Federación,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.14,0.019
+,J. De La Torre,Centrocampistas,GALAPAGAR,29,23,0.0,0.0,5.0,25.0,,42,Tercera Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.14,0.086
+19.0,Juanpe,Centrocampistas,CDF TRES CANTOS,9,3,0.0,0.0,0.0,25.0,,44,Tercera Federación,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.11,0.026
+,D. Carrasco,Centrocampistas,GALAPAGAR,1,0,0.0,0.0,0.0,,,32,Tercera Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,4.0,0.036
+4.0,A. Martin,Centrocampistas,CDF TRES CANTOS,33,32,0.0,0.0,7.0,29.0,,49,Tercera Federación,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.03,0.097
+18.0,I. Jovanovic,Delanteros,CD CANILLAS,3,0,0.0,0.0,0.0,,,27,Tercera Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-10.67,-0.08
+,Vega,Delanteros,GALAPAGAR,3,0,0.0,0.0,0.0,,,35,Tercera Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.33,0.02
+4.0,L. Enrique,Defensas,LAS ROZAS,32,28,0.0,0.0,6.0,28.0,191.0,47,Tercera Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.09,0.095
+,Javi Gordo,Defensas,GALAPAGAR,23,20,0.0,0.0,1.0,20.0,,42,Tercera Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.17,0.069
+32.0,F. Andres,Delanteros,CD CANILLAS,12,5,1.0,0.0,2.0,,,27,Tercera Federación,0.08,0.0,1.0,0.08,17,2.78,1.43,0.0,-2.67,0.061
+28.0,A. Fernandez,Delanteros,CD CANILLAS,1,0,0.0,0.0,0.0,,,27,Tercera Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-32.0,-0.264
+29.0,I. Holgado,Delanteros,CD CANILLAS,19,5,1.0,0.0,1.0,,,27,Tercera Federación,0.05,0.0,1.0,0.05,17,2.78,1.43,0.0,-1.68,0.072
+23.0,Bray,Defensas,LAS ROZAS,17,11,0.0,0.0,5.0,25.0,178.0,35,Tercera Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.18,0.052
+9.0,J. Koh,Delanteros,CD CANILLAS,26,15,0.0,0.0,0.0,23.0,,41,Tercera Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-1.23,0.066
+29.0,M. Azar,Defensas,LAS ROZAS,4,0,0.0,0.0,1.0,,,26,Tercera Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.75,0.018
+20.0,A. Martínez,Delanteros,CD CANILLAS,24,16,2.0,0.0,0.0,23.0,,45,Tercera Federación,0.08,0.0,2.0,0.08,17,5.56,2.87,0.0,-1.33,0.108
+11.0,A. Maes,Centrocampistas,LAS ROZAS,24,18,0.0,0.0,6.0,33.0,174.0,51,Tercera Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.12,0.072
+16.0,R. Sánchez,Centrocampistas,LAS ROZAS,26,11,0.0,0.0,2.0,23.0,185.0,45,Tercera Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.12,0.077
+19.0,A. Bravo,Centrocampistas,CD CANILLAS,15,1,1.0,0.0,4.0,,,27,Tercera Federación,0.07,0.0,1.0,0.07,17,2.78,1.43,0.0,-2.13,0.068
+26.0,O. El Harti,Centrocampistas,LAS ROZAS,1,0,0.0,0.0,0.0,22.0,,43,Tercera Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,3.0,0.028
+,Jorge,Defensas,GALAPAGAR,9,7,0.0,0.0,5.0,26.0,,47,Tercera Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.44,0.03
+,A. Boveda,Defensas,GALAPAGAR,26,22,0.0,0.0,12.0,24.0,,42,Tercera Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.15,0.078
+4.0,M. Guzmán,Defensas,RAYO VALLECANO B,21,14,0.0,0.0,10.0,23.0,,44,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0.9,0.069
+18.0,Julio Fernández,Centrocampistas,EL ÁLAMO,30,17,2.0,0.0,5.0,,,33,Tercera Federación,0.07,0.0,2.0,0.07,18,6.9,3.0,0.0,-1.07,0.121
+5.0,Parra,Defensas,EL ÁLAMO,28,26,0.0,0.0,6.0,22.0,,41,Tercera Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-1.14,0.073
+20.0,A. Rojas,Defensas,EL ÁLAMO,23,18,0.0,0.0,5.0,22.0,,41,Tercera Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-1.39,0.056
+4.0,D. Viega,Defensas,EL ÁLAMO,27,19,1.0,0.0,5.0,21.0,,36,Tercera Federación,0.04,0.0,1.0,0.04,18,3.45,1.5,0.0,-1.19,0.093
+2.0,Rubén,Defensas,EL ÁLAMO,20,11,0.0,0.0,8.0,33.0,,42,Tercera Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-1.6,0.045
+3.0,Juan Panadero,Defensas,EL ÁLAMO,24,14,0.0,0.0,9.0,21.0,,33,Tercera Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-1.33,0.06
+15.0,Luis Miguel,Centrocampistas,EL ÁLAMO,30,28,2.0,0.0,8.0,29.0,181.0,45,Tercera Federación,0.07,0.0,2.0,0.07,18,6.9,3.0,0.0,-1.07,0.121
+6.0,Dani Durán,Centrocampistas,EL ÁLAMO,1,1,0.0,0.0,0.0,36.0,178.0,47,Tercera Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-32.0,-0.264
+14.0,Mario Presa,Centrocampistas,EL ÁLAMO,33,26,2.0,0.0,2.0,23.0,,39,Tercera Federación,0.06,0.0,2.0,0.06,18,6.9,3.0,0.0,-0.97,0.125
+10.0,Fabre,Centrocampistas,EL ÁLAMO,32,23,2.0,0.0,7.0,31.0,,43,Tercera Federación,0.06,0.0,2.0,0.06,18,6.9,3.0,0.0,-1.0,0.122
+22.0,Iván Ramos,Centrocampistas,EL ÁLAMO,30,30,0.0,0.0,9.0,23.0,,39,Tercera Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-1.07,0.079
+12.0,Del Monte,Centrocampistas,EL ÁLAMO,10,6,1.0,0.0,2.0,22.0,165.0,41,Tercera Federación,0.1,0.0,1.0,0.1,18,3.45,1.5,0.0,-3.2,0.063
+11.0,Iván González,Centrocampistas,EL ÁLAMO,15,10,2.0,0.0,2.0,20.0,,37,Tercera Federación,0.13,0.0,2.0,0.13,18,6.9,3.0,0.0,-2.13,0.104
+,Ruben Dario,Defensas,GALAPAGAR,20,12,0.0,0.0,2.0,31.0,180.0,49,Tercera Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.2,0.06
+8.0,A. Carrillo,Centrocampistas,EL ÁLAMO,17,10,0.0,0.0,1.0,26.0,180.0,38,Tercera Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-1.88,0.034
+26.0,G. Miniera,Centrocampistas,EL ÁLAMO,1,0,0.0,0.0,0.0,,,27,Tercera Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-32.0,-0.264
+26.0,Fer Jimenez,Centrocampistas,EL ÁLAMO,2,0,0.0,0.0,0.0,,,0,Tercera Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-16.0,-0.127
+10.0,Raúl,Delanteros,EL ÁLAMO,5,2,0.0,0.0,0.0,30.0,,46,Tercera Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-6.4,-0.039
+6.0,I. Salmi,Delanteros,EL ÁLAMO,26,22,2.0,0.0,6.0,,,35,Tercera Federación,0.08,0.0,2.0,0.08,18,6.9,3.0,0.0,-1.23,0.114
+21.0,Diego Magariño,Delanteros,EL ÁLAMO,20,7,2.0,0.0,0.0,21.0,182.0,40,Tercera Federación,0.1,0.0,2.0,0.1,18,6.9,3.0,0.0,-1.6,0.105
+7.0,N. Aaras,Delanteros,EL ÁLAMO,23,5,1.0,0.0,2.0,,,27,Tercera Federación,0.04,0.0,1.0,0.04,18,3.45,1.5,0.0,-1.39,0.08
+26.0,J. Gomez,Delanteros,EL ÁLAMO,2,0,0.0,0.0,0.0,,,27,Tercera Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-16.0,-0.127
+,G. Alvarez,Defensas,GALAPAGAR,25,22,0.0,0.0,6.0,26.0,,51,Tercera Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.16,0.075
+15.0,Ian Tejero,Delanteros,CDF TRES CANTOS,12,8,0.0,0.0,1.0,19.0,,38,Tercera Federación,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.08,0.035
+15.0,Alex Cano,Delanteros,CDF TRES CANTOS,2,1,0.0,0.0,0.0,25.0,,44,Tercera Federación,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.5,0.002
+30.0,R. Espinosa,Centrocampistas,CD CANILLAS,12,3,1.0,0.0,0.0,,,34,Tercera Federación,0.08,0.0,1.0,0.08,17,2.78,1.43,0.0,-2.67,0.061
+20.0,Varo,Centrocampistas,LAS ROZAS,21,7,0.0,0.0,4.0,21.0,,44,Tercera Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.14,0.063
+8.0,Álvaro Escolano,Centrocampistas,LAS ROZAS,19,12,0.0,0.0,9.0,23.0,181.0,40,Tercera Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.16,0.057
+11.0,G. Bernaldo,Delanteros,CALA POZUELO,17,16,0.0,0.0,5.0,29.0,,45,Tercera Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-0.53,0.046
+4.0,C. Redondo,Defensas,CD CANILLAS,28,22,1.0,0.0,4.0,28.0,,49,Tercera Federación,0.04,0.0,1.0,0.04,17,2.78,1.43,0.0,-1.14,0.097
+15.0,Rodajo,Defensas,CD CANILLAS,6,6,0.0,0.0,3.0,27.0,,45,Tercera Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-5.33,-0.027
+17.0,D. Gil,Defensas,CD CANILLAS,26,25,1.0,0.0,6.0,25.0,,44,Tercera Federación,0.04,0.0,1.0,0.04,17,2.78,1.43,0.0,-1.23,0.09
+18.0,Soo-Bin Park,Delanteros,LEGANÉS B,3,0,0.0,0.0,0.0,19.0,176.0,27,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,6.67,0.064
+15.0,D. Cuevas,Defensas,MÉXICO FC,16,14,0.0,0.0,5.0,29.0,178.0,51,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-0.88,0.04
+21.0,L. Venturini,Defensas,MÉXICO FC,29,27,0.0,0.0,6.0,33.0,,49,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-0.48,0.081
+14.0,J. Moyano,Defensas,MÉXICO FC,9,6,0.0,0.0,2.0,36.0,179.0,50,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-1.56,0.013
+17.0,N. Hordijk,Delanteros,CALA POZUELO,11,1,0.0,0.0,3.0,20.0,,37,Tercera Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-0.82,0.026
+5.0,Yahir Zamora,Defensas,MÉXICO FC,10,6,0.0,0.0,3.0,20.0,175.0,31,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-1.4,0.018
+30.0,D. Jimenez,Defensas,MÉXICO FC,18,13,0.0,0.0,2.0,,,28,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-0.78,0.046
+18.0,Álvaro Batan,Delanteros,CALA POZUELO,15,9,0.0,0.0,3.0,20.0,,40,Tercera Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-0.6,0.039
+4.0,G. Nieto,Centrocampistas,MÉXICO FC,30,25,0.0,0.0,11.0,26.0,,46,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-0.47,0.084
+3.0,Carlos,Centrocampistas,LAS ROZAS,13,8,0.0,0.0,3.0,25.0,,41,Tercera Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.23,0.04
+8.0,J. Arroyo,Centrocampistas,MÉXICO FC,30,29,0.0,0.0,7.0,35.0,183.0,48,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-0.47,0.084
+16.0,D. Fernandez,Centrocampistas,MÉXICO FC,16,7,0.0,0.0,6.0,22.0,,43,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-0.88,0.04
+23.0,David Ajenjo,Centrocampistas,MÉXICO FC,28,8,0.0,0.0,2.0,21.0,180.0,40,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-0.5,0.078
+31.0,Gael Chávez,Centrocampistas,MÉXICO FC,8,2,0.0,0.0,1.0,19.0,183.0,37,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-1.75,0.009
+18.0,M. Zuñiga,Delanteros,MÉXICO FC,10,4,0.0,0.0,2.0,32.0,183.0,49,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-1.4,0.018
+24.0,J. Martinez,Delanteros,MÉXICO FC,4,1,0.0,0.0,2.0,19.0,178.0,27,Tercera Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-3.5,-0.017
+23.0,Abraham,Defensas,EL ÁLAMO,22,15,0.0,0.0,5.0,30.0,181.0,48,Tercera Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-1.45,0.053
+8.0,Juarez,Centrocampistas,CALA POZUELO,13,10,0.0,0.0,3.0,33.0,,46,Tercera Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-0.69,0.032
+5.0,Víctor Revuelto,Defensas,RAYO VALLECANO B,29,27,0.0,0.0,7.0,20.0,,43,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0.66,0.091
+32.0,Sergio Lozano,Defensas,RAYO VALLECANO B,29,26,0.0,0.0,13.0,19.0,175.0,42,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0.66,0.091
+32.0,Santi Silva,Defensas,RAYO VALLECANO B,1,1,0.0,0.0,0.0,19.0,173.0,36,Tercera Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,19.0,0.161
+5.0,I. Shamov,Defensas,CD CANILLAS,21,19,0.0,0.0,8.0,29.0,,44,Tercera Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-1.52,0.049
+14.0,V. Ortola,Defensas,CD CANILLAS,4,3,0.0,0.0,0.0,25.0,,43,Tercera Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-8.0,-0.055
+22.0,M. Garcia,Defensas,CD CANILLAS,17,13,0.0,0.0,6.0,24.0,,41,Tercera Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-1.88,0.034
+21.0,Tobías Diaz,Defensas,CD CANILLAS,22,15,0.0,0.0,4.0,22.0,,41,Tercera Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-1.45,0.053
+3.0,Nachete,Centrocampistas,CD CANILLAS,7,1,0.0,0.0,2.0,,,37,Tercera Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-4.57,-0.017
+2.0,J. Martín,Centrocampistas,CD CANILLAS,20,15,0.0,0.0,6.0,23.0,,38,Tercera Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-1.6,0.045
+11.0,Tembleque,Centrocampistas,CD CANILLAS,27,20,1.0,0.0,5.0,24.0,,40,Tercera Federación,0.04,0.0,1.0,0.04,17,2.78,1.43,0.0,-1.19,0.093
+27.0,I. Garcia,Delanteros,LAS ROZAS,1,0,0.0,0.0,0.0,20.0,178.0,41,Tercera Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,3.0,0.028
+6.0,P. Martínez,Centrocampistas,CD CANILLAS,25,19,1.0,0.0,6.0,26.0,,42,Tercera Federación,0.04,0.0,1.0,0.04,17,2.78,1.43,0.0,-1.28,0.087
+18.0,Adri Caba,Delanteros,LAS ROZAS,2,0,0.0,0.0,0.0,,,46,Tercera Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,1.5,0.018
+10.0,Chengue,Centrocampistas,CD CANILLAS,29,23,2.0,0.0,3.0,31.0,,48,Tercera Federación,0.07,0.0,2.0,0.07,17,5.56,2.87,0.0,-1.1,0.118
+12.0,Joao Urbáez,Defensas,LEGANÉS B,28,27,0.0,0.0,10.0,22.0,180.0,48,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.71,0.088
+4.0,P. Ramírez,Defensas,LEGANÉS B,22,17,0.0,0.0,9.0,22.0,,47,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.91,0.072
+3.0,Iker Bachiller,Defensas,LEGANÉS B,27,26,0.0,0.0,3.0,22.0,169.0,43,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.74,0.086
+5.0,Luis Jimeno,Defensas,LEGANÉS B,18,12,0.0,0.0,2.0,20.0,184.0,46,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,1.11,0.062
+15.0,Said Imigene,Defensas,LEGANÉS B,6,6,0.0,0.0,4.0,20.0,189.0,28,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,3.33,0.045
+8.0,Pablo Chozas,Centrocampistas,CD CANILLAS,32,31,1.0,0.0,12.0,25.0,,47,Tercera Federación,0.03,0.0,1.0,0.03,17,2.78,1.43,0.0,-1.0,0.104
+28.0,V. Sánchez,Defensas,CD CANILLAS,3,2,0.0,0.0,0.0,,,0,Tercera Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-10.67,-0.08
+28.0,Marco Leiton,Centrocampistas,LEGANÉS B,5,5,0.0,0.0,2.0,19.0,,39,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,4.0,0.048
+14.0,Marcos Leiva,Centrocampistas,LEGANÉS B,21,11,0.0,0.0,4.0,20.0,185.0,46,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.95,0.07
+27.0,A. Vallina,Defensas,CD CANILLAS,2,0,0.0,0.0,0.0,,,27,Tercera Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-16.0,-0.127
+6.0,F. Rodríguez,Centrocampistas,LEGANÉS B,24,18,0.0,0.0,10.0,22.0,182.0,38,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.83,0.078
+24.0,Jorge Herrero,Centrocampistas,LEGANÉS B,24,14,0.0,0.0,4.0,19.0,180.0,39,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.83,0.078
+26.0,I. Grutzmann,Defensas,CD CANILLAS,20,12,1.0,0.0,5.0,,,33,Tercera Federación,0.05,0.0,1.0,0.05,17,2.78,1.43,0.0,-1.6,0.075
+8.0,Rodrigo Gómez,Centrocampistas,LEGANÉS B,7,3,0.0,0.0,0.0,21.0,163.0,38,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,2.86,0.044
+17.0,M. Alpha,Centrocampistas,LEGANÉS B,5,3,0.0,0.0,2.0,20.0,,32,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,4.0,0.048
+27.0,Y. Diomande,Delanteros,LEGANÉS B,3,1,0.0,0.0,0.0,18.0,180.0,30,Tercera Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,6.67,0.064
+14.0,Raúl Espinosa,Defensas,AD PARLA,3,3,0.0,0.0,1.0,29.0,177.0,50,Tercera Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-6.67,-0.047
+9.0,Palacín,Delanteros,CP CACEREÑO,12,10,6.0,4.0,2.0,25.0,190.0,45,Segunda Federación,0.5,0.33,10.0,0.83,2,10.53,2.91,0.78,2.25,0.551
+22.0,David Amigo,Delanteros,CD GUADALAJARA,28,27,8.0,9.0,5.0,22.0,180.0,49,Segunda Federación,0.29,0.32,17.0,0.61,1,13.33,3.57,0.61,1.36,0.459
+21.0,Jaime Sancho,Delanteros,CP CACEREÑO,33,25,8.0,13.0,4.0,24.0,172.0,46,Segunda Federación,0.24,0.39,21.0,0.64,2,14.04,3.88,0.6,0.82,0.488
+9.0,Á. Sánchez,Delanteros,CF TALAVERA,25,14,13.0,2.0,3.0,32.0,185.0,56,Segunda Federación,0.52,0.08,15.0,0.6,3,26.0,6.5,0.53,0.92,0.441
+20.0,Borja Díaz,Centrocampistas,CD GUADALAJARA,14,10,4.0,3.0,2.0,34.0,180.0,50,Segunda Federación,0.29,0.21,7.0,0.5,1,6.67,1.78,0.5,2.71,0.363
+20.0,Salinas,Delanteros,CP CACEREÑO,21,14,7.0,4.0,1.0,29.0,186.0,49,Segunda Federación,0.33,0.19,11.0,0.52,2,12.28,3.4,0.49,1.29,0.384
+11.0,U. Álvarez,Delanteros,CD GUADALAJARA,32,11,8.0,7.0,2.0,23.0,175.0,43,Segunda Federación,0.25,0.22,15.0,0.47,1,13.33,3.57,0.47,1.19,0.386
+26.0,J. Sánchez,Delanteros,CF TALAVERA,2,0,0.0,1.0,0.0,,,31,Segunda Federación,0.0,0.5,1.0,0.5,3,0.0,0.0,0.44,11.5,0.397
+19.0,Cañizo,Delanteros,CD GUADALAJARA,30,23,12.0,1.0,2.0,25.0,184.0,54,Segunda Federación,0.4,0.03,13.0,0.43,1,20.0,5.35,0.43,1.27,0.356
+20.0,José Cambra,Delanteros,CF TALAVERA,33,24,10.0,6.0,4.0,21.0,179.0,49,Segunda Federación,0.3,0.18,16.0,0.48,3,20.0,5.0,0.42,0.7,0.391
+21.0,Manu Ramírez,Centrocampistas,CD GUADALAJARA,31,24,9.0,2.0,6.0,29.0,177.0,50,Segunda Federación,0.29,0.06,11.0,0.35,1,15.0,4.01,0.35,1.23,0.311
+24.0,Coba da Costa,Delanteros,GETAFE B,9,5,3.0,1.0,3.0,22.0,182.0,49,Segunda Federación,0.33,0.11,4.0,0.44,5,6.25,1.83,0.34,1.22,0.3
+18.0,Mariano,Delanteros,CD CORIA,29,26,13.0,2.0,6.0,23.0,185.0,45,Segunda Federación,0.45,0.07,15.0,0.52,7,28.89,8.58,0.34,-0.14,0.396
+20.0,Kevin Manzano,Delanteros,RAYO MAJADAHONDA,29,25,8.0,4.0,6.0,26.0,175.0,54,Segunda Federación,0.28,0.14,12.0,0.41,4,19.51,4.8,0.34,0.38,0.334
+22.0,Ewan Urain,Delanteros,CDA NAVALCARNERO,15,7,5.0,2.0,3.0,25.0,193.0,47,Segunda Federación,0.33,0.13,7.0,0.47,6,11.63,3.11,0.33,0.2,0.328
+9.0,G. Calçada,Delanteros,GETAFE B,33,32,12.0,2.0,4.0,23.0,,50,Segunda Federación,0.36,0.06,14.0,0.42,5,25.0,7.33,0.32,0.33,0.352
+11.0,Alassan,Delanteros,TENERIFE B,23,20,10.0,3.0,4.0,22.0,177.0,45,Segunda Federación,0.43,0.13,13.0,0.57,9,18.52,7.02,0.3,0.13,0.411
+7.0,A. Keita,Delanteros,GETAFE B,21,14,5.0,3.0,4.0,22.0,186.0,50,Segunda Federación,0.24,0.14,8.0,0.38,5,10.42,3.06,0.29,0.52,0.294
+19.0,A. Monerris,Delanteros,CDA NAVALCARNERO,15,13,4.0,2.0,2.0,23.0,,40,Segunda Federación,0.27,0.13,6.0,0.4,6,9.3,2.49,0.28,0.2,0.286
+16.0,Hugo Esteban,Delanteros,RAYO MAJADAHONDA,33,20,3.0,8.0,3.0,26.0,170.0,51,Segunda Federación,0.09,0.24,11.0,0.33,4,7.32,1.8,0.27,0.33,0.298
+11.0,Á. Merencio,Delanteros,CP CACEREÑO,28,24,6.0,2.0,5.0,25.0,178.0,49,Segunda Federación,0.21,0.07,8.0,0.29,2,10.53,2.91,0.27,0.96,0.264
+15.0,Nahuel Arroyo,Delanteros,CF TALAVERA,33,28,7.0,3.0,0.0,30.0,180.0,49,Segunda Federación,0.21,0.09,10.0,0.3,3,14.0,3.5,0.26,0.7,0.283
+11.0,A. Bernardo,Centrocampistas,UD SANSE,26,25,3.0,8.0,5.0,26.0,175.0,54,Segunda Federación,0.12,0.31,11.0,0.42,8,6.67,2.02,0.25,0.0,0.328
+10.0,Parapar,Delanteros,CF TALAVERA,29,20,2.0,6.0,4.0,34.0,186.0,51,Segunda Federación,0.07,0.21,8.0,0.28,3,4.0,1.0,0.25,0.79,0.26
+16.0,Isaiah Navarro,Centrocampistas,CF TALAVERA,29,28,6.0,2.0,12.0,23.0,183.0,52,Segunda Federación,0.21,0.07,8.0,0.28,3,12.0,3.0,0.25,0.79,0.26
+9.0,Christian Díaz,Delanteros,CD GUADALAJARA,17,4,4.0,0.0,1.0,28.0,174.0,51,Segunda Federación,0.24,0.0,4.0,0.24,1,6.67,1.78,0.24,2.24,0.212
+22.0,Ariel,Delanteros,UD SANSE,33,30,13.0,0.0,3.0,26.0,183.0,52,Segunda Federación,0.39,0.0,13.0,0.39,8,28.89,8.76,0.23,0.0,0.331
+17.0,B. Kandoussi,Delanteros,RAYO MAJADAHONDA,15,9,3.0,1.0,3.0,25.0,173.0,43,Segunda Federación,0.2,0.07,4.0,0.27,4,7.32,1.8,0.22,0.73,0.212
+16.0,Pol Fortuny,Centrocampistas,REAL MADRID C,4,3,2.0,1.0,1.0,20.0,175.0,45,Segunda Federación,0.5,0.25,3.0,0.75,13,5.88,1.57,0.22,-0.25,0.46
+12.0,Rubi,Delanteros,GETAFE B,14,10,1.0,3.0,3.0,23.0,174.0,48,Segunda Federación,0.07,0.21,4.0,0.29,5,2.08,0.61,0.22,0.79,0.221
+14.0,Alberto Risco,Centrocampistas,GETAFE B,7,1,0.0,2.0,1.0,19.0,178.0,40,Segunda Federación,0.0,0.29,2.0,0.29,5,0.0,0.0,0.22,1.57,0.207
+7.0,Álex Neskes,Centrocampistas,CD GUADALAJARA,32,28,3.0,4.0,5.0,23.0,178.0,44,Segunda Federación,0.09,0.12,7.0,0.22,1,5.0,1.34,0.22,1.19,0.236
+9.0,G. Simeone,Delanteros,RAYO MAJADAHONDA,30,16,7.0,1.0,10.0,26.0,181.0,48,Segunda Federación,0.23,0.03,8.0,0.27,4,17.07,4.2,0.22,0.37,0.253
+17.0,Jacobo,Delanteros,GETAFE B,30,24,8.0,0.0,7.0,28.0,185.0,55,Segunda Federación,0.27,0.0,8.0,0.27,5,16.67,4.89,0.21,0.37,0.253
+21.0,Guille Berzal,Centrocampistas,RAYO MAJADAHONDA,32,23,4.0,4.0,5.0,20.0,175.0,42,Segunda Federación,0.12,0.12,8.0,0.25,4,9.76,2.4,0.21,0.34,0.247
+7.0,Salifo,Delanteros,TENERIFE B,30,28,9.0,2.0,5.0,23.0,190.0,42,Segunda Federación,0.3,0.07,11.0,0.37,9,16.67,6.32,0.2,0.1,0.311
+14.0,A. Claverías,Centrocampistas,CDA NAVALCARNERO,30,24,3.0,5.0,4.0,24.0,170.0,49,Segunda Federación,0.1,0.17,8.0,0.27,6,6.98,1.87,0.19,0.1,0.251
+24.0,Víctor Maffeo,Defensas,CD CORIA,17,17,4.0,1.0,4.0,24.0,170.0,50,Segunda Federación,0.24,0.06,5.0,0.29,7,8.89,2.64,0.19,-0.24,0.222
+6.0,Álvaro Clausí,Centrocampistas,CP CACEREÑO,30,25,5.0,1.0,6.0,32.0,178.0,54,Segunda Federación,0.17,0.03,6.0,0.2,2,8.77,2.43,0.19,0.9,0.215
+22.0,Fran Rodríguez,Defensas,CF TALAVERA,14,8,0.0,3.0,1.0,30.0,175.0,55,Segunda Federación,0.0,0.21,3.0,0.21,3,0.0,0.0,0.19,1.64,0.18
+21.0,Angel López,Defensas,CDA NAVALCARNERO,12,7,2.0,1.0,4.0,28.0,172.0,46,Segunda Federación,0.17,0.08,3.0,0.25,6,4.65,1.25,0.18,0.25,0.187
+14.0,Y. Yoshimura,Centrocampistas,UB CONQUENSE,33,29,7.0,6.0,8.0,27.0,175.0,51,Segunda Federación,0.21,0.18,13.0,0.39,10,18.92,5.13,0.18,-0.12,0.33
+9.0,Enrique Herrero,Delanteros,CDA NAVALCARNERO,31,23,7.0,1.0,2.0,20.0,173.0,40,Segunda Federación,0.23,0.03,8.0,0.26,6,16.28,4.36,0.18,0.1,0.248
+7.0,Guti,Centrocampistas,RAYO MAJADAHONDA,24,19,4.0,1.0,2.0,26.0,181.0,50,Segunda Federación,0.17,0.04,5.0,0.21,4,9.76,2.4,0.17,0.46,0.2
+2.0,A. Bragado,Defensas,CD CORIA,15,12,1.0,3.0,4.0,19.0,,46,Segunda Federación,0.07,0.2,4.0,0.27,7,2.22,0.66,0.17,-0.27,0.204
+16.0,Cera,Defensas,CD GUADALAJARA,29,27,1.0,4.0,5.0,28.0,172.0,53,Segunda Federación,0.03,0.14,5.0,0.17,1,1.67,0.45,0.17,1.31,0.198
+7.0,Rubén Solano,Delanteros,CF TALAVERA,34,16,6.0,0.0,2.0,32.0,181.0,50,Segunda Federación,0.18,0.0,6.0,0.18,3,12.0,3.0,0.16,0.68,0.213
+19.0,Pepe Bernal,Centrocampistas,CP CACEREÑO,23,9,1.0,3.0,1.0,32.0,174.0,51,Segunda Federación,0.04,0.13,4.0,0.17,2,1.75,0.49,0.16,1.17,0.179
+7.0,Marcos Carrillo,Centrocampistas,CP CACEREÑO,23,7,3.0,1.0,4.0,22.0,175.0,40,Segunda Federación,0.13,0.04,4.0,0.17,2,5.26,1.46,0.16,1.17,0.179
+9.0,Iván Fernández,Delanteros,UD MELILLA,28,25,8.0,3.0,5.0,25.0,179.0,55,Segunda Federación,0.29,0.11,11.0,0.39,11,19.51,6.0,0.16,-0.04,0.316
+10.0,Rafa Diz,Centrocampistas,GETAFE B,28,27,3.0,3.0,12.0,24.0,170.0,53,Segunda Federación,0.11,0.11,6.0,0.21,5,6.25,1.83,0.16,0.39,0.211
+27.0,Jacobo De Oro,Centrocampistas,UD SANSE,12,6,2.0,1.0,0.0,20.0,,47,Segunda Federación,0.17,0.08,3.0,0.25,8,4.44,1.35,0.15,0.0,0.185
+28.0,J. Pérez,Delanteros,CDA NAVALCARNERO,24,9,3.0,2.0,8.0,21.0,,35,Segunda Federación,0.12,0.08,5.0,0.21,6,6.98,1.87,0.15,0.12,0.198
+4.0,J. Ablanque,Defensas,CD GUADALAJARA,33,31,3.0,2.0,10.0,28.0,180.0,52,Segunda Federación,0.09,0.06,5.0,0.15,1,5.0,1.34,0.15,1.15,0.196
+7.0,Víctor Morillo,Delanteros,UD MELILLA,33,30,4.0,8.0,5.0,28.0,175.0,49,Segunda Federación,0.12,0.24,12.0,0.36,11,9.76,3.0,0.15,-0.03,0.313
+7.0,J. Monterde,Delanteros,UB CONQUENSE,32,27,8.0,2.0,5.0,27.0,168.0,52,Segunda Federación,0.25,0.06,10.0,0.31,10,21.62,5.87,0.15,-0.12,0.279
+7.0,Javi Verdú,Delanteros,CDA NAVALCARNERO,30,14,2.0,4.0,6.0,26.0,174.0,47,Segunda Federación,0.07,0.13,6.0,0.2,6,4.65,1.25,0.14,0.1,0.209
+11.0,Hugo De Llanos,Delanteros,REAL MADRID C,17,10,5.0,3.0,1.0,20.0,175.0,49,Segunda Federación,0.29,0.18,8.0,0.47,13,14.71,3.93,0.14,-0.06,0.332
+20.0,Raúl Caballero,Delanteros,UB CONQUENSE,34,24,6.0,4.0,4.0,24.0,178.0,43,Segunda Federación,0.18,0.12,10.0,0.29,10,16.22,4.4,0.14,-0.12,0.273
+14.0,Raúl Tavares,Centrocampistas,CD GUADALAJARA,14,12,0.0,2.0,2.0,26.0,180.0,54,Segunda Federación,0.0,0.14,2.0,0.14,1,0.0,0.0,0.14,2.71,0.147
+8.0,Mario González,Centrocampistas,UD SANSE,33,30,4.0,4.0,4.0,26.0,175.0,53,Segunda Federación,0.12,0.12,8.0,0.24,8,8.89,2.69,0.14,0.0,0.241
+23.0,Fran Sabina,Delanteros,TENERIFE B,21,6,5.0,0.0,2.0,21.0,180.0,33,Segunda Federación,0.24,0.0,5.0,0.24,9,9.26,3.51,0.13,0.14,0.207
+23.0,L. Lohr,Defensas,GETAFE B,23,23,2.0,2.0,2.0,22.0,193.0,53,Segunda Federación,0.09,0.09,4.0,0.17,5,4.17,1.22,0.13,0.48,0.173
+10.0,Darío,Centrocampistas,CD GUADALAJARA,23,10,2.0,1.0,4.0,31.0,178.0,52,Segunda Federación,0.09,0.04,3.0,0.13,1,3.33,0.89,0.13,1.65,0.159
+9.0,Dani Segovia,Delanteros,CD COLONIA MOSCARDÓ,33,29,11.0,0.0,6.0,40.0,190.0,54,Segunda Federación,0.33,0.0,11.0,0.33,12,26.83,8.64,0.12,-0.45,0.292
+17.0,A. Krehl,Delanteros,CD GUADALAJARA,17,5,1.0,1.0,3.0,22.0,,43,Segunda Federación,0.06,0.06,2.0,0.12,1,1.67,0.45,0.12,2.24,0.14
+22.0,Liam Ayad,Centrocampistas,UB CONQUENSE,4,1,1.0,0.0,1.0,26.0,187.0,37,Segunda Federación,0.25,0.0,1.0,0.25,10,2.7,0.73,0.12,-1.0,0.154
+17.0,S. Manchón,Delanteros,CD CORIA,26,15,3.0,2.0,5.0,28.0,170.0,49,Segunda Federación,0.12,0.08,5.0,0.19,7,6.67,1.98,0.12,-0.15,0.189
+16.0,Chavalés,Delanteros,CD CORIA,33,22,5.0,1.0,7.0,31.0,178.0,50,Segunda Federación,0.15,0.03,6.0,0.18,7,11.11,3.3,0.12,-0.12,0.204
+18.0,M. Bassele,Centrocampistas,UD MELILLA,14,13,4.0,0.0,3.0,25.0,180.0,48,Segunda Federación,0.29,0.0,4.0,0.29,11,9.76,3.0,0.12,-0.07,0.215
+9.0,Fer Harta,Delanteros,UD SANSE,30,20,4.0,2.0,2.0,25.0,,52,Segunda Federación,0.13,0.07,6.0,0.2,8,8.89,2.69,0.12,0.0,0.208
+16.0,Marvin,Defensas,UD SANSE,15,15,3.0,0.0,7.0,27.0,187.0,52,Segunda Federación,0.2,0.0,3.0,0.2,8,6.67,2.02,0.12,0.0,0.164
+19.0,Eneko Capilla,Centrocampistas,UD SANSE,15,8,1.0,2.0,1.0,30.0,167.0,46,Segunda Federación,0.07,0.13,3.0,0.2,8,2.22,0.67,0.12,0.0,0.164
+21.0,Jeremy José,Delanteros,GETAFE B,22,19,2.0,1.0,1.0,22.0,166.0,42,Segunda Federación,0.09,0.05,3.0,0.14,5,4.17,1.22,0.11,0.5,0.153
+6.0,Nico Conesa,Centrocampistas,GETAFE B,29,26,3.0,1.0,14.0,23.0,183.0,49,Segunda Federación,0.1,0.03,4.0,0.14,5,6.25,1.83,0.11,0.38,0.172
+26.0,Peque,Delanteros,CDA NAVALCARNERO,25,11,2.0,2.0,3.0,22.0,177.0,38,Segunda Federación,0.08,0.08,4.0,0.16,6,4.65,1.25,0.11,0.12,0.17
+16.0,D. Argüelles,Defensas,GETAFE B,14,11,0.0,2.0,4.0,23.0,175.0,43,Segunda Federación,0.0,0.14,2.0,0.14,5,0.0,0.0,0.11,0.79,0.131
+2.0,C. Arauz,Defensas,CF TALAVERA,24,13,1.0,2.0,6.0,22.0,187.0,43,Segunda Federación,0.04,0.08,3.0,0.12,3,2.0,0.5,0.11,0.96,0.15
+20.0,A. García,Defensas,GETAFE B,28,22,2.0,2.0,4.0,22.0,,54,Segunda Federación,0.07,0.07,4.0,0.14,5,4.17,1.22,0.11,0.39,0.169
+11.0,Edu Gallardo,Delanteros,CF TALAVERA,33,18,1.0,3.0,4.0,25.0,170.0,50,Segunda Federación,0.03,0.09,4.0,0.12,3,2.0,0.5,0.11,0.7,0.175
+10.0,Carlos Bravo,Centrocampistas,UD MELILLA,29,23,3.0,4.0,4.0,32.0,174.0,51,Segunda Federación,0.1,0.14,7.0,0.24,11,7.32,2.25,0.1,-0.03,0.229
+22.0,Diego Núñez,Centrocampistas,RAYO MAJADAHONDA,16,11,2.0,0.0,7.0,23.0,,45,Segunda Federación,0.12,0.0,2.0,0.12,4,4.88,1.2,0.1,0.69,0.125
+36.0,V. Valdepeñas,Defensas,REAL MADRID C,6,5,1.0,1.0,0.0,18.0,187.0,45,Segunda Federación,0.17,0.17,2.0,0.33,13,2.94,0.79,0.1,-0.17,0.214
+19.0,Kun,Delanteros,CD COLONIA MOSCARDÓ,28,11,7.0,1.0,1.0,25.0,179.0,50,Segunda Federación,0.25,0.04,8.0,0.29,12,17.07,5.5,0.1,-0.54,0.252
+19.0,Nando Copete,Delanteros,CD CORIA,34,22,2.0,3.0,3.0,33.0,183.0,49,Segunda Federación,0.06,0.09,5.0,0.15,7,4.44,1.32,0.1,-0.12,0.189
+19.0,A. Fernández,Delanteros,UB CONQUENSE,26,17,5.0,0.0,3.0,27.0,180.0,50,Segunda Federación,0.19,0.0,5.0,0.19,10,13.51,3.67,0.09,-0.15,0.189
+17.0,Cacho Guzmán,Delanteros,TENERIFE B,23,12,3.0,1.0,4.0,22.0,166.0,44,Segunda Federación,0.13,0.04,4.0,0.17,9,5.56,2.11,0.09,0.13,0.171
+19.0,I. Fernández,Delanteros,GETAFE B,17,3,2.0,0.0,1.0,19.0,,43,Segunda Federación,0.12,0.0,2.0,0.12,5,4.17,1.22,0.09,0.65,0.127
+18.0,Navas,Defensas,CP CACEREÑO,20,8,0.0,2.0,5.0,30.0,176.0,50,Segunda Federación,0.0,0.1,2.0,0.1,2,0.0,0.0,0.09,1.35,0.129
+14.0,Deco,Centrocampistas,CP CACEREÑO,31,26,1.0,2.0,9.0,29.0,168.0,51,Segunda Federación,0.03,0.06,3.0,0.1,2,1.75,0.49,0.09,0.87,0.158
+8.0,J. Mancha,Centrocampistas,CD CORIA,7,2,1.0,0.0,1.0,24.0,182.0,46,Segunda Federación,0.14,0.0,1.0,0.14,7,2.22,0.66,0.09,-0.57,0.1
+9.0,J. Cárcaba,Delanteros,UB CONQUENSE,31,15,5.0,1.0,0.0,33.0,184.0,54,Segunda Federación,0.16,0.03,6.0,0.19,10,13.51,3.67,0.09,-0.13,0.204
+23.0,Juan Durán,Defensas,CDA NAVALCARNERO,30,25,1.0,3.0,9.0,24.0,180.0,49,Segunda Federación,0.03,0.1,4.0,0.13,6,2.33,0.62,0.09,0.1,0.167
+12.0,I. Boudaoud,Delanteros,CP CACEREÑO,13,3,1.0,0.0,3.0,22.0,176.0,51,Segunda Federación,0.08,0.0,1.0,0.08,2,1.75,0.49,0.08,2.08,0.103
+12.0,J. Lauture,Defensas,CD COLONIA MOSCARDÓ,22,22,4.0,1.0,5.0,25.0,190.0,43,Segunda Federación,0.18,0.05,5.0,0.23,12,9.76,3.14,0.08,-0.68,0.197
+19.0,Jacobo Ortega,Delanteros,REAL MADRID C,32,24,6.0,3.0,4.0,19.0,186.0,42,Segunda Federación,0.19,0.09,9.0,0.28,13,17.65,4.71,0.08,-0.03,0.262
+8.0,Javi Ajenjo,Centrocampistas,UD MELILLA,32,31,1.0,5.0,3.0,24.0,178.0,52,Segunda Federación,0.03,0.16,6.0,0.19,11,2.44,0.75,0.08,-0.03,0.208
+16.0,S. Arevalo,Defensas,CP CACEREÑO,11,3,0.0,1.0,1.0,23.0,,40,Segunda Federación,0.0,0.09,1.0,0.09,2,0.0,0.0,0.08,2.45,0.106
+19.0,Iván Ramos,Delanteros,UD MELILLA,32,19,5.0,1.0,7.0,23.0,181.0,51,Segunda Federación,0.16,0.03,6.0,0.19,11,12.2,3.75,0.08,-0.03,0.208
+14.0,Adri Pérez,Centrocampistas,CP CACEREÑO,32,24,3.0,0.0,4.0,29.0,178.0,50,Segunda Federación,0.09,0.0,3.0,0.09,2,5.26,1.46,0.08,0.84,0.155
+22.0,Antonio Arcos,Delanteros,TENERIFE B,34,28,0.0,5.0,4.0,23.0,178.0,46,Segunda Federación,0.0,0.15,5.0,0.15,9,0.0,0.0,0.08,0.09,0.191
+10.0,Jorge Sarmiento,Centrocampistas,CP CACEREÑO,26,14,1.0,1.0,4.0,23.0,177.0,44,Segunda Federación,0.04,0.04,2.0,0.08,2,1.75,0.49,0.08,1.04,0.133
+18.0,Alyson,Delanteros,UB CONQUENSE,6,1,0.0,1.0,0.0,23.0,162.0,41,Segunda Federación,0.0,0.17,1.0,0.17,10,0.0,0.0,0.08,-0.67,0.114
+12.0,Jesús Cedenilla,Defensas,CD CORIA,31,28,0.0,4.0,5.0,27.0,174.0,51,Segunda Federación,0.0,0.13,4.0,0.13,7,0.0,0.0,0.08,-0.13,0.168
+11.0,M. Lapeña,Centrocampistas,CDA NAVALCARNERO,27,17,1.0,2.0,1.0,25.0,170.0,43,Segunda Federación,0.04,0.07,3.0,0.11,6,2.33,0.62,0.08,0.11,0.146
+6.0,Richi Souza Jr,Centrocampistas,CDA NAVALCARNERO,26,21,2.0,1.0,4.0,35.0,174.0,50,Segunda Federación,0.08,0.04,3.0,0.12,6,4.65,1.25,0.08,0.12,0.149
+14.0,Lucas Ricoy,Delanteros,CD MÓSTOLES,20,19,7.0,1.0,2.0,22.0,180.0,47,Segunda Federación,0.35,0.05,8.0,0.4,15,17.5,7.0,0.07,-0.75,0.293
+23.0,Álex Castro,Centrocampistas,CD MÓSTOLES,16,15,4.0,2.0,2.0,23.0,185.0,47,Segunda Federación,0.25,0.12,6.0,0.38,15,10.0,4.0,0.07,-0.94,0.268
+5.0,G. Llerena,Defensas,CD CORIA,28,27,3.0,0.0,10.0,35.0,187.0,54,Segunda Federación,0.11,0.0,3.0,0.11,7,6.67,1.98,0.07,-0.14,0.147
+21.0,Jesús Belza,Defensas,TENERIFE B,7,4,0.0,1.0,1.0,21.0,168.0,43,Segunda Federación,0.0,0.14,1.0,0.14,9,0.0,0.0,0.07,0.43,0.108
+3.0,S. Rodríguez,Defensas,UB CONQUENSE,33,31,2.0,3.0,9.0,22.0,173.0,48,Segunda Federación,0.06,0.09,5.0,0.15,10,5.41,1.47,0.07,-0.12,0.186
+5.0,O. Jaiteh,Defensas,TENERIFE B,28,28,4.0,0.0,11.0,26.0,192.0,50,Segunda Federación,0.14,0.0,4.0,0.14,9,7.41,2.81,0.07,0.11,0.167
+10.0,Bruno Iglesias,Centrocampistas,REAL MADRID C,25,16,4.0,2.0,2.0,22.0,181.0,44,Segunda Federación,0.16,0.08,6.0,0.24,13,11.76,3.14,0.07,-0.04,0.217
+10.0,Samu Pérez,Delanteros,UD SANSE,8,2,1.0,0.0,1.0,24.0,180.0,44,Segunda Federación,0.12,0.0,1.0,0.12,8,2.22,0.67,0.07,0.0,0.096
+14.0,José Alonso,Defensas,UD MELILLA,32,31,5.0,0.0,5.0,29.0,185.0,53,Segunda Federación,0.16,0.0,5.0,0.16,11,12.2,3.75,0.07,-0.03,0.19
+3.0,A. Expósito,Defensas,RAYO MAJADAHONDA,34,34,1.0,2.0,2.0,23.0,175.0,50,Segunda Federación,0.03,0.06,3.0,0.09,4,2.44,0.6,0.07,0.32,0.157
+27.0,Abdel-lah,Delanteros,UD MELILLA,12,0,2.0,0.0,1.0,20.0,180.0,37,Segunda Federación,0.17,0.0,2.0,0.17,11,4.88,1.5,0.07,-0.08,0.137
+2.0,César Álvarez,Defensas,TENERIFE B,15,14,0.0,2.0,5.0,22.0,173.0,48,Segunda Federación,0.0,0.13,2.0,0.13,9,0.0,0.0,0.07,0.2,0.124
+45.0,Jaime Barroso,Delanteros,REAL MADRID C,8,4,1.0,1.0,0.0,17.0,184.0,37,Segunda Federación,0.12,0.12,2.0,0.25,13,2.94,0.79,0.07,-0.12,0.173
+15.0,Sanvi,Defensas,CP CACEREÑO,27,22,2.0,0.0,8.0,24.0,,49,Segunda Federación,0.07,0.0,2.0,0.07,2,3.51,0.97,0.07,1.0,0.129
+16.0,Adrián Toledo,Delanteros,TENERIFE B,23,4,1.0,2.0,1.0,21.0,177.0,35,Segunda Federación,0.04,0.09,3.0,0.13,9,1.85,0.7,0.07,0.13,0.147
+2.0,D. Ceballos,Defensas,UD MELILLA,32,26,2.0,3.0,6.0,26.0,170.0,55,Segunda Federación,0.06,0.09,5.0,0.16,11,4.88,1.5,0.07,-0.03,0.19
+18.0,A. Télis,Defensas,CD COLONIA MOSCARDÓ,33,33,5.0,1.0,9.0,28.0,193.0,48,Segunda Federación,0.15,0.03,6.0,0.18,12,12.2,3.93,0.06,-0.45,0.202
+19.0,Garci,Delanteros,CD MÓSTOLES,25,22,5.0,3.0,7.0,28.0,180.0,46,Segunda Federación,0.2,0.12,8.0,0.32,15,12.5,5.0,0.06,-0.6,0.261
+3.0,Pol Bassa,Defensas,UD SANSE,9,5,0.0,1.0,3.0,22.0,170.0,50,Segunda Federación,0.0,0.11,1.0,0.11,8,0.0,0.0,0.06,0.0,0.092
+4.0,Piri,Defensas,UD SANSE,18,15,2.0,0.0,3.0,27.0,182.0,54,Segunda Federación,0.11,0.0,2.0,0.11,8,4.44,1.35,0.06,0.0,0.119
+15.0,J. Cruz,Centrocampistas,CDA NAVALCARNERO,32,31,3.0,0.0,11.0,35.0,173.0,52,Segunda Federación,0.09,0.0,3.0,0.09,6,6.98,1.87,0.06,0.09,0.149
+12.0,Tito,Defensas,UD SANSE,30,30,3.0,0.0,8.0,23.0,185.0,50,Segunda Federación,0.1,0.0,3.0,0.1,8,6.67,2.02,0.06,0.0,0.148
+4.0,Álvaro López,Defensas,CF TALAVERA,27,25,0.0,2.0,6.0,26.0,,50,Segunda Federación,0.0,0.07,2.0,0.07,3,0.0,0.0,0.06,0.85,0.128
+18.0,Julio Martínez,Defensas,CD GUADALAJARA,33,32,0.0,2.0,9.0,24.0,186.0,45,Segunda Federación,0.0,0.06,2.0,0.06,1,0.0,0.0,0.06,1.15,0.142
+6.0,L. Telles,Centrocampistas,CD CORIA,29,28,2.0,1.0,11.0,33.0,169.0,53,Segunda Federación,0.07,0.03,3.0,0.1,7,4.44,1.32,0.06,-0.14,0.144
+11.0,Víctor Piochi,Delanteros,CD CORIA,11,0,1.0,0.0,4.0,22.0,175.0,47,Segunda Federación,0.09,0.0,1.0,0.09,7,2.22,0.66,0.06,-0.36,0.084
+9.0,Adrià Mercadal,Delanteros,CD CORIA,32,19,1.0,2.0,5.0,25.0,,46,Segunda Federación,0.03,0.06,3.0,0.09,7,2.22,0.66,0.06,-0.12,0.147
+29.0,Dani Fernández,Delanteros,TENERIFE B,19,14,2.0,0.0,2.0,17.0,178.0,33,Segunda Federación,0.11,0.0,2.0,0.11,9,3.7,1.4,0.06,0.16,0.123
+10.0,Dylan,Centrocampistas,TENERIFE B,16,13,0.0,2.0,1.0,22.0,175.0,47,Segunda Federación,0.0,0.12,2.0,0.12,9,0.0,0.0,0.06,0.19,0.121
+22.0,Samu Guillen,Delanteros,CD COLONIA MOSCARDÓ,23,13,2.0,1.0,4.0,22.0,172.0,42,Segunda Federación,0.09,0.04,3.0,0.13,12,4.88,1.57,0.05,-0.65,0.141
+6.0,Ó. Castro,Centrocampistas,TENERIFE B,32,31,0.0,3.0,13.0,23.0,181.0,49,Segunda Federación,0.0,0.09,3.0,0.09,9,0.0,0.0,0.05,0.09,0.149
+5.0,Nader,Centrocampistas,CD COLONIA MOSCARDÓ,30,16,2.0,2.0,9.0,26.0,187.0,50,Segunda Federación,0.07,0.07,4.0,0.13,12,4.88,1.57,0.05,-0.5,0.162
+4.0,M. Otero,Defensas,TENERIFE B,23,17,1.0,1.0,8.0,24.0,185.0,48,Segunda Federación,0.04,0.04,2.0,0.09,9,1.85,0.7,0.05,0.13,0.123
+18.0,Carlos Faya,Centrocampistas,TENERIFE B,11,1,1.0,0.0,0.0,23.0,176.0,48,Segunda Federación,0.09,0.0,1.0,0.09,9,1.85,0.7,0.05,0.27,0.088
+6.0,Pitu Doncel,Centrocampistas,CF TALAVERA,31,28,2.0,0.0,7.0,27.0,173.0,53,Segunda Federación,0.06,0.0,2.0,0.06,3,4.0,1.0,0.05,0.74,0.133
+8.0,Luis Sánchez,Centrocampistas,CF TALAVERA,34,22,1.0,1.0,3.0,23.0,174.0,53,Segunda Federación,0.03,0.03,2.0,0.06,3,2.0,0.5,0.05,0.68,0.141
+17.0,Edu Viaña,Defensas,UD SANSE,26,25,2.0,0.0,7.0,25.0,174.0,53,Segunda Federación,0.08,0.0,2.0,0.08,8,4.44,1.35,0.05,0.0,0.124
+23.0,Jorge Casado,Defensas,CD GUADALAJARA,19,14,1.0,0.0,1.0,35.0,185.0,58,Segunda Federación,0.05,0.0,1.0,0.05,1,1.67,0.45,0.05,2.0,0.102
+3.0,Borja Paris,Defensas,CD COLONIA MOSCARDÓ,33,32,3.0,2.0,1.0,31.0,178.0,52,Segunda Federación,0.09,0.06,5.0,0.15,12,7.32,2.36,0.05,-0.45,0.184
+14.0,Hamza,Centrocampistas,CD CORIA,25,6,2.0,0.0,2.0,20.0,174.0,39,Segunda Federación,0.08,0.0,2.0,0.08,7,4.44,1.32,0.05,-0.16,0.12
+7.0,M. Bravo,Delanteros,CD COLONIA MOSCARDÓ,14,6,1.0,1.0,2.0,25.0,180.0,40,Segunda Federación,0.07,0.07,2.0,0.14,12,2.44,0.79,0.05,-1.07,0.117
+9.0,Ángel Carvajal,Delanteros,REAL MADRID C,24,10,4.0,0.0,1.0,21.0,180.0,46,Segunda Federación,0.17,0.0,4.0,0.17,13,11.76,3.14,0.05,-0.04,0.172
+5.0,Héctor,Defensas,UD SANSE,24,21,1.0,1.0,8.0,30.0,182.0,48,Segunda Federación,0.04,0.04,2.0,0.08,8,2.22,0.67,0.05,0.0,0.119
+3.0,Gorka,Defensas,GETAFE B,17,12,1.0,0.0,4.0,20.0,175.0,44,Segunda Federación,0.06,0.0,1.0,0.06,5,2.08,0.61,0.05,0.65,0.091
+8.0,Adrià Capdevila,Centrocampistas,GETAFE B,14,14,1.0,0.0,3.0,21.0,170.0,42,Segunda Federación,0.07,0.0,1.0,0.07,5,2.08,0.61,0.05,0.79,0.089
+18.0,Dani Pichín,Delanteros,CD MÓSTOLES,13,6,1.0,3.0,1.0,33.0,162.0,49,Segunda Federación,0.08,0.23,4.0,0.31,15,2.5,1.0,0.05,-1.15,0.215
+16.0,A. Tovar,Defensas,UD MELILLA,28,13,1.0,2.0,4.0,21.0,175.0,47,Segunda Federación,0.04,0.07,3.0,0.11,11,2.44,0.75,0.05,-0.04,0.148
+2.0,Emi Hernández,Defensas,RAYO MAJADAHONDA,34,34,2.0,0.0,3.0,24.0,175.0,55,Segunda Federación,0.06,0.0,2.0,0.06,4,4.88,1.2,0.05,0.32,0.139
+19.0,Cristian Ebea,Defensas,RAYO MAJADAHONDA,17,1,0.0,1.0,2.0,24.0,,45,Segunda Federación,0.0,0.06,1.0,0.06,4,0.0,0.0,0.05,0.65,0.091
+14.0,R. Salama,Centrocampistas,RAYO MAJADAHONDA,32,28,0.0,2.0,7.0,28.0,185.0,53,Segunda Federación,0.0,0.06,2.0,0.06,4,0.0,0.0,0.05,0.34,0.133
+2.0,A. Moya,Defensas,REAL MADRID C,22,16,2.0,2.0,5.0,19.0,167.0,45,Segunda Federación,0.09,0.09,4.0,0.18,13,5.88,1.57,0.05,-0.05,0.172
+27.0,D. Montoya,Defensas,CDA NAVALCARNERO,14,10,1.0,0.0,0.0,22.0,188.0,42,Segunda Federación,0.07,0.0,1.0,0.07,6,2.33,0.62,0.05,0.21,0.085
+8.0,Nanclares,Centrocampistas,UNIÓN ADARVE,29,26,1.0,5.0,6.0,31.0,180.0,48,Segunda Federación,0.03,0.17,6.0,0.21,14,4.55,0.89,0.05,-0.38,0.208
+21.0,Luis Castillo,Centrocampistas,UB CONQUENSE,34,20,1.0,2.0,4.0,28.0,176.0,48,Segunda Federación,0.03,0.06,3.0,0.09,10,2.7,0.73,0.04,-0.12,0.153
+11.0,Beka Kavtaradze,Delanteros,UD MELILLA,21,10,1.0,1.0,3.0,25.0,185.0,58,Segunda Federación,0.05,0.05,2.0,0.1,11,2.44,0.75,0.04,-0.05,0.121
+20.0,G. Palmero,Defensas,TENERIFE B,14,11,1.0,0.0,2.0,23.0,169.0,47,Segunda Federación,0.07,0.0,1.0,0.07,9,1.85,0.7,0.04,0.21,0.085
+23.0,Manu Farrando,Defensas,CF TALAVERA,28,21,0.0,1.0,5.0,30.0,183.0,53,Segunda Federación,0.0,0.04,1.0,0.04,3,0.0,0.0,0.04,0.82,0.113
+17.0,F. Viñuela,Delanteros,CP CACEREÑO,23,10,1.0,0.0,1.0,26.0,183.0,49,Segunda Federación,0.04,0.0,1.0,0.04,2,1.75,0.49,0.04,1.17,0.101
+21.0,Eric Iglesias,Delanteros,UD MELILLA,10,0,1.0,0.0,1.0,23.0,186.0,43,Segunda Federación,0.1,0.0,1.0,0.1,11,2.44,0.75,0.04,-0.1,0.089
+10.0,Javi Navas,Delanteros,UNIÓN ADARVE,6,0,0.0,1.0,2.0,34.0,182.0,49,Segunda Federación,0.0,0.17,1.0,0.17,14,0.0,0.0,0.04,-1.83,0.105
+19.0,Jesús Ogando,Delanteros,UNIÓN ADARVE,26,9,2.0,3.0,4.0,20.0,176.0,42,Segunda Federación,0.08,0.12,5.0,0.19,14,9.09,1.78,0.04,-0.42,0.187
+16.0,Guerrero,Centrocampistas,CD MÓSTOLES,29,29,5.0,2.0,4.0,23.0,182.0,45,Segunda Federación,0.17,0.07,7.0,0.24,15,12.5,5.0,0.04,-0.52,0.225
+20.0,Kevin,Defensas,CD MÓSTOLES,9,7,1.0,1.0,1.0,24.0,,47,Segunda Federación,0.11,0.11,2.0,0.22,15,2.5,1.0,0.04,-1.67,0.145
+7.0,R. Pescador,Delanteros,CD ILLESCAS,22,12,3.0,4.0,4.0,25.0,,40,Segunda Federación,0.14,0.18,7.0,0.32,16,10.0,3.3,0.04,-0.77,0.251
+10.0,Sergio Gomez,Centrocampistas,CD CORIA,32,30,0.0,2.0,6.0,35.0,177.0,51,Segunda Federación,0.0,0.06,2.0,0.06,7,0.0,0.0,0.04,-0.12,0.129
+6.0,M. Ortiz,Defensas,UD SANSE,27,15,1.0,1.0,8.0,24.0,167.0,52,Segunda Federación,0.04,0.04,2.0,0.07,8,2.22,0.67,0.04,0.0,0.121
+3.0,R. Álvarez,Delanteros,CDA NAVALCARNERO,17,7,1.0,0.0,6.0,23.0,,39,Segunda Federación,0.06,0.0,1.0,0.06,6,2.33,0.62,0.04,0.18,0.087
+2.0,Álex Blanco,Defensas,UNIÓN ADARVE,31,31,2.0,3.0,11.0,23.0,180.0,46,Segunda Federación,0.06,0.1,5.0,0.16,14,9.09,1.78,0.04,-0.35,0.184
+11.0,Álvaro Portilla,Delanteros,CD MÓSTOLES,28,25,2.0,4.0,8.0,39.0,180.0,52,Segunda Federación,0.07,0.14,6.0,0.21,15,5.0,2.0,0.04,-0.54,0.204
+9.0,Albur,Delanteros,UNIÓN ADARVE,20,16,3.0,0.0,4.0,33.0,,48,Segunda Federación,0.15,0.0,3.0,0.15,14,13.64,2.68,0.04,-0.55,0.144
+31.0,Pablo Pascual,Centrocampistas,RAYO MAJADAHONDA,27,14,1.0,0.0,3.0,19.0,,37,Segunda Federación,0.04,0.0,1.0,0.04,4,2.44,0.6,0.03,0.41,0.107
+3.0,Eu Gutiérrez,Defensas,CD ILLESCAS,23,20,2.0,4.0,3.0,23.0,175.0,49,Segunda Federación,0.09,0.17,6.0,0.26,16,6.67,2.2,0.03,-0.74,0.218
+23.0,D. Moubeke,Centrocampistas,CD CORIA,19,7,1.0,0.0,7.0,19.0,182.0,33,Segunda Federación,0.05,0.0,1.0,0.05,7,2.22,0.66,0.03,-0.21,0.084
+5.0,Carlos Rodríguez,Centrocampistas,REAL MADRID C,28,20,3.0,0.0,10.0,21.0,190.0,41,Segunda Federación,0.11,0.0,3.0,0.11,13,8.82,2.36,0.03,-0.04,0.148
+28.0,Tomy,Delanteros,UNIÓN ADARVE,17,12,2.0,0.0,3.0,18.0,,33,Segunda Federación,0.12,0.0,2.0,0.12,14,9.09,1.78,0.03,-0.65,0.117
+16.0,Pepe Delgado,Centrocampistas,UNIÓN ADARVE,14,13,1.0,1.0,2.0,31.0,175.0,51,Segunda Federación,0.07,0.07,2.0,0.14,14,4.55,0.89,0.03,-0.79,0.119
+11.0,J. Borona,Delanteros,CD ILLESCAS,23,19,3.0,3.0,8.0,25.0,167.0,46,Segunda Federación,0.13,0.13,6.0,0.26,16,10.0,3.3,0.03,-0.74,0.218
+11.0,Yassin Tallal,Delanteros,GETAFE B,27,14,0.0,1.0,2.0,20.0,173.0,43,Segunda Federación,0.0,0.04,1.0,0.04,5,0.0,0.0,0.03,0.41,0.107
+8.0,Pablo Olivares,Centrocampistas,UB CONQUENSE,33,28,0.0,2.0,7.0,23.0,178.0,48,Segunda Federación,0.0,0.06,2.0,0.06,10,0.0,0.0,0.03,-0.12,0.132
+8.0,Romera,Centrocampistas,REAL MADRID C,32,31,1.0,2.0,9.0,23.0,176.0,49,Segunda Federación,0.03,0.06,3.0,0.09,13,2.94,0.79,0.03,-0.03,0.148
+12.0,J. Requés,Centrocampistas,UNIÓN ADARVE,28,20,4.0,0.0,4.0,23.0,184.0,47,Segunda Federación,0.14,0.0,4.0,0.14,14,18.18,3.57,0.03,-0.39,0.163
+4.0,A. Trespalacios,Defensas,GETAFE B,26,20,1.0,0.0,9.0,23.0,185.0,51,Segunda Federación,0.04,0.0,1.0,0.04,5,2.08,0.61,0.03,0.42,0.104
+27.0,Melvin Ukpeigbe,Defensas,REAL MADRID C,18,16,0.0,2.0,3.0,18.0,176.0,39,Segunda Federación,0.0,0.11,2.0,0.11,13,0.0,0.0,0.03,-0.06,0.118
+3.0,Manolo Molina,Defensas,CF TALAVERA,33,33,0.0,1.0,8.0,29.0,189.0,55,Segunda Federación,0.0,0.03,1.0,0.03,3,0.0,0.0,0.03,0.7,0.121
+22.0,Lolo González,Centrocampistas,UD MELILLA,15,15,1.0,0.0,5.0,33.0,186.0,60,Segunda Federación,0.07,0.0,1.0,0.07,11,2.44,0.75,0.03,-0.07,0.086
+11.0,Iker Perera,Delanteros,CD COLONIA MOSCARDÓ,26,12,1.0,1.0,2.0,21.0,,41,Segunda Federación,0.04,0.04,2.0,0.08,12,2.44,0.79,0.03,-0.58,0.12
+17.0,D. Espinosa,Defensas,CDA NAVALCARNERO,25,22,0.0,1.0,5.0,21.0,,44,Segunda Federación,0.0,0.04,1.0,0.04,6,0.0,0.0,0.03,0.12,0.098
+5.0,Joserra,Defensas,CP CACEREÑO,31,29,1.0,0.0,6.0,26.0,178.0,52,Segunda Federación,0.03,0.0,1.0,0.03,2,1.75,0.49,0.03,0.87,0.116
+14.0,Miguel García,Defensas,CD COLONIA MOSCARDÓ,12,10,1.0,0.0,3.0,23.0,,39,Segunda Federación,0.08,0.0,1.0,0.08,12,2.44,0.79,0.03,-1.25,0.073
+2.0,Iván Martínez,Defensas,CP CACEREÑO,29,25,1.0,0.0,3.0,23.0,,46,Segunda Federación,0.03,0.0,1.0,0.03,2,1.75,0.49,0.03,0.93,0.111
+7.0,Óscar Gil,Delanteros,CD MÓSTOLES,13,5,1.0,1.0,2.0,24.0,,42,Segunda Federación,0.08,0.08,2.0,0.15,15,2.5,1.0,0.03,-1.15,0.119
+5.0,Fratelli,Defensas,CDA NAVALCARNERO,25,19,1.0,0.0,13.0,32.0,185.0,51,Segunda Federación,0.04,0.0,1.0,0.04,6,2.33,0.62,0.03,0.12,0.098
+10.0,David Rodríguez,Centrocampistas,CDA NAVALCARNERO,24,15,1.0,0.0,13.0,33.0,,51,Segunda Federación,0.04,0.0,1.0,0.04,6,2.33,0.62,0.03,0.12,0.096
+6.0,Adrián,Defensas,UNIÓN ADARVE,32,32,3.0,0.0,8.0,32.0,187.0,52,Segunda Federación,0.09,0.0,3.0,0.09,14,13.64,2.68,0.02,-0.34,0.145
+8.0,A. Sardinero,Delanteros,CD ILLESCAS,10,5,1.0,1.0,1.0,34.0,175.0,44,Segunda Federación,0.1,0.1,2.0,0.2,16,3.33,1.1,0.02,-1.7,0.136
+3.0,Fran Varela,Defensas,UD MELILLA,16,16,0.0,1.0,3.0,30.0,174.0,59,Segunda Federación,0.0,0.06,1.0,0.06,11,0.0,0.0,0.02,-0.06,0.083
+6.0,Dani Ramos,Defensas,RAYO MAJADAHONDA,30,29,0.0,1.0,6.0,30.0,185.0,56,Segunda Federación,0.0,0.03,1.0,0.03,4,0.0,0.0,0.02,0.37,0.109
+8.0,Álex Ortolà,Centrocampistas,CDA NAVALCARNERO,31,28,1.0,0.0,8.0,25.0,185.0,51,Segunda Federación,0.03,0.0,1.0,0.03,6,2.33,0.62,0.02,0.1,0.11
+23.0,Carlos Martín,Delanteros,CD ILLESCAS,24,12,4.0,0.0,2.0,20.0,174.0,43,Segunda Federación,0.17,0.0,4.0,0.17,16,13.33,4.4,0.02,-0.71,0.167
+21.0,Joan Mascaró,Centrocampistas,REAL MADRID C,17,10,0.0,1.0,3.0,19.0,,39,Segunda Federación,0.0,0.06,1.0,0.06,13,0.0,0.0,0.02,-0.06,0.086
+26.0,Emanuel,Defensas,REAL MADRID C,13,4,1.0,0.0,2.0,17.0,,36,Segunda Federación,0.08,0.0,1.0,0.08,13,2.94,0.79,0.02,-0.08,0.086
+20.0,Iñaki León,Defensas,CD CORIA,32,30,0.0,1.0,8.0,25.0,185.0,48,Segunda Federación,0.0,0.03,1.0,0.03,7,0.0,0.0,0.02,-0.12,0.111
+9.0,M. Siverio,Delanteros,UNION SUR YAIZA,32,29,6.0,5.0,3.0,30.0,184.0,54,Segunda Federación,0.19,0.16,11.0,0.34,17,17.65,6.83,0.02,-0.66,0.293
+20.0,Manu Serrano,Defensas,REAL MADRID C,33,29,0.0,2.0,5.0,21.0,175.0,54,Segunda Federación,0.0,0.06,2.0,0.06,13,0.0,0.0,0.02,-0.03,0.133
+6.0,J. Álvarez,Centrocampistas,UB CONQUENSE,27,22,0.0,1.0,9.0,24.0,,48,Segunda Federación,0.0,0.04,1.0,0.04,10,0.0,0.0,0.02,-0.15,0.102
+23.0,I. Rodriguez,Delanteros,CD COLONIA MOSCARDÓ,19,4,0.0,1.0,3.0,22.0,,42,Segunda Federación,0.0,0.05,1.0,0.05,12,0.0,0.0,0.02,-0.79,0.08
+8.0,Isaac,Centrocampistas,CD COLONIA MOSCARDÓ,30,22,0.0,2.0,6.0,27.0,,47,Segunda Federación,0.0,0.07,2.0,0.07,12,0.0,0.0,0.02,-0.5,0.126
+14.0,Ayala,Defensas,UD SANSE,25,25,1.0,0.0,9.0,24.0,180.0,48,Segunda Federación,0.04,0.0,1.0,0.04,8,2.22,0.67,0.02,0.0,0.098
+22.0,Álvaro Ginés,Delanteros,REAL MADRID C,27,20,1.0,1.0,4.0,20.0,177.0,41,Segunda Federación,0.04,0.04,2.0,0.07,13,2.94,0.79,0.02,-0.04,0.121
+24.0,B. Sina,Defensas,UB CONQUENSE,27,19,1.0,0.0,6.0,22.0,184.0,46,Segunda Federación,0.04,0.0,1.0,0.04,10,2.7,0.73,0.02,-0.15,0.102
+5.0,M. Domínguez,Defensas,CD MÓSTOLES,20,13,1.0,1.0,3.0,21.0,,35,Segunda Federación,0.05,0.05,2.0,0.1,15,2.5,1.0,0.02,-0.75,0.113
+7.0,Baba,Delanteros,REAL MADRID C,14,5,1.0,0.0,4.0,20.0,174.0,31,Segunda Federación,0.07,0.0,1.0,0.07,13,2.94,0.79,0.02,-0.07,0.083
+21.0,Yago Gandoy,Centrocampistas,UD SANSE,32,23,0.0,1.0,11.0,26.0,178.0,50,Segunda Federación,0.0,0.03,1.0,0.03,8,0.0,0.0,0.02,0.0,0.112
+6.0,Oier Herrera,Centrocampistas,CD MÓSTOLES,14,14,2.0,0.0,4.0,23.0,182.0,43,Segunda Federación,0.14,0.0,2.0,0.14,15,5.0,2.0,0.02,-1.07,0.117
+3.0,D. Leitón,Defensas,CD MÓSTOLES,27,23,2.0,1.0,9.0,21.0,,50,Segunda Federación,0.07,0.04,3.0,0.11,15,5.0,2.0,0.02,-0.56,0.141
+12.0,David López,Delanteros,CD ILLESCAS,30,9,6.0,0.0,3.0,20.0,189.0,41,Segunda Federación,0.2,0.0,6.0,0.2,16,20.0,6.6,0.02,-0.57,0.204
+10.0,D. Moreno,Delanteros,CD ILLESCAS,21,9,1.0,2.0,2.0,22.0,,39,Segunda Federación,0.05,0.1,3.0,0.14,16,3.33,1.1,0.02,-0.81,0.139
+23.0,Álvaro José,Centrocampistas,UD SANSE,27,11,1.0,0.0,5.0,22.0,,39,Segunda Federación,0.04,0.0,1.0,0.04,8,2.22,0.67,0.02,0.0,0.103
+15.0,Víctor,Defensas,CD MÓSTOLES,32,32,3.0,0.0,11.0,22.0,,48,Segunda Federación,0.09,0.0,3.0,0.09,15,7.5,3.0,0.02,-0.47,0.144
+3.0,Sergio Huecas,Defensas,UNIÓN ADARVE,22,15,0.0,1.0,3.0,21.0,180.0,48,Segunda Federación,0.0,0.05,1.0,0.05,14,0.0,0.0,0.01,-0.5,0.091
+4.0,Recalde,Defensas,CD COLONIA MOSCARDÓ,28,28,1.0,0.0,12.0,27.0,,47,Segunda Federación,0.04,0.0,1.0,0.04,12,2.44,0.79,0.01,-0.54,0.102
+6.0,Marouane,Centrocampistas,CD COLONIA MOSCARDÓ,30,27,1.0,0.0,9.0,23.0,185.0,44,Segunda Federación,0.03,0.0,1.0,0.03,12,2.44,0.79,0.01,-0.5,0.102
+25.0,G. De La Rosa,Defensas,CD MÓSTOLES,24,11,1.0,0.0,7.0,21.0,174.0,39,Segunda Federación,0.04,0.0,1.0,0.04,15,2.5,1.0,0.01,-0.62,0.09
+22.0,Israel,Defensas,UNIÓN ADARVE,29,26,1.0,0.0,8.0,25.0,,50,Segunda Federación,0.03,0.0,1.0,0.03,14,4.55,0.89,0.01,-0.38,0.1
+23.0,Eduard Calin,Centrocampistas,UNIÓN ADARVE,28,23,0.0,1.0,10.0,28.0,175.0,45,Segunda Federación,0.0,0.04,1.0,0.04,14,0.0,0.0,0.01,-0.39,0.103
+21.0,Cheki,Centrocampistas,CD ILLESCAS,31,29,0.0,3.0,10.0,29.0,,49,Segunda Federación,0.0,0.1,3.0,0.1,16,0.0,0.0,0.01,-0.55,0.147
+10.0,Hector Rubio,Centrocampistas,UB CONQUENSE,32,14,1.0,0.0,1.0,33.0,,44,Segunda Federación,0.03,0.0,1.0,0.03,10,2.7,0.73,0.01,-0.12,0.111
+4.0,Jaime Calleja,Defensas,REAL MADRID C,28,26,1.0,0.0,5.0,22.0,184.0,51,Segunda Federación,0.04,0.0,1.0,0.04,13,2.94,0.79,0.01,-0.04,0.106
+15.0,C. Llamas,Centrocampistas,UNIÓN ADARVE,16,8,1.0,0.0,7.0,26.0,185.0,46,Segunda Federación,0.06,0.0,1.0,0.06,14,4.55,0.89,0.01,-0.69,0.078
+8.0,Narbona,Centrocampistas,CD MÓSTOLES,24,15,0.0,1.0,5.0,24.0,,48,Segunda Federación,0.0,0.04,1.0,0.04,15,0.0,0.0,0.01,-0.62,0.09
+17.0,Matías,Delanteros,UNION SUR YAIZA,20,17,2.0,0.0,0.0,23.0,,46,Segunda Federación,0.1,0.0,2.0,0.1,17,5.88,2.28,0.01,-1.05,0.111
+11.0,E. Trovento,Delanteros,UNION SUR YAIZA,26,25,3.0,1.0,5.0,30.0,165.0,51,Segunda Federación,0.12,0.04,4.0,0.15,17,8.82,3.41,0.01,-0.81,0.16
+24.0,Crespo,Centrocampistas,CD COLONIA MOSCARDÓ,28,22,0.0,1.0,4.0,26.0,,51,Segunda Federación,0.0,0.04,1.0,0.04,12,0.0,0.0,0.01,-0.54,0.102
+7.0,Leonel Ferroni,Defensas,UNIÓN ADARVE,25,23,1.0,0.0,9.0,29.0,170.0,53,Segunda Federación,0.04,0.0,1.0,0.04,14,4.55,0.89,0.01,-0.44,0.094
+14.0,Marcos Martin,Centrocampistas,CD ILLESCAS,29,20,0.0,2.0,8.0,22.0,,46,Segunda Federación,0.0,0.07,2.0,0.07,16,0.0,0.0,0.01,-0.59,0.123
+4.0,Manu Galán,Defensas,UD MELILLA,32,32,0.0,1.0,9.0,27.0,182.0,49,Segunda Federación,0.0,0.03,1.0,0.03,11,0.0,0.0,0.01,-0.03,0.112
+15.0,F. Assis,Centrocampistas,UNION SUR YAIZA,32,31,4.0,1.0,6.0,27.0,170.0,49,Segunda Federación,0.12,0.03,5.0,0.16,17,11.76,4.55,0.01,-0.66,0.185
+14.0,I. Sánchez,Centrocampistas,UNIÓN ADARVE,28,25,1.0,0.0,15.0,26.0,182.0,46,Segunda Federación,0.04,0.0,1.0,0.04,14,4.55,0.89,0.01,-0.39,0.103
+22.0,D. Casoppero,Centrocampistas,UNION SUR YAIZA,18,5,1.0,1.0,3.0,26.0,187.0,49,Segunda Federación,0.06,0.06,2.0,0.11,17,2.94,1.14,0.01,-1.17,0.11
+10.0,Margallo,Centrocampistas,UNION SUR YAIZA,14,6,2.0,0.0,4.0,26.0,,44,Segunda Federación,0.14,0.0,2.0,0.14,17,5.88,2.28,0.01,-1.5,0.113
+12.0,M. Navarro,Centrocampistas,CD MÓSTOLES,22,10,1.0,0.0,6.0,24.0,,43,Segunda Federación,0.05,0.0,1.0,0.05,15,2.5,1.0,0.01,-0.68,0.089
+17.0,Aníbal Padrón,Delanteros,CD ILLESCAS,26,14,2.0,0.0,8.0,25.0,177.0,45,Segunda Federación,0.08,0.0,2.0,0.08,16,6.67,2.2,0.01,-0.65,0.119
+21.0,Malick,Delanteros,UNION SUR YAIZA,32,17,5.0,1.0,2.0,28.0,176.0,44,Segunda Federación,0.16,0.03,6.0,0.19,17,14.71,5.69,0.01,-0.66,0.203
+42.0,D. Páez,Delanteros,TENERIFE B,1,0,0.0,0.0,1.0,19.0,,28,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,3.0,0.027
+39.0,H. Hernández,Delanteros,TENERIFE B,1,0,0.0,0.0,0.0,20.0,,39,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,3.0,0.027
+30.0,J. Benito,Centrocampistas,UNIÓN ADARVE,1,1,0.0,0.0,0.0,19.0,,26,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-11.0,-0.084
+27.0,C. Domínguez,Delanteros,TENERIFE B,3,0,0.0,0.0,0.0,20.0,,31,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,1.0,0.017
+15.0,Chete,Defensas,UB CONQUENSE,13,12,0.0,0.0,3.0,30.0,181.0,57,Segunda Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.31,0.036
+33.0,Manu Montero,Delanteros,TENERIFE B,2,0,0.0,0.0,0.0,16.0,,27,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,1.5,0.018
+7.0,Nuha Marong,Delanteros,UNION SUR YAIZA,15,5,0.0,0.0,4.0,31.0,193.0,48,Segunda Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-1.4,0.033
+5.0,Monty,Defensas,UB CONQUENSE,12,10,0.0,0.0,3.0,32.0,188.0,53,Segunda Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.33,0.033
+18.0,Hugo García,Centrocampistas,UNIÓN ADARVE,11,3,0.0,0.0,3.0,20.0,184.0,41,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.0,0.024
+24.0,Sego,Centrocampistas,UNIÓN ADARVE,2,0,0.0,0.0,0.0,20.0,,44,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-5.5,-0.038
+26.0,Ruso,Delanteros,UNIÓN ADARVE,3,0,0.0,0.0,0.0,,,42,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-3.67,-0.02
+17.0,Etxebe,Defensas,UB CONQUENSE,24,16,0.0,0.0,7.0,27.0,170.0,52,Segunda Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.17,0.069
+40.0,C. Hernández,Delanteros,TENERIFE B,7,0,0.0,0.0,0.0,19.0,,36,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.43,0.024
+24.0,A. Rivas,Centrocampistas,UNIÓN ADARVE,1,0,0.0,0.0,0.0,21.0,,46,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-11.0,-0.084
+36.0,D. Pérez,Delanteros,TENERIFE B,1,0,0.0,0.0,1.0,18.0,,32,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,3.0,0.027
+21.0,Fran Santano,Delanteros,UNIÓN ADARVE,6,4,0.0,0.0,1.0,31.0,,49,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.83,0.003
+11.0,Jesús,Delanteros,UB CONQUENSE,16,0,0.0,0.0,0.0,21.0,,38,Segunda Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.25,0.045
+4.0,M. Cava,Defensas,UB CONQUENSE,21,14,0.0,0.0,4.0,25.0,,46,Segunda Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.19,0.06
+7.0,Sergio Pérez,Delanteros,UD SANSE,5,1,0.0,0.0,2.0,28.0,182.0,50,Segunda Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.015
+12.0,A. Molina,Defensas,UNION SUR YAIZA,7,1,0.0,0.0,0.0,26.0,180.0,47,Segunda Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-3.0,-0.003
+30.0,Edu Llorente,Centrocampistas,UD SANSE,6,0,0.0,0.0,1.0,21.0,,45,Segunda Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.018
+3.0,Jordan,Defensas,UNION SUR YAIZA,29,24,2.0,0.0,10.0,29.0,187.0,48,Segunda Federación,0.07,0.0,2.0,0.07,17,5.88,2.28,0.0,-0.72,0.122
+6.0,Ayoze,Defensas,UNION SUR YAIZA,9,6,0.0,0.0,1.0,33.0,188.0,54,Segunda Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-2.33,0.008
+18.0,Pablo Bolado,Defensas,UNION SUR YAIZA,32,31,0.0,1.0,10.0,26.0,180.0,49,Segunda Federación,0.0,0.03,1.0,0.03,17,0.0,0.0,0.0,-0.66,0.107
+4.0,Facu Álvarez,Defensas,UNION SUR YAIZA,31,29,0.0,0.0,11.0,23.0,185.0,48,Segunda Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-0.68,0.086
+2.0,Aarón,Defensas,UD SANSE,14,4,0.0,0.0,0.0,21.0,,42,Segunda Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.041
+20.0,Javi Baldobar,Delanteros,UNIÓN ADARVE,7,1,0.0,0.0,1.0,21.0,191.0,38,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-1.57,0.008
+26.0,Iván García,Defensas,UD SANSE,2,0,0.0,0.0,0.0,20.0,,43,Segunda Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.006
+5.0,Pato,Defensas,UNION SUR YAIZA,27,26,0.0,0.0,15.0,28.0,,51,Segunda Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-0.78,0.073
+26.0,P. Rubio,Delanteros,UNIÓN ADARVE,1,0,0.0,0.0,0.0,,,27,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-11.0,-0.084
+27.0,A. Perez,Delanteros,UNIÓN ADARVE,1,0,0.0,0.0,0.0,19.0,,28,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-11.0,-0.084
+26.0,Anthony,Delanteros,UD MELILLA,3,0,0.0,0.0,0.0,20.0,182.0,35,Segunda Federación,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.33,0.006
+41.0,Guille Martin,Centrocampistas,TENERIFE B,7,2,0.0,0.0,1.0,19.0,,37,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.43,0.024
+27.0,Guti,Delanteros,UNIÓN ADARVE,1,0,0.0,0.0,0.0,19.0,,36,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-11.0,-0.084
+23.0,Armando,Centrocampistas,UD MELILLA,28,21,0.0,0.0,8.0,31.0,179.0,55,Segunda Federación,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.04,0.082
+20.0,Ruizma,Delanteros,UD SANSE,13,5,0.0,0.0,2.0,22.0,,45,Segunda Federación,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.038
+17.0,L. Fernández,Defensas,UNIÓN ADARVE,5,3,0.0,0.0,0.0,21.0,,26,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-2.2,-0.003
+2.0,Víctor López,Defensas,UNION SUR YAIZA,32,23,0.0,0.0,3.0,21.0,,41,Segunda Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-0.66,0.089
+11.0,A. Miñambres,Defensas,UNIÓN ADARVE,3,0,0.0,0.0,2.0,29.0,175.0,45,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-3.67,-0.02
+26.0,Mark Motilla Ferrer,Centrocampistas,UB CONQUENSE,1,0,0.0,0.0,0.0,19.0,,38,Segunda Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-4.0,-0.029
+24.0,M. Jazouli,Centrocampistas,UNION SUR YAIZA,6,6,0.0,0.0,1.0,19.0,172.0,35,Segunda Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-3.5,-0.01
+20.0,Pol Salvador,Centrocampistas,UNION SUR YAIZA,6,1,0.0,0.0,0.0,24.0,185.0,40,Segunda Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-3.5,-0.01
+27.0,P. Mendoza,Centrocampistas,UB CONQUENSE,11,0,0.0,0.0,3.0,19.0,,42,Segunda Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.36,0.03
+4.0,Toboso,Defensas,UNIÓN ADARVE,13,7,0.0,0.0,3.0,29.0,183.0,51,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-0.85,0.032
+27.0,Jorge Pérez,Centrocampistas,UNION SUR YAIZA,3,0,0.0,0.0,0.0,19.0,,31,Segunda Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-7.0,-0.046
+30.0,Julián Martin,Defensas,UNIÓN ADARVE,19,18,0.0,0.0,6.0,19.0,182.0,46,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-0.58,0.051
+23.0,Kain Amoud,Delanteros,UB CONQUENSE,7,4,0.0,0.0,1.0,27.0,176.0,48,Segunda Federación,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.57,0.016
+5.0,Cavafe,Defensas,UNIÓN ADARVE,23,16,0.0,0.0,2.0,26.0,185.0,57,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-0.48,0.064
+5.0,Juanma,Defensas,UNIÓN ADARVE,1,1,0.0,0.0,0.0,35.0,188.0,58,Segunda Federación,0.0,0.0,0.0,0.0,14,0.0,0.0,0.0,-11.0,-0.084
+16.0,Guize Medina,Centrocampistas,UNION SUR YAIZA,18,9,0.0,0.0,1.0,21.0,178.0,44,Segunda Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-1.17,0.044
+8.0,Castaño,Centrocampistas,UNION SUR YAIZA,13,12,0.0,1.0,4.0,32.0,179.0,50,Segunda Federación,0.0,0.08,1.0,0.08,17,0.0,0.0,0.0,-1.62,0.073
+5.0,Isma Armenteros,Defensas,UD MELILLA,15,8,0.0,0.0,2.0,24.0,184.0,43,Segunda Federación,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.07,0.044
+6.0,Anouar Tamoune,Defensas,UD MELILLA,2,0,0.0,0.0,0.0,20.0,181.0,26,Segunda Federación,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.5,0.002
+2.0,C. Barreda,Defensas,CD ATLÉTICO PASO,32,31,1.0,0.0,9.0,36.0,177.0,56,Segunda Federación,0.03,0.0,1.0,0.03,18,3.12,1.57,0.0,-0.84,0.105
+18.0,Damián Cáceres,Centrocampistas,GETAFE B,25,8,0.0,0.0,5.0,22.0,181.0,44,Segunda Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.44,0.077
+32.0,Joel Pérez,Centrocampistas,TENERIFE B,11,7,0.0,0.0,5.0,20.0,,39,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.27,0.034
+20.0,Poveda,Defensas,CD ILLESCAS,13,9,0.0,0.0,1.0,23.0,190.0,46,Segunda Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-1.31,0.028
+21.0,J. Cordero Santos,Delanteros,CD CORIA,3,0,0.0,0.0,0.0,20.0,,35,Segunda Federación,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-1.33,-0.002
+4.0,A. Godínez,Delanteros,CD CORIA,1,0,0.0,0.0,0.0,,,26,Segunda Federación,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-4.0,-0.029
+5.0,D. Gallardo,Defensas,CD GUADALAJARA,30,28,0.0,0.0,5.0,29.0,192.0,53,Segunda Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.27,0.098
+2.0,Palomeque,Defensas,CD GUADALAJARA,4,3,0.0,0.0,1.0,23.0,185.0,45,Segunda Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,9.5,0.087
+29.0,I. Fidalgo,Defensas,CD GUADALAJARA,1,0,0.0,0.0,0.0,,,34,Segunda Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,38.0,0.303
+6.0,Pablo Rojo,Centrocampistas,CD GUADALAJARA,31,29,0.0,0.0,8.0,29.0,,53,Segunda Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.23,0.101
+8.0,Toño Calvo,Centrocampistas,CD GUADALAJARA,27,19,0.0,0.0,6.0,27.0,178.0,49,Segunda Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.41,0.091
+27.0,J. Saz,Centrocampistas,CD GUADALAJARA,3,0,0.0,0.0,1.0,,,45,Segunda Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,12.67,0.109
+31.0,M. De Dompablo,Delanteros,CD GUADALAJARA,1,0,0.0,0.0,0.0,,,37,Segunda Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,38.0,0.303
+27.0,Rojo,Delanteros,CD GUADALAJARA,1,0,0.0,0.0,0.0,23.0,,34,Segunda Federación,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,38.0,0.303
+6.0,Adrián Chaves,Defensas,CD ILLESCAS,25,23,0.0,1.0,3.0,25.0,,49,Segunda Federación,0.0,0.04,1.0,0.04,16,0.0,0.0,0.0,-0.68,0.092
+15.0,Jorge García,Defensas,CD ILLESCAS,24,18,0.0,0.0,3.0,24.0,186.0,46,Segunda Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-0.71,0.065
+18.0,Fer Romero,Defensas,CD ILLESCAS,28,21,1.0,0.0,5.0,24.0,184.0,45,Segunda Federación,0.04,0.0,1.0,0.04,16,3.33,1.1,0.0,-0.61,0.102
+22.0,C. Quintana,Defensas,CD ILLESCAS,20,16,0.0,0.0,8.0,27.0,179.0,45,Segunda Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-0.85,0.052
+4.0,Juanjo,Defensas,CD CORIA,9,6,0.0,0.0,2.0,22.0,188.0,50,Segunda Federación,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.44,0.023
+4.0,Fran Lara,Centrocampistas,CD ILLESCAS,5,4,0.0,0.0,0.0,32.0,180.0,51,Segunda Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-3.4,-0.012
+16.0,Jan Reixach,Centrocampistas,CD ILLESCAS,28,21,0.0,0.0,5.0,23.0,183.0,44,Segunda Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-0.61,0.078
+5.0,Javi Robles,Centrocampistas,CD ILLESCAS,25,20,0.0,0.0,5.0,24.0,190.0,42,Segunda Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-0.68,0.068
+24.0,Ó. Cuadrado,Centrocampistas,CD ILLESCAS,3,0,0.0,0.0,1.0,20.0,,33,Segunda Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-5.67,-0.036
+19.0,Javi Gómez,Delanteros,CD ILLESCAS,26,17,0.0,0.0,5.0,25.0,177.0,47,Segunda Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-0.65,0.071
+27.0,Y. Kone,Delanteros,CD ILLESCAS,4,1,0.0,0.0,0.0,,,37,Segunda Federación,0.0,0.0,0.0,0.0,16,0.0,0.0,0.0,-4.25,-0.022
+17.0,Boriba,Defensas,CD MÓSTOLES,17,9,0.0,0.0,6.0,35.0,180.0,46,Segunda Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-0.88,0.043
+4.0,J. Akapo,Defensas,CD MÓSTOLES,16,15,0.0,0.0,7.0,28.0,188.0,42,Segunda Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-0.94,0.04
+27.0,Nelson García,Defensas,CD MÓSTOLES,1,0,0.0,0.0,0.0,21.0,,38,Segunda Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-15.0,-0.115
+2.0,Álex Sibacha,Defensas,CD MÓSTOLES,1,0,0.0,0.0,0.0,20.0,183.0,30,Segunda Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-15.0,-0.115
+10.0,Cidoncha,Centrocampistas,CD MÓSTOLES,1,1,0.0,0.0,0.0,34.0,181.0,50,Segunda Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-15.0,-0.115
+29.0,H. Aranda,Centrocampistas,CD MÓSTOLES,12,10,0.0,0.0,4.0,19.0,193.0,40,Segunda Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-1.25,0.025
+41.0,D. Martinez,Centrocampistas,CD MÓSTOLES,1,0,0.0,0.0,0.0,,,42,Segunda Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-15.0,-0.115
+22.0,Mikel Carro,Centrocampistas,CD CORIA,28,13,0.0,0.0,6.0,26.0,188.0,43,Segunda Federación,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.14,0.081
+15.0,A. Mateo,Defensas,CD CORIA,24,16,0.0,0.0,3.0,34.0,181.0,53,Segunda Federación,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,-0.17,0.069
+28.0,F. Cordero,Centrocampistas,CD MÓSTOLES,1,0,0.0,0.0,0.0,19.0,,29,Segunda Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-15.0,-0.115
+16.0,G. Roque,Centrocampistas,CD ATLÉTICO PASO,11,4,0.0,0.0,2.0,,,35,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-2.45,0.013
+4.0,Alex Revuelta,Defensas,CD ATLÉTICO PASO,12,9,3.0,0.0,2.0,25.0,191.0,52,Segunda Federación,0.25,0.0,3.0,0.25,18,9.38,4.71,0.0,-2.25,0.168
+23.0,Sergio,Defensas,CD ATLÉTICO PASO,9,9,0.0,0.0,1.0,24.0,186.0,48,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-3.0,0.003
+20.0,O. Boukir,Defensas,CD ATLÉTICO PASO,14,13,0.0,0.0,3.0,20.0,188.0,38,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-1.93,0.026
+26.0,N. Brito,Defensas,CD ATLÉTICO PASO,1,0,0.0,0.0,1.0,18.0,181.0,32,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-27.0,-0.21
+3.0,Fran Perujo,Defensas,CD ATLÉTICO PASO,10,5,0.0,0.0,2.0,30.0,178.0,43,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-2.7,0.008
+27.0,S. Hernández,Defensas,CD ATLÉTICO PASO,1,0,0.0,0.0,0.0,,,30,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-27.0,-0.21
+15.0,Rueda,Defensas,CD ATLÉTICO PASO,13,5,0.0,2.0,3.0,22.0,177.0,41,Segunda Federación,0.0,0.15,2.0,0.15,18,0.0,0.0,0.0,-2.08,0.112
+10.0,Menudo,Centrocampistas,CD ATLÉTICO PASO,32,27,7.0,5.0,5.0,33.0,167.0,55,Segunda Federación,0.22,0.16,12.0,0.38,18,21.88,11.0,0.0,-0.84,0.315
+8.0,D. Guti,Centrocampistas,CD ATLÉTICO PASO,31,26,0.0,0.0,7.0,24.0,171.0,48,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-0.87,0.084
+6.0,Jaime,Centrocampistas,CD ATLÉTICO PASO,14,13,1.0,0.0,7.0,24.0,,49,Segunda Federación,0.07,0.0,1.0,0.07,18,3.12,1.57,0.0,-1.93,0.068
+18.0,Peter Kwabena,Centrocampistas,CD ATLÉTICO PASO,9,2,0.0,0.0,1.0,24.0,,39,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-3.0,0.003
+17.0,David Laguna,Centrocampistas,CD ATLÉTICO PASO,5,4,0.0,0.0,1.0,25.0,,42,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-5.4,-0.028
+28.0,F. López,Centrocampistas,CD ATLÉTICO PASO,1,1,0.0,0.0,0.0,19.0,,30,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-27.0,-0.21
+26.0,A. Lorenzo,Centrocampistas,CD ATLÉTICO PASO,2,0,0.0,0.0,0.0,,,26,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-13.5,-0.101
+10.0,D. Mba,Delanteros,CD COLONIA MOSCARDÓ,32,25,0.0,0.0,3.0,25.0,,47,Segunda Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-0.47,0.09
+14.0,Samu Corral,Delanteros,CD ATLÉTICO PASO,25,21,4.0,0.0,9.0,33.0,184.0,53,Segunda Federación,0.16,0.0,4.0,0.16,18,12.5,6.29,0.0,-1.08,0.161
+9.0,Alex Altube,Delanteros,CD ATLÉTICO PASO,29,19,3.0,1.0,5.0,27.0,187.0,52,Segunda Federación,0.1,0.03,4.0,0.14,18,9.38,4.71,0.0,-0.93,0.162
+7.0,Armiche,Delanteros,CD ATLÉTICO PASO,26,20,5.0,2.0,5.0,37.0,176.0,50,Segunda Federación,0.19,0.08,7.0,0.27,18,15.62,7.86,0.0,-1.04,0.23
+21.0,Alfonso,Delanteros,CD ATLÉTICO PASO,20,15,2.0,3.0,2.0,30.0,179.0,48,Segunda Federación,0.1,0.15,5.0,0.25,18,6.25,3.14,0.0,-1.35,0.198
+19.0,I. Traoré,Delanteros,CD ATLÉTICO PASO,9,2,0.0,0.0,1.0,31.0,175.0,49,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-3.0,0.003
+11.0,D. Dambelleh,Delanteros,CD ATLÉTICO PASO,16,15,1.0,0.0,3.0,22.0,186.0,39,Segunda Federación,0.06,0.0,1.0,0.06,18,3.12,1.57,0.0,-1.69,0.07
+27.0,M. Dambelleh,Delanteros,CD ATLÉTICO PASO,6,0,0.0,0.0,1.0,18.0,,30,Segunda Federación,0.0,0.0,0.0,0.0,18,0.0,0.0,0.0,-4.5,-0.018
+2.0,Fran,Defensas,CD COLONIA MOSCARDÓ,1,1,0.0,0.0,0.0,35.0,177.0,46,Segunda Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-15.0,-0.115
+28.0,Dela,Defensas,CD COLONIA MOSCARDÓ,1,1,0.0,0.0,1.0,22.0,,32,Segunda Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-15.0,-0.115
+29.0,Valentin Medelean,Defensas,CD COLONIA MOSCARDÓ,1,0,0.0,0.0,0.0,18.0,,26,Segunda Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-15.0,-0.115
+16.0,Christian,Centrocampistas,CD COLONIA MOSCARDÓ,3,3,0.0,0.0,1.0,25.0,190.0,50,Segunda Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-5.0,-0.031
+21.0,Cidoncha,Centrocampistas,CD COLONIA MOSCARDÓ,17,12,0.0,0.0,5.0,36.0,185.0,49,Segunda Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-0.88,0.043
+17.0,Mimi,Centrocampistas,CD COLONIA MOSCARDÓ,1,0,0.0,0.0,0.0,20.0,,30,Segunda Federación,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-15.0,-0.115
+28.0,G. Carralon,Centrocampistas,CD MÓSTOLES,1,0,0.0,0.0,0.0,,,34,Segunda Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-15.0,-0.115
+21.0,Gabriel Corberán,Centrocampistas,CD MÓSTOLES,1,0,0.0,0.0,0.0,19.0,,26,Segunda Federación,0.0,0.0,0.0,0.0,15,0.0,0.0,0.0,-15.0,-0.115
+8.0,Félix Alonso,Centrocampistas,TENERIFE B,23,19,0.0,0.0,2.0,24.0,184.0,45,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.13,0.069
+6.0,Cristian Perea,Centrocampistas,REAL MADRID C,28,21,0.0,0.0,10.0,19.0,175.0,47,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.04,0.082
+28.0,C. Sall,Defensas,RAYO MAJADAHONDA,1,0,0.0,0.0,0.0,,,29,Segunda Federación,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,11.0,0.09
+22.0,Pedro Mosquera,Centrocampistas,RAYO MAJADAHONDA,13,12,0.0,0.0,3.0,37.0,184.0,62,Segunda Federación,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.85,0.045
+8.0,Ato,Centrocampistas,RAYO MAJADAHONDA,24,23,0.0,0.0,6.0,26.0,,47,Segunda Federación,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.46,0.074
+10.0,Álvaro Bravo,Centrocampistas,RAYO MAJADAHONDA,1,0,0.0,0.0,0.0,27.0,181.0,46,Segunda Federación,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,11.0,0.09
+27.0,P. Bomwinsum,Centrocampistas,RAYO MAJADAHONDA,1,0,0.0,0.0,0.0,,,30,Segunda Federación,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,11.0,0.09
+23.0,Adalberto,Delanteros,RAYO MAJADAHONDA,4,0,0.0,0.0,0.0,22.0,178.0,34,Segunda Federación,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,2.75,0.033
+29.0,Mario Rivas,Defensas,REAL MADRID C,7,5,0.0,0.0,0.0,18.0,188.0,36,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.14,0.019
+43.0,Diego Aguado,Defensas,REAL MADRID C,2,2,0.0,0.0,1.0,18.0,180.0,39,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.5,0.002
+3.0,Alfredo Sotres,Defensas,REAL MADRID C,32,32,0.0,0.0,11.0,21.0,,47,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.03,0.094
+38.0,Jesús Fortea,Defensas,REAL MADRID C,6,5,0.0,0.0,0.0,18.0,179.0,48,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.17,0.016
+34.0,Óscar Mesa,Defensas,REAL MADRID C,2,1,0.0,0.0,0.0,18.0,178.0,43,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.5,0.002
+14.0,Álex Pérez,Defensas,REAL MADRID C,16,13,0.0,0.0,4.0,19.0,194.0,39,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.06,0.047
+17.0,N. Sanchez,Defensas,REAL MADRID C,9,0,0.0,0.0,0.0,19.0,,38,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.11,0.026
+40.0,Jorge Cestero,Centrocampistas,REAL MADRID C,1,0,0.0,0.0,0.0,19.0,,38,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-1.0,-0.005
+32.0,M. Cuesta,Defensas,RAYO MAJADAHONDA,1,0,0.0,0.0,0.0,19.0,,43,Segunda Federación,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,11.0,0.09
+32.0,Beto,Centrocampistas,REAL MADRID C,1,0,0.0,0.0,0.0,18.0,,30,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-1.0,-0.005
+44.0,I. Gascón,Centrocampistas,REAL MADRID C,2,2,0.0,0.0,1.0,18.0,,31,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.5,0.002
+30.0,Carlos Diez,Centrocampistas,REAL MADRID C,1,0,0.0,0.0,0.0,18.0,,31,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-1.0,-0.005
+41.0,Daniel Yañez,Delanteros,REAL MADRID C,2,1,0.0,0.0,0.0,18.0,177.0,41,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.5,0.002
+39.0,Aimar Santiago,Delanteros,REAL MADRID C,1,1,0.0,0.0,0.0,19.0,,40,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-1.0,-0.005
+23.0,Manu Márquez,Delanteros,REAL MADRID C,10,5,0.0,0.0,0.0,21.0,172.0,42,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.1,0.029
+35.0,C. Ortiz,Delanteros,REAL MADRID C,3,0,0.0,0.0,0.0,19.0,,39,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.33,0.006
+28.0,Álex Sánchez,Delanteros,REAL MADRID C,4,0,0.0,0.0,0.0,19.0,,34,Segunda Federación,0.0,0.0,0.0,0.0,13,0.0,0.0,0.0,-0.25,0.01
+15.0,Julen Zubelzu,Defensas,TENERIFE B,16,14,0.0,0.0,3.0,20.0,,49,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.19,0.049
+14.0,A. Pérez,Defensas,TENERIFE B,16,14,0.0,0.0,4.0,23.0,189.0,48,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.19,0.049
+31.0,Matías Pezzolesi,Defensas,TENERIFE B,22,15,0.0,0.0,7.0,22.0,184.0,43,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.14,0.066
+28.0,Diego Gouveia,Defensas,TENERIFE B,5,4,0.0,0.0,1.0,20.0,,39,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.6,0.019
+43.0,Mena,Defensas,TENERIFE B,1,1,0.0,0.0,0.0,22.0,187.0,35,Segunda Federación,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,3.0,0.027
+26.0,J. Tejedor,Defensas,RAYO MAJADAHONDA,16,9,0.0,0.0,4.0,20.0,192.0,41,Segunda Federación,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.69,0.053
+4.0,Villalón,Defensas,RAYO MAJADAHONDA,8,6,0.0,0.0,1.0,29.0,187.0,54,Segunda Federación,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,1.38,0.034
+2.0,Luis Aguado,Defensas,CDA NAVALCARNERO,28,26,0.0,0.0,11.0,25.0,173.0,54,Segunda Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.11,0.083
+4.0,A. Crespo,Defensas,CP CACEREÑO,28,26,0.0,0.0,3.0,32.0,185.0,54,Segunda Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0.96,0.09
+35.0,R. Esteban,Defensas,CDA NAVALCARNERO,1,0,0.0,0.0,0.0,20.0,,39,Segunda Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,3.0,0.027
+33.0,A. Martínez,Defensas,CDA NAVALCARNERO,1,0,0.0,0.0,0.0,,,38,Segunda Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,3.0,0.027
+4.0,Mario Camero,Defensas,CDA NAVALCARNERO,6,2,0.0,0.0,1.0,21.0,178.0,42,Segunda Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.5,0.022
+32.0,D. Sandes,Centrocampistas,CDA NAVALCARNERO,2,0,0.0,0.0,0.0,20.0,,35,Segunda Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,1.5,0.018
+37.0,Marcos Moraga,Delanteros,CDA NAVALCARNERO,4,0,0.0,0.0,0.0,20.0,,36,Segunda Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.75,0.018
+31.0,Juanjo,Delanteros,CDA NAVALCARNERO,1,0,0.0,0.0,0.0,22.0,,39,Segunda Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,3.0,0.027
+38.0,C. Piaggio,Delanteros,CDA NAVALCARNERO,1,0,0.0,0.0,0.0,,,26,Segunda Federación,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,3.0,0.027
+21.0,Jaime Paredes,Defensas,CF TALAVERA,31,27,0.0,0.0,5.0,34.0,178.0,55,Segunda Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,0.74,0.097
+14.0,K. Bamba,Defensas,CF TALAVERA,5,0,0.0,0.0,1.0,21.0,,29,Segunda Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,4.6,0.051
+32.0,A. Salcedo,Centrocampistas,CF TALAVERA,1,0,0.0,0.0,0.0,21.0,,42,Segunda Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,23.0,0.185
+29.0,M. Aceituno,Centrocampistas,CF TALAVERA,3,1,0.0,0.0,0.0,20.0,171.0,37,Segunda Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,7.67,0.069
+18.0,Tass,Centrocampistas,CF TALAVERA,12,5,0.0,0.0,1.0,23.0,185.0,42,Segunda Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.92,0.05
+31.0,P. Ndiaye,Delanteros,CF TALAVERA,2,0,0.0,0.0,0.0,,,31,Segunda Federación,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,11.5,0.097
+3.0,Javi Barrio,Defensas,CP CACEREÑO,19,16,0.0,0.0,5.0,34.0,186.0,51,Segunda Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,1.42,0.067
+5.0,A. Arribas,Defensas,RAYO MAJADAHONDA,7,5,0.0,0.0,1.0,36.0,182.0,57,Segunda Federación,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,1.57,0.033
+23.0,Alex Rodríguez,Defensas,CP CACEREÑO,11,7,0.0,0.0,4.0,23.0,178.0,40,Segunda Federación,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2.45,0.052
+2.0,Ismael Bekhoucha,Defensas,GETAFE B,27,21,0.0,0.0,9.0,20.0,180.0,47,Segunda Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.41,0.083
+35.0,Alejandro Campos,Defensas,GETAFE B,1,1,0.0,0.0,0.0,18.0,,39,Segunda Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,11.0,0.09
+28.0,Joel Fortes,Defensas,GETAFE B,2,0,0.0,0.0,0.0,18.0,,38,Segunda Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,5.5,0.049
+26.0,Facu Esnaider,Centrocampistas,GETAFE B,20,14,0.0,0.0,6.0,23.0,184.0,47,Segunda Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.55,0.063
+5.0,Dan Ojog,Defensas,CD ATLÉTICO PASO,29,28,1.0,0.0,10.0,30.0,182.0,51,Segunda Federación,0.03,0.0,1.0,0.03,18,3.12,1.57,0.0,-0.93,0.096
+33.0,M. Calderero,Centrocampistas,GETAFE B,3,0,0.0,0.0,1.0,19.0,,40,Segunda Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,3.67,0.038
+32.0,S. Salazar,Centrocampistas,GETAFE B,2,2,0.0,0.0,1.0,17.0,,30,Segunda Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,5.5,0.049
+29.0,A. Riquelme,Centrocampistas,GETAFE B,19,3,0.0,0.0,5.0,19.0,,38,Segunda Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.58,0.06
+31.0,Sang-min Lee,Centrocampistas,GETAFE B,1,0,0.0,0.0,0.0,19.0,169.0,31,Segunda Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,11.0,0.09
+30.0,M. Cuéllar,Delanteros,GETAFE B,2,0,0.0,0.0,0.0,18.0,191.0,32,Segunda Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,5.5,0.049
+22.0,Pochito,Delanteros,GETAFE B,5,2,0.0,0.0,0.0,21.0,171.0,46,Segunda Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,2.2,0.032
+27.0,I. Motos,Delanteros,GETAFE B,10,1,0.0,0.0,1.0,17.0,,37,Segunda Federación,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.1,0.038
+19.0,Cayena,Delanteros,UNION SUR YAIZA,15,4,0.0,0.0,2.0,21.0,,40,Segunda Federación,0.0,0.0,0.0,0.0,17,0.0,0.0,0.0,-1.4,0.033
